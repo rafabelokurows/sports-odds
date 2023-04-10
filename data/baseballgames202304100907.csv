@@ -1,0 +1,29 @@
+id_x,name_x,date,isLive_x,relativeDesktopUrl,openMarketCount,id_y,name_y,name,lx,odds,line,betTrend
+3001645523,Twins - White Sox,2023-04-10T18:10:00Z,False,min-twins-chi-white-sox-m3001645523,16,3135140085,Vencedor do jogo,Twins,1,1.88,101,48
+3001645523,Twins - White Sox,2023-04-10T18:10:00Z,False,min-twins-chi-white-sox-m3001645523,16,3135140085,Vencedor do jogo,White Sox,2,1.88,301,52
+3001645498,Cleveland Guardians - Yankees,2023-04-10T22:10:00Z,False,cleveland-guardians-ny-yankees-m3001645498,16,3135140102,Vencedor do jogo,Cleveland Guardians,1,1.65,101,38
+3001645498,Cleveland Guardians - Yankees,2023-04-10T22:10:00Z,False,cleveland-guardians-ny-yankees-m3001645498,16,3135140102,Vencedor do jogo,Yankees,2,2.2,301,62
+3001645460,Pirates - Astros,2023-04-10T22:35:00Z,False,pit-pirates-hou-astros-m3001645460,16,3135140084,Vencedor do jogo,Pirates,1,2.5,101,17
+3001645460,Pirates - Astros,2023-04-10T22:35:00Z,False,pit-pirates-hou-astros-m3001645460,16,3135140084,Vencedor do jogo,Astros,2,1.52,301,83
+3001645451,Orioles - Athletics,2023-04-10T22:35:00Z,False,bal-orioles-oak-athletics-m3001645451,16,3135172205,Vencedor do jogo,Orioles,1,1.52,101,87
+3001645451,Orioles - Athletics,2023-04-10T22:35:00Z,False,bal-orioles-oak-athletics-m3001645451,16,3135172205,Vencedor do jogo,Athletics,2,2.45,301,13
+3001645469,Phillies - Marlins,2023-04-10T22:40:00Z,False,phi-phillies-mia-marlins-m3001645469,16,3135140118,Vencedor do jogo,Phillies,1,1.95,101,77
+3001645469,Phillies - Marlins,2023-04-10T22:40:00Z,False,phi-phillies-mia-marlins-m3001645469,16,3135140118,Vencedor do jogo,Marlins,2,1.82,301,23
+3001645515,Rays - Red Sox,2023-04-10T22:40:00Z,False,tb-rays-bos-red-sox-m3001645515,16,3135174451,Vencedor do jogo,Rays,1,1.6,101,59
+3001645515,Rays - Red Sox,2023-04-10T22:40:00Z,False,tb-rays-bos-red-sox-m3001645515,16,3135174451,Vencedor do jogo,Red Sox,2,2.3,301,41
+3001645499,Mets - Padres,2023-04-10T23:10:00Z,False,ny-mets-sd-padres-m3001645499,16,3135140104,Vencedor do jogo,Mets,1,1.7,101,76
+3001645499,Mets - Padres,2023-04-10T23:10:00Z,False,ny-mets-sd-padres-m3001645499,16,3135140104,Vencedor do jogo,Padres,2,2.15,301,24
+3001645531,Braves - Reds,2023-04-10T23:20:00Z,False,atl-braves-cin-reds-m3001645531,16,3135173080,Vencedor do jogo,Braves,1,1.5,101,100
+3001645531,Braves - Reds,2023-04-10T23:20:00Z,False,atl-braves-cin-reds-m3001645531,16,3135173080,Vencedor do jogo,Reds,2,2.55,301,0
+3001645512,Cubs - Mariners,2023-04-10T23:40:00Z,False,chi-cubs-sea-mariners-m3001645512,16,3135172610,Vencedor do jogo,Cubs,1,2.3,101,6
+3001645512,Cubs - Mariners,2023-04-10T23:40:00Z,False,chi-cubs-sea-mariners-m3001645512,16,3135172610,Vencedor do jogo,Mariners,2,1.6,301,94
+3001645528,Rangers - Royals,2023-04-11T00:05:00Z,False,tex-rangers-kc-royals-m3001645528,16,3135140117,Vencedor do jogo,Rangers,1,1.55,101,89
+3001645528,Rangers - Royals,2023-04-11T00:05:00Z,False,tex-rangers-kc-royals-m3001645528,16,3135140117,Vencedor do jogo,Royals,2,2.4,301,11
+3001645492,Rockies - Cardinals,2023-04-11T00:40:00Z,False,col-rockies-sl-cardinals-m3001645492,16,3135174311,Vencedor do jogo,Rockies,1,2.2,101,32
+3001645492,Rockies - Cardinals,2023-04-11T00:40:00Z,False,col-rockies-sl-cardinals-m3001645492,16,3135174311,Vencedor do jogo,Cardinals,2,1.65,301,68
+3001645467,Angels - Nationals,2023-04-11T01:40:00Z,False,la-angels-was-nationals-m3001645467,16,3135174312,Vencedor do jogo,Angels,1,1.38,101,100
+3001645467,Angels - Nationals,2023-04-11T01:40:00Z,False,la-angels-was-nationals-m3001645467,16,3135174312,Vencedor do jogo,Nationals,2,3.0,301,0
+3001645495,Diamondbacks - Brewers,2023-04-11T01:40:00Z,False,ari-diamondbacks-mil-brewers-m3001645495,16,3135174356,Vencedor do jogo,Diamondbacks,1,1.65,101,69
+3001645495,Diamondbacks - Brewers,2023-04-11T01:40:00Z,False,ari-diamondbacks-mil-brewers-m3001645495,16,3135174356,Vencedor do jogo,Brewers,2,2.2,301,31
+3001645448,Giants - Dodgers,2023-04-11T01:45:00Z,False,sf-giants-la-dodgers-m3001645448,16,3135174338,Vencedor do jogo,Giants,1,2.25,101,21
+3001645448,Giants - Dodgers,2023-04-11T01:45:00Z,False,sf-giants-la-dodgers-m3001645448,16,3135174338,Vencedor do jogo,Dodgers,2,1.62,301,79
