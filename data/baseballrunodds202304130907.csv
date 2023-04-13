@@ -1,0 +1,133 @@
+gameid,date,home,away,competition,name,odds,is_cashoutable
+3001695626,2023-04-13T09:00:00Z,Yomiuri Giants,Hanshin Tigers,Japão - NPB,Acima de 6.5,1.6,False
+3001695626,2023-04-13T09:00:00Z,Yomiuri Giants,Hanshin Tigers,Japão - NPB,Abaixo de 6.5,2.35,False
+3001695626,2023-04-13T09:00:00Z,Yomiuri Giants,Hanshin Tigers,Japão - NPB,Acima de 7.5,1.95,False
+3001695626,2023-04-13T09:00:00Z,Yomiuri Giants,Hanshin Tigers,Japão - NPB,Abaixo de 7.5,1.85,False
+3001695626,2023-04-13T09:00:00Z,Yomiuri Giants,Hanshin Tigers,Japão - NPB,Acima de 8.5,2.3,False
+3001695626,2023-04-13T09:00:00Z,Yomiuri Giants,Hanshin Tigers,Japão - NPB,Abaixo de 8.5,1.6,False
+3001695620,2023-04-13T09:00:00Z,Saitama Seibu Lions,Chiba Lotte Marines,Japão - NPB,Acima de 5.5,1.65,False
+3001695620,2023-04-13T09:00:00Z,Saitama Seibu Lions,Chiba Lotte Marines,Japão - NPB,Abaixo de 5.5,2.2,False
+3001695620,2023-04-13T09:00:00Z,Saitama Seibu Lions,Chiba Lotte Marines,Japão - NPB,Acima de 6.5,1.95,False
+3001695620,2023-04-13T09:00:00Z,Saitama Seibu Lions,Chiba Lotte Marines,Japão - NPB,Abaixo de 6.5,1.85,False
+3001695620,2023-04-13T09:00:00Z,Saitama Seibu Lions,Chiba Lotte Marines,Japão - NPB,Acima de 7.5,2.5,False
+3001695620,2023-04-13T09:00:00Z,Saitama Seibu Lions,Chiba Lotte Marines,Japão - NPB,Abaixo de 7.5,1.52,False
+3001772030,2023-04-13T09:30:00Z,NC Dinos,KT Wiz,Coreia do Sul - KBO,Acima de 7.5,1.52,False
+3001772030,2023-04-13T09:30:00Z,NC Dinos,KT Wiz,Coreia do Sul - KBO,Abaixo de 7.5,2.45,False
+3001772030,2023-04-13T09:30:00Z,NC Dinos,KT Wiz,Coreia do Sul - KBO,Acima de 8.5,1.65,False
+3001772030,2023-04-13T09:30:00Z,NC Dinos,KT Wiz,Coreia do Sul - KBO,Abaixo de 8.5,2.15,False
+3001772030,2023-04-13T09:30:00Z,NC Dinos,KT Wiz,Coreia do Sul - KBO,Acima de 9.5,2.0,False
+3001772030,2023-04-13T09:30:00Z,NC Dinos,KT Wiz,Coreia do Sul - KBO,Abaixo de 9.5,1.75,False
+3001772029,2023-04-13T09:30:00Z,Lotte Giants,LG Twins,Coreia do Sul - KBO,Acima de 8.5,1.58,False
+3001772029,2023-04-13T09:30:00Z,Lotte Giants,LG Twins,Coreia do Sul - KBO,Abaixo de 8.5,2.3,False
+3001772029,2023-04-13T09:30:00Z,Lotte Giants,LG Twins,Coreia do Sul - KBO,Acima de 9.5,1.88,False
+3001772029,2023-04-13T09:30:00Z,Lotte Giants,LG Twins,Coreia do Sul - KBO,Abaixo de 9.5,1.85,False
+3001772029,2023-04-13T09:30:00Z,Lotte Giants,LG Twins,Coreia do Sul - KBO,Acima de 10.5,2.2,False
+3001772029,2023-04-13T09:30:00Z,Lotte Giants,LG Twins,Coreia do Sul - KBO,Abaixo de 10.5,1.65,False
+3001772025,2023-04-13T09:30:00Z,Doosan Bears,Kiwoon Heroes,Coreia do Sul - KBO,Acima de 6.5,1.58,False
+3001772025,2023-04-13T09:30:00Z,Doosan Bears,Kiwoon Heroes,Coreia do Sul - KBO,Abaixo de 6.5,2.3,False
+3001772025,2023-04-13T09:30:00Z,Doosan Bears,Kiwoon Heroes,Coreia do Sul - KBO,Acima de 7.5,1.9,False
+3001772025,2023-04-13T09:30:00Z,Doosan Bears,Kiwoon Heroes,Coreia do Sul - KBO,Abaixo de 7.5,1.82,False
+3001772025,2023-04-13T09:30:00Z,Doosan Bears,Kiwoon Heroes,Coreia do Sul - KBO,Acima de 8.5,2.3,False
+3001772025,2023-04-13T09:30:00Z,Doosan Bears,Kiwoon Heroes,Coreia do Sul - KBO,Abaixo de 8.5,1.58,False
+3001772027,2023-04-13T09:30:00Z,KIA Tigers,Hanwha Eagles,Coreia do Sul - KBO,Acima de 7.5,1.68,False
+3001772027,2023-04-13T09:30:00Z,KIA Tigers,Hanwha Eagles,Coreia do Sul - KBO,Abaixo de 7.5,2.1,False
+3001772027,2023-04-13T09:30:00Z,KIA Tigers,Hanwha Eagles,Coreia do Sul - KBO,Acima de 8.5,1.95,False
+3001772027,2023-04-13T09:30:00Z,KIA Tigers,Hanwha Eagles,Coreia do Sul - KBO,Abaixo de 8.5,1.8,False
+3001772027,2023-04-13T09:30:00Z,KIA Tigers,Hanwha Eagles,Coreia do Sul - KBO,Acima de 9.5,2.4,False
+3001772027,2023-04-13T09:30:00Z,KIA Tigers,Hanwha Eagles,Coreia do Sul - KBO,Abaixo de 9.5,1.52,False
+3001772026,2023-04-13T09:30:00Z,Samsung Lions,SSG Landers,Coreia do Sul - KBO,Acima de 8.5,1.52,False
+3001772026,2023-04-13T09:30:00Z,Samsung Lions,SSG Landers,Coreia do Sul - KBO,Abaixo de 8.5,2.4,False
+3001772026,2023-04-13T09:30:00Z,Samsung Lions,SSG Landers,Coreia do Sul - KBO,Acima de 9.5,1.8,False
+3001772026,2023-04-13T09:30:00Z,Samsung Lions,SSG Landers,Coreia do Sul - KBO,Abaixo de 9.5,1.95,False
+3001772026,2023-04-13T09:30:00Z,Samsung Lions,SSG Landers,Coreia do Sul - KBO,Acima de 10.5,2.1,False
+3001772026,2023-04-13T09:30:00Z,Samsung Lions,SSG Landers,Coreia do Sul - KBO,Abaixo de 10.5,1.7,False
+3001645453,2023-04-13T17:05:00Z,BAL Orioles,OAK Athletics,EUA - MLB,Acima de 7.5,1.38,False
+3001645453,2023-04-13T17:05:00Z,BAL Orioles,OAK Athletics,EUA - MLB,Abaixo de 7.5,3.0,False
+3001645453,2023-04-13T17:05:00Z,BAL Orioles,OAK Athletics,EUA - MLB,Acima de 8.5,1.52,False
+3001645453,2023-04-13T17:05:00Z,BAL Orioles,OAK Athletics,EUA - MLB,Abaixo de 8.5,2.45,False
+3001645453,2023-04-13T17:05:00Z,BAL Orioles,OAK Athletics,EUA - MLB,Acima de 9.5,1.8,False
+3001645453,2023-04-13T17:05:00Z,BAL Orioles,OAK Athletics,EUA - MLB,Abaixo de 9.5,2.0,False
+3001645453,2023-04-13T17:05:00Z,BAL Orioles,OAK Athletics,EUA - MLB,Acima de 10.5,2.05,False
+3001645453,2023-04-13T17:05:00Z,BAL Orioles,OAK Athletics,EUA - MLB,Abaixo de 10.5,1.72,False
+3001645453,2023-04-13T17:05:00Z,BAL Orioles,OAK Athletics,EUA - MLB,Acima de 11.5,2.55,False
+3001645453,2023-04-13T17:05:00Z,BAL Orioles,OAK Athletics,EUA - MLB,Abaixo de 11.5,1.5,False
+3001645524,2023-04-13T17:10:00Z,TB Rays,BOS Red Sox,EUA - MLB,Acima de 6.5,1.45,False
+3001645524,2023-04-13T17:10:00Z,TB Rays,BOS Red Sox,EUA - MLB,Abaixo de 6.5,2.7,False
+3001645524,2023-04-13T17:10:00Z,TB Rays,BOS Red Sox,EUA - MLB,Acima de 7.5,1.75,False
+3001645524,2023-04-13T17:10:00Z,TB Rays,BOS Red Sox,EUA - MLB,Abaixo de 7.5,2.05,False
+3001645524,2023-04-13T17:10:00Z,TB Rays,BOS Red Sox,EUA - MLB,Acima de 8.5,2.0,False
+3001645524,2023-04-13T17:10:00Z,TB Rays,BOS Red Sox,EUA - MLB,Abaixo de 8.5,1.78,False
+3001645524,2023-04-13T17:10:00Z,TB Rays,BOS Red Sox,EUA - MLB,Acima de 9.5,2.55,False
+3001645524,2023-04-13T17:10:00Z,TB Rays,BOS Red Sox,EUA - MLB,Abaixo de 9.5,1.5,False
+3001645524,2023-04-13T17:10:00Z,TB Rays,BOS Red Sox,EUA - MLB,Acima de 10.5,3.05,False
+3001645524,2023-04-13T17:10:00Z,TB Rays,BOS Red Sox,EUA - MLB,Abaixo de 10.5,1.38,False
+3001645493,2023-04-13T22:40:00Z,CIN Reds,PHI Phillies,EUA - MLB,Acima de 6.5,1.35,False
+3001645493,2023-04-13T22:40:00Z,CIN Reds,PHI Phillies,EUA - MLB,Abaixo de 6.5,3.05,False
+3001645493,2023-04-13T22:40:00Z,CIN Reds,PHI Phillies,EUA - MLB,Acima de 7.5,1.6,False
+3001645493,2023-04-13T22:40:00Z,CIN Reds,PHI Phillies,EUA - MLB,Abaixo de 7.5,2.3,False
+3001645493,2023-04-13T22:40:00Z,CIN Reds,PHI Phillies,EUA - MLB,Acima de 8.5,1.82,False
+3001645493,2023-04-13T22:40:00Z,CIN Reds,PHI Phillies,EUA - MLB,Abaixo de 8.5,1.95,False
+3001645493,2023-04-13T22:40:00Z,CIN Reds,PHI Phillies,EUA - MLB,Acima de 9.5,2.25,False
+3001645493,2023-04-13T22:40:00Z,CIN Reds,PHI Phillies,EUA - MLB,Abaixo de 9.5,1.62,False
+3001645493,2023-04-13T22:40:00Z,CIN Reds,PHI Phillies,EUA - MLB,Acima de 10.5,2.65,False
+3001645493,2023-04-13T22:40:00Z,CIN Reds,PHI Phillies,EUA - MLB,Abaixo de 10.5,1.45,False
+3001645462,2023-04-13T23:05:00Z,NY Yankees,MIN Twins,EUA - MLB,Acima de 5.5,1.32,False
+3001645462,2023-04-13T23:05:00Z,NY Yankees,MIN Twins,EUA - MLB,Abaixo de 5.5,3.4,False
+3001645462,2023-04-13T23:05:00Z,NY Yankees,MIN Twins,EUA - MLB,Acima de 6.5,1.45,False
+3001645462,2023-04-13T23:05:00Z,NY Yankees,MIN Twins,EUA - MLB,Abaixo de 6.5,2.7,False
+3001645462,2023-04-13T23:05:00Z,NY Yankees,MIN Twins,EUA - MLB,Acima de 7.5,1.75,False
+3001645462,2023-04-13T23:05:00Z,NY Yankees,MIN Twins,EUA - MLB,Abaixo de 7.5,2.05,False
+3001645462,2023-04-13T23:05:00Z,NY Yankees,MIN Twins,EUA - MLB,Acima de 8.5,2.05,False
+3001645462,2023-04-13T23:05:00Z,NY Yankees,MIN Twins,EUA - MLB,Abaixo de 8.5,1.75,False
+3001645462,2023-04-13T23:05:00Z,NY Yankees,MIN Twins,EUA - MLB,Acima de 9.5,2.55,False
+3001645462,2023-04-13T23:05:00Z,NY Yankees,MIN Twins,EUA - MLB,Abaixo de 9.5,1.5,False
+3001645442,2023-04-13T23:05:00Z,TOR Blue Jays,DET Tigers,EUA - MLB,Acima de 7.5,1.45,False
+3001645442,2023-04-13T23:05:00Z,TOR Blue Jays,DET Tigers,EUA - MLB,Abaixo de 7.5,2.65,False
+3001645442,2023-04-13T23:05:00Z,TOR Blue Jays,DET Tigers,EUA - MLB,Acima de 8.5,1.65,False
+3001645442,2023-04-13T23:05:00Z,TOR Blue Jays,DET Tigers,EUA - MLB,Abaixo de 8.5,2.25,False
+3001645442,2023-04-13T23:05:00Z,TOR Blue Jays,DET Tigers,EUA - MLB,Acima de 9.5,2.0,False
+3001645442,2023-04-13T23:05:00Z,TOR Blue Jays,DET Tigers,EUA - MLB,Abaixo de 9.5,1.8,False
+3001645442,2023-04-13T23:05:00Z,TOR Blue Jays,DET Tigers,EUA - MLB,Acima de 10.5,2.3,False
+3001645442,2023-04-13T23:05:00Z,TOR Blue Jays,DET Tigers,EUA - MLB,Abaixo de 10.5,1.6,False
+3001645442,2023-04-13T23:05:00Z,TOR Blue Jays,DET Tigers,EUA - MLB,Acima de 11.5,2.85,False
+3001645442,2023-04-13T23:05:00Z,TOR Blue Jays,DET Tigers,EUA - MLB,Abaixo de 11.5,1.4,False
+3001645522,2023-04-13T23:45:00Z,SL Cardinals,PIT Pirates,EUA - MLB,Acima de 6.5,1.38,False
+3001645522,2023-04-13T23:45:00Z,SL Cardinals,PIT Pirates,EUA - MLB,Abaixo de 6.5,2.95,False
+3001645522,2023-04-13T23:45:00Z,SL Cardinals,PIT Pirates,EUA - MLB,Acima de 7.5,1.65,False
+3001645522,2023-04-13T23:45:00Z,SL Cardinals,PIT Pirates,EUA - MLB,Abaixo de 7.5,2.2,False
+3001645522,2023-04-13T23:45:00Z,SL Cardinals,PIT Pirates,EUA - MLB,Acima de 8.5,1.9,False
+3001645522,2023-04-13T23:45:00Z,SL Cardinals,PIT Pirates,EUA - MLB,Abaixo de 8.5,1.88,False
+3001645522,2023-04-13T23:45:00Z,SL Cardinals,PIT Pirates,EUA - MLB,Acima de 9.5,2.35,False
+3001645522,2023-04-13T23:45:00Z,SL Cardinals,PIT Pirates,EUA - MLB,Abaixo de 9.5,1.58,False
+3001645522,2023-04-13T23:45:00Z,SL Cardinals,PIT Pirates,EUA - MLB,Acima de 10.5,2.8,False
+3001645522,2023-04-13T23:45:00Z,SL Cardinals,PIT Pirates,EUA - MLB,Abaixo de 10.5,1.42,False
+3001645529,2023-04-14T01:40:00Z,SD Padres,MIL Brewers,EUA - MLB,Acima de 6.5,1.38,False
+3001645529,2023-04-14T01:40:00Z,SD Padres,MIL Brewers,EUA - MLB,Abaixo de 6.5,3.0,False
+3001645529,2023-04-14T01:40:00Z,SD Padres,MIL Brewers,EUA - MLB,Acima de 7.5,1.62,False
+3001645529,2023-04-14T01:40:00Z,SD Padres,MIL Brewers,EUA - MLB,Abaixo de 7.5,2.25,False
+3001645529,2023-04-14T01:40:00Z,SD Padres,MIL Brewers,EUA - MLB,Acima de 8.5,1.88,False
+3001645529,2023-04-14T01:40:00Z,SD Padres,MIL Brewers,EUA - MLB,Abaixo de 8.5,1.9,False
+3001645529,2023-04-14T01:40:00Z,SD Padres,MIL Brewers,EUA - MLB,Acima de 9.5,2.35,False
+3001645529,2023-04-14T01:40:00Z,SD Padres,MIL Brewers,EUA - MLB,Abaixo de 9.5,1.58,False
+3001645529,2023-04-14T01:40:00Z,SD Padres,MIL Brewers,EUA - MLB,Acima de 10.5,2.75,False
+3001645529,2023-04-14T01:40:00Z,SD Padres,MIL Brewers,EUA - MLB,Abaixo de 10.5,1.42,False
+3001773532,2023-04-14T09:30:00Z,Samsung Lions,Lotte Giants,Coreia do Sul - KBO,Acima de 7.5,1.45,False
+3001773532,2023-04-14T09:30:00Z,Samsung Lions,Lotte Giants,Coreia do Sul - KBO,Abaixo de 7.5,2.65,False
+3001773532,2023-04-14T09:30:00Z,Samsung Lions,Lotte Giants,Coreia do Sul - KBO,Acima de 8.5,1.62,False
+3001773532,2023-04-14T09:30:00Z,Samsung Lions,Lotte Giants,Coreia do Sul - KBO,Abaixo de 8.5,2.2,False
+3001773532,2023-04-14T09:30:00Z,Samsung Lions,Lotte Giants,Coreia do Sul - KBO,Acima de 9.5,1.95,False
+3001773532,2023-04-14T09:30:00Z,Samsung Lions,Lotte Giants,Coreia do Sul - KBO,Abaixo de 9.5,1.8,False
+3001773532,2023-04-14T09:30:00Z,Samsung Lions,Lotte Giants,Coreia do Sul - KBO,Acima de 10.5,2.25,False
+3001773532,2023-04-14T09:30:00Z,Samsung Lions,Lotte Giants,Coreia do Sul - KBO,Abaixo de 10.5,1.6,False
+3001773532,2023-04-14T09:30:00Z,Samsung Lions,Lotte Giants,Coreia do Sul - KBO,Acima de 11.5,2.8,False
+3001773532,2023-04-14T09:30:00Z,Samsung Lions,Lotte Giants,Coreia do Sul - KBO,Abaixo de 11.5,1.4,False
+3001773535,2023-04-14T09:30:00Z,Kiwoon Heroes,KIA Tigers,Coreia do Sul - KBO,Acima de 7.5,1.45,False
+3001773535,2023-04-14T09:30:00Z,Kiwoon Heroes,KIA Tigers,Coreia do Sul - KBO,Abaixo de 7.5,2.6,False
+3001773535,2023-04-14T09:30:00Z,Kiwoon Heroes,KIA Tigers,Coreia do Sul - KBO,Acima de 8.5,1.65,False
+3001773535,2023-04-14T09:30:00Z,Kiwoon Heroes,KIA Tigers,Coreia do Sul - KBO,Abaixo de 8.5,2.15,False
+3001773535,2023-04-14T09:30:00Z,Kiwoon Heroes,KIA Tigers,Coreia do Sul - KBO,Acima de 9.5,1.95,False
+3001773535,2023-04-14T09:30:00Z,Kiwoon Heroes,KIA Tigers,Coreia do Sul - KBO,Abaixo de 9.5,1.78,False
+3001773535,2023-04-14T09:30:00Z,Kiwoon Heroes,KIA Tigers,Coreia do Sul - KBO,Acima de 10.5,2.3,False
+3001773535,2023-04-14T09:30:00Z,Kiwoon Heroes,KIA Tigers,Coreia do Sul - KBO,Abaixo de 10.5,1.58,False
+3001773535,2023-04-14T09:30:00Z,Kiwoon Heroes,KIA Tigers,Coreia do Sul - KBO,Acima de 11.5,2.9,False
+3001773535,2023-04-14T09:30:00Z,Kiwoon Heroes,KIA Tigers,Coreia do Sul - KBO,Abaixo de 11.5,1.38,False

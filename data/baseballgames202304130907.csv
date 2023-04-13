@@ -1,0 +1,33 @@
+id_x,name_x,date,isLive_x,relativeDesktopUrl,openMarketCount,id_y,name_y,name,lx,odds,line,betTrend
+3001695626,Yomiuri Giants - Hanshin Tigers,2023-04-13T09:00:00Z,True,yomiuri-giants-hanshin-tigers-m3001695626,10,3135615802,Vencedor do jogo,Yomiuri Giants,1,1.75,101,
+3001695626,Yomiuri Giants - Hanshin Tigers,2023-04-13T09:00:00Z,True,yomiuri-giants-hanshin-tigers-m3001695626,10,3135615802,Vencedor do jogo,Hanshin Tigers,2,2.05,301,
+3001695620,Saitama Seibu Lions - Chiba Lotte Marines,2023-04-13T09:00:00Z,True,saitama-seibu-lions-chiba-lotte-marines-m3001695620,0,3135615221,Vencedor do jogo,Saitama Seibu Lions,1,1.8,101,
+3001695620,Saitama Seibu Lions - Chiba Lotte Marines,2023-04-13T09:00:00Z,True,saitama-seibu-lions-chiba-lotte-marines-m3001695620,0,3135615221,Vencedor do jogo,Chiba Lotte Marines,2,2.0,301,
+3001772030,NC Dinos - KT Wiz,2023-04-13T09:30:00Z,False,nc-dinos-kt-wiz-m3001772030,8,3135654719,Vencedor do jogo,NC Dinos,1,1.4,101,100.0
+3001772030,NC Dinos - KT Wiz,2023-04-13T09:30:00Z,False,nc-dinos-kt-wiz-m3001772030,8,3135654719,Vencedor do jogo,KT Wiz,2,2.8,301,0.0
+3001772029,Lotte Giants - LG Twins,2023-04-13T09:30:00Z,False,lotte-giants-lg-twins-m3001772029,8,3135654694,Vencedor do jogo,Lotte Giants,1,2.35,101,4.0
+3001772029,Lotte Giants - LG Twins,2023-04-13T09:30:00Z,False,lotte-giants-lg-twins-m3001772029,8,3135654694,Vencedor do jogo,LG Twins,2,1.55,301,96.0
+3001772025,Doosan Bears - Kiwoon Heroes,2023-04-13T09:30:00Z,False,doosan-bears-kiwoon-heroes-m3001772025,8,3135654693,Vencedor do jogo,Doosan Bears,1,2.35,101,10.0
+3001772025,Doosan Bears - Kiwoon Heroes,2023-04-13T09:30:00Z,False,doosan-bears-kiwoon-heroes-m3001772025,8,3135654693,Vencedor do jogo,Kiwoon Heroes,2,1.55,301,90.0
+3001772027,KIA Tigers - Hanwha Eagles,2023-04-13T09:30:00Z,False,kia-tigers-hanwha-eagles-m3001772027,8,3135654718,Vencedor do jogo,KIA Tigers,1,1.7,101,98.0
+3001772027,KIA Tigers - Hanwha Eagles,2023-04-13T09:30:00Z,False,kia-tigers-hanwha-eagles-m3001772027,8,3135654718,Vencedor do jogo,Hanwha Eagles,2,2.05,301,2.0
+3001772026,Samsung Lions - SSG Landers,2023-04-13T09:30:00Z,False,samsung-lions-ssg-landers-m3001772026,8,3135654726,Vencedor do jogo,Samsung Lions,1,2.25,101,3.0
+3001772026,Samsung Lions - SSG Landers,2023-04-13T09:30:00Z,False,samsung-lions-ssg-landers-m3001772026,8,3135654726,Vencedor do jogo,SSG Landers,2,1.6,301,97.0
+3001645453,Orioles - Athletics,2023-04-13T17:05:00Z,False,bal-orioles-oak-athletics-m3001645453,16,3135725693,Vencedor do jogo,Orioles,1,1.42,101,94.0
+3001645453,Orioles - Athletics,2023-04-13T17:05:00Z,False,bal-orioles-oak-athletics-m3001645453,16,3135725693,Vencedor do jogo,Athletics,2,2.8,301,6.0
+3001645524,Rays - Red Sox,2023-04-13T17:10:00Z,False,tb-rays-bos-red-sox-m3001645524,16,3135635017,Vencedor do jogo,Rays,1,1.42,101,90.0
+3001645524,Rays - Red Sox,2023-04-13T17:10:00Z,False,tb-rays-bos-red-sox-m3001645524,16,3135635017,Vencedor do jogo,Red Sox,2,2.75,301,10.0
+3001645493,Reds - Phillies,2023-04-13T22:40:00Z,False,cin-reds-phi-phillies-m3001645493,16,3135682105,Vencedor do jogo,Reds,1,1.82,101,39.0
+3001645493,Reds - Phillies,2023-04-13T22:40:00Z,False,cin-reds-phi-phillies-m3001645493,16,3135682105,Vencedor do jogo,Phillies,2,1.95,301,61.0
+3001645462,Yankees - Twins,2023-04-13T23:05:00Z,False,ny-yankees-min-twins-m3001645462,16,3135681996,Vencedor do jogo,Yankees,1,1.65,101,93.0
+3001645462,Yankees - Twins,2023-04-13T23:05:00Z,False,ny-yankees-min-twins-m3001645462,16,3135681996,Vencedor do jogo,Twins,2,2.2,301,7.0
+3001645442,Blue Jays - Tigers,2023-04-13T23:05:00Z,False,tor-blue-jays-det-tigers-m3001645442,16,3135635151,Vencedor do jogo,Blue Jays,1,1.42,101,92.0
+3001645442,Blue Jays - Tigers,2023-04-13T23:05:00Z,False,tor-blue-jays-det-tigers-m3001645442,16,3135635151,Vencedor do jogo,Tigers,2,2.85,301,8.0
+3001645522,Cardinals - Pirates,2023-04-13T23:45:00Z,False,sl-cardinals-pit-pirates-m3001645522,16,3135634903,Vencedor do jogo,Cardinals,1,1.38,101,97.0
+3001645522,Cardinals - Pirates,2023-04-13T23:45:00Z,False,sl-cardinals-pit-pirates-m3001645522,16,3135634903,Vencedor do jogo,Pirates,2,3.0,301,3.0
+3001645529,Padres - Brewers,2023-04-14T01:40:00Z,False,sd-padres-mil-brewers-m3001645529,16,3135651475,Vencedor do jogo,Padres,1,1.68,101,84.0
+3001645529,Padres - Brewers,2023-04-14T01:40:00Z,False,sd-padres-mil-brewers-m3001645529,16,3135651475,Vencedor do jogo,Brewers,2,2.15,301,16.0
+3001773532,Samsung Lions - Lotte Giants,2023-04-14T09:30:00Z,False,samsung-lions-lotte-giants-m3001773532,14,3135686243,Vencedor do jogo,Samsung Lions,1,1.82,101,
+3001773532,Samsung Lions - Lotte Giants,2023-04-14T09:30:00Z,False,samsung-lions-lotte-giants-m3001773532,14,3135686243,Vencedor do jogo,Lotte Giants,2,1.9,301,
+3001773535,Kiwoon Heroes - KIA Tigers,2023-04-14T09:30:00Z,False,kiwoon-heroes-kia-tigers-m3001773535,14,3135678725,Vencedor do jogo,Kiwoon Heroes,1,1.8,101,
+3001773535,Kiwoon Heroes - KIA Tigers,2023-04-14T09:30:00Z,False,kiwoon-heroes-kia-tigers-m3001773535,14,3135678725,Vencedor do jogo,KIA Tigers,2,1.95,301,
