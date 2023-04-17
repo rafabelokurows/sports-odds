@@ -3,9 +3,14 @@ import pandas as pd
 import requests
 
 def game_runs(game_id):
-    url = 'https://offer.cdn.begmedia.com/api/pub/v5/events/'+game_id+'?application=1024&countrycode=pt&language=pt&sitecode=ptpt'
-    response2 = requests.get(url)
-    df3=pd.DataFrame(response2.json()['grouped_markets'][1])
+    try:
+        url = 'https://offer.cdn.begmedia.com/api/pub/v5/events/'+game_id+'?application=1024&countrycode=pt&language=pt&sitecode=ptpt'
+        response2 = requests.get(url)
+        df3 = pd.DataFrame(response2.json()['grouped_markets'][1])
+    except IndexError:
+        # Handle the error here
+        print("Erro")
+        return
     df3 = df3.reset_index()
     dfaux2=df3['markets'].apply(pd.Series)
     dfaux3=dfaux2['selections'].apply(pd.Series)
