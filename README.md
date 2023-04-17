@@ -6,4 +6,5 @@ Long-term Goal: seeing if we could make f*cking money with this 🤑
 
 Using Python and Github Actions for now
 
-- [] Add fallback for when API call returns no rows
+- [x] Add fallback for when API call returns no rows
+- [ ] Start analyzing results to see trends on odds for one side or another
