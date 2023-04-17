@@ -5,7 +5,7 @@ on:
   #push:
   #  branches: main
   schedule:
-    - cron: '0 2,9,14,20 * * *'
+    - cron: '0 2,9,12,15,18,20,23 * * *'
   workflow_dispatch:
     
 jobs:
