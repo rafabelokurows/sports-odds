@@ -1,0 +1,31 @@
+id_x,name_x,date,isLive_x,relativeDesktopUrl,openMarketCount,id_y,name_y,name,lx,odds,line,betTrend
+3001794243,Marlins - Cubs,2023-04-30T16:05:00Z,False,mia-marlins-chi-cubs-m3001794243,10,3139040541,Vencedor do jogo,Marlins,1,2.35,101,9.0
+3001794243,Marlins - Cubs,2023-04-30T16:05:00Z,False,mia-marlins-chi-cubs-m3001794243,10,3139040541,Vencedor do jogo,Cubs,2,1.52,301,91.0
+3001794282,Nationals - Pirates,2023-04-30T17:35:00Z,False,was-nationals-pit-pirates-m3001794282,16,3139100586,Vencedor do jogo,Nationals,1,2.15,101,15.0
+3001794282,Nationals - Pirates,2023-04-30T17:35:00Z,False,was-nationals-pit-pirates-m3001794282,16,3139100586,Vencedor do jogo,Pirates,2,1.68,301,85.0
+3001653743,Red Sox - Cleveland Guardians,2023-04-30T17:35:00Z,False,bos-red-sox-cleveland-guardians-m3001653743,16,3139040816,Vencedor do jogo,Red Sox,1,1.78,101,89.0
+3001653743,Red Sox - Cleveland Guardians,2023-04-30T17:35:00Z,False,bos-red-sox-cleveland-guardians-m3001653743,16,3139040816,Vencedor do jogo,Cleveland Guardians,2,2.0,301,11.0
+3001794249,Blue Jays - Mariners,2023-04-30T17:35:00Z,False,tor-blue-jays-sea-mariners-m3001794249,16,3139045502,Vencedor do jogo,Blue Jays,1,1.48,101,94.0
+3001794249,Blue Jays - Mariners,2023-04-30T17:35:00Z,False,tor-blue-jays-sea-mariners-m3001794249,16,3139045502,Vencedor do jogo,Mariners,2,2.65,301,6.0
+3001794255,Tigers - Orioles,2023-04-30T17:40:00Z,False,det-tigers-bal-orioles-m3001794255,16,3139100585,Vencedor do jogo,Tigers,1,2.25,101,11.0
+3001794255,Tigers - Orioles,2023-04-30T17:40:00Z,False,det-tigers-bal-orioles-m3001794255,16,3139100585,Vencedor do jogo,Orioles,2,1.62,301,89.0
+3001794247,Twins - Royals,2023-04-30T18:10:00Z,False,min-twins-kc-royals-m3001794247,16,3139046922,Vencedor do jogo,Twins,1,1.45,101,99.0
+3001794247,Twins - Royals,2023-04-30T18:10:00Z,False,min-twins-kc-royals-m3001794247,16,3139046922,Vencedor do jogo,Royals,2,2.75,301,1.0
+3001653625,White Sox - Rays,2023-04-30T18:10:00Z,False,chi-white-sox-tb-rays-m3001653625,16,3139046667,Vencedor do jogo,White Sox,1,2.6,101,1.0
+3001653625,White Sox - Rays,2023-04-30T18:10:00Z,False,chi-white-sox-tb-rays-m3001653625,16,3139046667,Vencedor do jogo,Rays,2,1.48,301,99.0
+3001794275,Brewers - Angels,2023-04-30T18:10:00Z,False,mil-brewers-la-angels-m3001794275,16,3139051000,Vencedor do jogo,Brewers,1,1.75,101,89.0
+3001794275,Brewers - Angels,2023-04-30T18:10:00Z,False,mil-brewers-la-angels-m3001794275,16,3139051000,Vencedor do jogo,Angels,2,2.05,301,11.0
+3001794252,Rangers - Yankees,2023-04-30T18:35:00Z,False,tex-rangers-ny-yankees-m3001794252,16,3139048593,Vencedor do jogo,Rangers,1,2.0,101,21.0
+3001794252,Rangers - Yankees,2023-04-30T18:35:00Z,False,tex-rangers-ny-yankees-m3001794252,16,3139048593,Vencedor do jogo,Yankees,2,1.78,301,79.0
+3001794251,Rockies - Diamondbacks,2023-04-30T19:10:00Z,False,col-rockies-ari-diamondbacks-m3001794251,16,3139040546,Vencedor do jogo,Rockies,1,2.0,101,1.0
+3001794251,Rockies - Diamondbacks,2023-04-30T19:10:00Z,False,col-rockies-ari-diamondbacks-m3001794251,16,3139040546,Vencedor do jogo,Diamondbacks,2,1.78,301,99.0
+3001794289,Padres - Giants,2023-04-30T20:05:00Z,False,sd-padres-sf-giants-m3001794289,16,3139099853,Vencedor do jogo,Padres,1,1.65,101,87.0
+3001794289,Padres - Giants,2023-04-30T20:05:00Z,False,sd-padres-sf-giants-m3001794289,16,3139099853,Vencedor do jogo,Giants,2,2.2,301,13.0
+3001794245,Athletics - Reds,2023-04-30T20:05:00Z,False,oak-athletics-cin-reds-m3001794245,16,3139051196,Vencedor do jogo,Athletics,1,2.25,101,3.0
+3001794245,Athletics - Reds,2023-04-30T20:05:00Z,False,oak-athletics-cin-reds-m3001794245,16,3139051196,Vencedor do jogo,Reds,2,1.65,301,97.0
+3001794242,Dodgers - Cardinals,2023-04-30T20:10:00Z,False,la-dodgers-sl-cardinals-m3001794242,16,3139040734,Vencedor do jogo,Dodgers,1,1.65,101,95.0
+3001794242,Dodgers - Cardinals,2023-04-30T20:10:00Z,False,la-dodgers-sl-cardinals-m3001794242,16,3139040734,Vencedor do jogo,Cardinals,2,2.2,301,5.0
+3001653744,Astros - Phillies,2023-04-30T23:10:00Z,False,hou-astros-phi-phillies-m3001653744,16,3139051288,Vencedor do jogo,Astros,1,1.65,101,95.0
+3001653744,Astros - Phillies,2023-04-30T23:10:00Z,False,hou-astros-phi-phillies-m3001653744,16,3139051288,Vencedor do jogo,Phillies,2,2.2,301,5.0
+3001800625,NC Dinos - LG Twins,2023-05-02T09:30:00Z,False,nc-dinos-lg-twins-m3001800625,9,3133655419,Vencedor do jogo,NC Dinos,1,2.15,101,
+3001800625,NC Dinos - LG Twins,2023-05-02T09:30:00Z,False,nc-dinos-lg-twins-m3001800625,9,3133655419,Vencedor do jogo,LG Twins,2,1.65,301,
