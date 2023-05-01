@@ -1,0 +1,17 @@
+id_x,name_x,date,isLive_x,relativeDesktopUrl,openMarketCount,id_y,name_y,name,lx,odds,line,betTrend
+3001800008,Mets - Braves,2023-05-01T17:10:00Z,False,ny-mets-atl-braves-m3001800008,16,3133507333,Vencedor do jogo,Mets,1,2.95,101,0
+3001800008,Mets - Braves,2023-05-01T17:10:00Z,False,ny-mets-atl-braves-m3001800008,16,3133507333,Vencedor do jogo,Braves,2,1.38,301,100
+3001800291,Yankees - Cleveland Guardians,2023-05-01T23:05:00Z,False,ny-yankees-cleveland-guardians-m3001800291,16,3133581142,Vencedor do jogo,Yankees,1,1.72,101,96
+3001800291,Yankees - Cleveland Guardians,2023-05-01T23:05:00Z,False,ny-yankees-cleveland-guardians-m3001800291,16,3133581142,Vencedor do jogo,Cleveland Guardians,2,2.1,301,4
+3001800290,Nationals - Cubs,2023-05-01T23:05:00Z,False,was-nationals-chi-cubs-m3001800290,16,3133581111,Vencedor do jogo,Nationals,1,2.1,101,5
+3001800290,Nationals - Cubs,2023-05-01T23:05:00Z,False,was-nationals-chi-cubs-m3001800290,16,3133581111,Vencedor do jogo,Cubs,2,1.7,301,95
+3001800292,Red Sox - Blue Jays,2023-05-01T23:10:00Z,False,bos-red-sox-tor-blue-jays-m3001800292,16,3133581179,Vencedor do jogo,Red Sox,1,2.2,101,9
+3001800292,Red Sox - Blue Jays,2023-05-01T23:10:00Z,False,bos-red-sox-tor-blue-jays-m3001800292,16,3133581179,Vencedor do jogo,Blue Jays,2,1.65,301,91
+3001800314,Astros - Giants,2023-05-02T00:10:00Z,False,hou-astros-sf-giants-m3001800314,16,3133587720,Vencedor do jogo,Astros,1,1.52,101,93
+3001800314,Astros - Giants,2023-05-02T00:10:00Z,False,hou-astros-sf-giants-m3001800314,16,3133587720,Vencedor do jogo,Giants,2,2.5,301,7
+3001800375,Padres - Reds,2023-05-02T01:40:00Z,False,sd-padres-cin-reds-m3001800375,16,3133600498,Vencedor do jogo,Padres,1,1.42,101,97
+3001800375,Padres - Reds,2023-05-02T01:40:00Z,False,sd-padres-cin-reds-m3001800375,16,3133600498,Vencedor do jogo,Reds,2,2.8,301,3
+3001800376,Dodgers - Phillies,2023-05-02T02:10:00Z,False,la-dodgers-phi-phillies-m3001800376,16,3133601396,Vencedor do jogo,Dodgers,1,1.58,101,97
+3001800376,Dodgers - Phillies,2023-05-02T02:10:00Z,False,la-dodgers-phi-phillies-m3001800376,16,3133601396,Vencedor do jogo,Phillies,2,2.35,301,3
+3001800625,NC Dinos - LG Twins,2023-05-02T09:30:00Z,False,nc-dinos-lg-twins-m3001800625,14,3133655419,Vencedor do jogo,NC Dinos,1,2.15,101,4
+3001800625,NC Dinos - LG Twins,2023-05-02T09:30:00Z,False,nc-dinos-lg-twins-m3001800625,14,3133655419,Vencedor do jogo,LG Twins,2,1.65,301,96
