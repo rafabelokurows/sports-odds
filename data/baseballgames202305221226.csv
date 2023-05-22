@@ -1,0 +1,39 @@
+id_x,name_x,date,isLive_x,relativeDesktopUrl,openMarketCount,id_y,name_y,name,lx,odds,line,betTrend
+3001819075,Cleveland Guardians - White Sox,2023-05-22T22:10:00Z,False,cleveland-guardians-chi-white-sox-m3001819075,16,3136716612,Vencedor do jogo,Cleveland Guardians,1,1.78,101,78.0
+3001819075,Cleveland Guardians - White Sox,2023-05-22T22:10:00Z,False,cleveland-guardians-chi-white-sox-m3001819075,16,3136716612,Vencedor do jogo,White Sox,2,2.0,301,22.0
+3001819062,Pirates - Rangers,2023-05-22T22:35:00Z,False,pit-pirates-tex-rangers-m3001819062,16,3136716110,Vencedor do jogo,Pirates,1,2.1,101,8.0
+3001819062,Pirates - Rangers,2023-05-22T22:35:00Z,False,pit-pirates-tex-rangers-m3001819062,16,3136716110,Vencedor do jogo,Rangers,2,1.7,301,92.0
+3001819072,Phillies - Diamondbacks,2023-05-22T22:40:00Z,False,phi-phillies-ari-diamondbacks-m3001819072,16,3136721691,Vencedor do jogo,Phillies,1,1.45,101,88.0
+3001819072,Phillies - Diamondbacks,2023-05-22T22:40:00Z,False,phi-phillies-ari-diamondbacks-m3001819072,16,3136721691,Vencedor do jogo,Diamondbacks,2,2.65,301,12.0
+3001819014,Reds - Cardinals,2023-05-22T22:40:00Z,False,cin-reds-sl-cardinals-m3001819014,16,3136713936,Vencedor do jogo,Reds,1,2.55,101,10.0
+3001819014,Reds - Cardinals,2023-05-22T22:40:00Z,False,cin-reds-sl-cardinals-m3001819014,16,3136713936,Vencedor do jogo,Cardinals,2,1.5,301,90.0
+3001818989,Rays - Blue Jays,2023-05-22T22:40:00Z,False,tb-rays-tor-blue-jays-m3001818989,16,3136713185,Vencedor do jogo,Rays,1,1.82,101,86.0
+3001818989,Rays - Blue Jays,2023-05-22T22:40:00Z,False,tb-rays-tor-blue-jays-m3001818989,16,3136713185,Vencedor do jogo,Blue Jays,2,1.95,301,14.0
+3001819009,Braves - Dodgers,2023-05-22T23:20:00Z,False,atl-braves-la-dodgers-m3001819009,16,3136713657,Vencedor do jogo,Braves,1,1.62,101,65.0
+3001819009,Braves - Dodgers,2023-05-22T23:20:00Z,False,atl-braves-la-dodgers-m3001819009,16,3136713657,Vencedor do jogo,Dodgers,2,2.25,301,35.0
+3001819064,Brewers - Astros,2023-05-22T23:40:00Z,False,mil-brewers-hou-astros-m3001819064,16,3136716265,Vencedor do jogo,Brewers,1,1.95,101,47.0
+3001819064,Brewers - Astros,2023-05-22T23:40:00Z,False,mil-brewers-hou-astros-m3001819064,16,3136716265,Vencedor do jogo,Astros,2,1.85,301,53.0
+3001818996,Royals - Tigers,2023-05-22T23:40:00Z,False,kc-royals-det-tigers-m3001818996,16,3136713495,Vencedor do jogo,Royals,1,1.85,101,54.0
+3001818996,Royals - Tigers,2023-05-22T23:40:00Z,False,kc-royals-det-tigers-m3001818996,16,3136713495,Vencedor do jogo,Tigers,2,1.95,301,46.0
+3001818993,Twins - Giants,2023-05-22T23:40:00Z,False,min-twins-sf-giants-m3001818993,16,3136713371,Vencedor do jogo,Twins,1,1.65,101,82.0
+3001818993,Twins - Giants,2023-05-22T23:40:00Z,False,min-twins-sf-giants-m3001818993,16,3136713371,Vencedor do jogo,Giants,2,2.2,301,18.0
+3001819054,Rockies - Marlins,2023-05-23T00:40:00Z,False,col-rockies-mia-marlins-m3001819054,16,3136723806,Vencedor do jogo,Rockies,1,2.1,101,3.0
+3001819054,Rockies - Marlins,2023-05-23T00:40:00Z,False,col-rockies-mia-marlins-m3001819054,16,3136723806,Vencedor do jogo,Marlins,2,1.72,301,97.0
+3001819044,Angels - Red Sox,2023-05-23T01:40:00Z,False,la-angels-bos-red-sox-m3001819044,16,3136715665,Vencedor do jogo,Angels,1,1.85,101,58.0
+3001819044,Angels - Red Sox,2023-05-23T01:40:00Z,False,la-angels-bos-red-sox-m3001819044,16,3136715665,Vencedor do jogo,Red Sox,2,1.9,301,42.0
+3001819010,Mariners - Athletics,2023-05-23T01:40:00Z,False,sea-mariners-oak-athletics-m3001819010,16,3136713905,Vencedor do jogo,Mariners,1,1.3,101,99.0
+3001819010,Mariners - Athletics,2023-05-23T01:40:00Z,False,sea-mariners-oak-athletics-m3001819010,16,3136713905,Vencedor do jogo,Athletics,2,3.4,301,1.0
+3001695795,Chiba Lotte Marines - Saitama Seibu Lions,2023-05-23T09:00:00Z,False,chiba-lotte-marines-saitama-seibu-lions-m3001695795,13,3142668142,Vencedor do jogo,Chiba Lotte Marines,1,1.8,101,
+3001695795,Chiba Lotte Marines - Saitama Seibu Lions,2023-05-23T09:00:00Z,False,chiba-lotte-marines-saitama-seibu-lions-m3001695795,13,3142668142,Vencedor do jogo,Saitama Seibu Lions,2,1.95,301,
+3001695797,Hokkaido Nippon Ham Fighters - Fukuoka SoftBank Hawks,2023-05-23T09:00:00Z,False,hokkaido-nippon-ham-fighters-fukuoka-softbank-hawks-m3001695797,13,3142668146,Vencedor do jogo,Hokkaido Nippon Ham Fighters,1,2.1,101,
+3001695797,Hokkaido Nippon Ham Fighters - Fukuoka SoftBank Hawks,2023-05-23T09:00:00Z,False,hokkaido-nippon-ham-fighters-fukuoka-softbank-hawks-m3001695797,13,3142668146,Vencedor do jogo,Fukuoka SoftBank Hawks,2,1.7,301,
+3001695800,Orix Buffaloes - Tohoku Rakuten Golden Eagles,2023-05-23T09:00:00Z,False,orix-buffaloes-tohoku-rakuten-golden-eagles-m3001695800,13,3142668141,Vencedor do jogo,Orix Buffaloes,1,1.82,101,
+3001695800,Orix Buffaloes - Tohoku Rakuten Golden Eagles,2023-05-23T09:00:00Z,False,orix-buffaloes-tohoku-rakuten-golden-eagles-m3001695800,13,3142668141,Vencedor do jogo,Tohoku Rakuten Golden Eagles,2,1.95,301,
+3001695813,Tokyo Yakult Swallows - Hanshin Tigers,2023-05-23T09:00:00Z,False,tokyo-yakult-swallows-hanshin-tigers-m3001695813,13,3142668114,Vencedor do jogo,Tokyo Yakult Swallows,1,2.0,101,
+3001695813,Tokyo Yakult Swallows - Hanshin Tigers,2023-05-23T09:00:00Z,False,tokyo-yakult-swallows-hanshin-tigers-m3001695813,13,3142668114,Vencedor do jogo,Hanshin Tigers,2,1.75,301,
+3001695815,Hiroshima Toyo Carp - Chunichi Dragons,2023-05-23T09:00:00Z,False,hiroshima-toyo-carp-chunichi-dragons-m3001695815,13,3142668102,Vencedor do jogo,Hiroshima Toyo Carp,1,1.62,101,
+3001695815,Hiroshima Toyo Carp - Chunichi Dragons,2023-05-23T09:00:00Z,False,hiroshima-toyo-carp-chunichi-dragons-m3001695815,13,3142668102,Vencedor do jogo,Chunichi Dragons,2,2.2,301,
+3001695816,Yomiuri Giants - Yokohama BayStars,2023-05-23T09:00:00Z,False,yomiuri-giants-yokohama-baystars-m3001695816,13,3142668155,Vencedor do jogo,Yomiuri Giants,1,2.05,101,
+3001695816,Yomiuri Giants - Yokohama BayStars,2023-05-23T09:00:00Z,False,yomiuri-giants-yokohama-baystars-m3001695816,13,3142668155,Vencedor do jogo,Yokohama BayStars,2,1.72,301,
+3001825099,Hanwha Eagles - KIA Tigers,2023-05-23T09:30:00Z,False,hanwha-eagles-kia-tigers-m3001825099,14,3137479614,Vencedor do jogo,Hanwha Eagles,1,2.15,101,20.0
+3001825099,Hanwha Eagles - KIA Tigers,2023-05-23T09:30:00Z,False,hanwha-eagles-kia-tigers-m3001825099,14,3137479614,Vencedor do jogo,KIA Tigers,2,1.68,301,80.0
