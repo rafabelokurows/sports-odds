@@ -1,0 +1,35 @@
+id_x,name_x,date,isLive_x,relativeDesktopUrl,openMarketCount,id_y,name_y,name,lx,odds,line,betTrend
+3001819077,Rays - Dodgers,2023-05-28T15:35:00Z,False,tb-rays-la-dodgers-m3001819077,10,3136716327.0,Vencedor do jogo,Rays,1,1.7,101.0,97.0
+3001819077,Rays - Dodgers,2023-05-28T15:35:00Z,False,tb-rays-la-dodgers-m3001819077,10,3136716327.0,Vencedor do jogo,Dodgers,2,2.0,301.0,3.0
+3001819133,Yankees - Padres,2023-05-28T17:35:00Z,False,ny-yankees-sd-padres-m3001819133,16,3136718697.0,Vencedor do jogo,Yankees,1,1.72,101.0,94.0
+3001819133,Yankees - Padres,2023-05-28T17:35:00Z,False,ny-yankees-sd-padres-m3001819133,16,3136718697.0,Vencedor do jogo,Padres,2,2.1,301.0,6.0
+3001819061,Orioles - Rangers,2023-05-28T17:35:00Z,False,bal-orioles-tex-rangers-m3001819061,16,3136716234.0,Vencedor do jogo,Orioles,1,1.65,101.0,57.0
+3001819061,Orioles - Rangers,2023-05-28T17:35:00Z,False,bal-orioles-tex-rangers-m3001819061,16,3136716234.0,Vencedor do jogo,Rangers,2,2.2,301.0,43.0
+3001818998,Tigers - White Sox,2023-05-28T17:40:00Z,False,det-tigers-chi-white-sox-m3001818998,16,3136713402.0,Vencedor do jogo,Tigers,1,1.95,101.0,52.0
+3001818998,Tigers - White Sox,2023-05-28T17:40:00Z,False,det-tigers-chi-white-sox-m3001818998,16,3136713402.0,Vencedor do jogo,White Sox,2,1.85,301.0,48.0
+3001818984,Cleveland Guardians - Cardinals,2023-05-28T17:40:00Z,False,cleveland-guardians-sl-cardinals-m3001818984,16,3136713060.0,Vencedor do jogo,Cleveland Guardians,1,2.15,101.0,24.0
+3001818984,Cleveland Guardians - Cardinals,2023-05-28T17:40:00Z,False,cleveland-guardians-sl-cardinals-m3001818984,16,3136713060.0,Vencedor do jogo,Cardinals,2,1.68,301.0,76.0
+3001818999,Twins - Blue Jays,2023-05-28T18:10:00Z,False,min-twins-tor-blue-jays-m3001818999,16,3136720364.0,Vencedor do jogo,Twins,1,1.88,101.0,50.0
+3001818999,Twins - Blue Jays,2023-05-28T18:10:00Z,False,min-twins-tor-blue-jays-m3001818999,16,3136720364.0,Vencedor do jogo,Blue Jays,2,1.9,301.0,50.0
+3001819052,Royals - Nationals,2023-05-28T18:10:00Z,False,kc-royals-was-nationals-m3001819052,16,3136715541.0,Vencedor do jogo,Royals,1,1.88,101.0,48.0
+3001819052,Royals - Nationals,2023-05-28T18:10:00Z,False,kc-royals-was-nationals-m3001819052,16,3136715541.0,Vencedor do jogo,Nationals,2,1.88,301.0,52.0
+3001819033,Brewers - Giants,2023-05-28T18:10:00Z,False,mil-brewers-sf-giants-m3001819033,16,3136715195.0,Vencedor do jogo,Brewers,1,2.05,101.0,23.0
+3001819033,Brewers - Giants,2023-05-28T18:10:00Z,False,mil-brewers-sf-giants-m3001819033,16,3136715195.0,Vencedor do jogo,Giants,2,1.75,301.0,77.0
+3001819034,Cubs - Reds,2023-05-28T18:20:00Z,False,chi-cubs-cin-reds-m3001819034,16,3136721453.0,Vencedor do jogo,Cubs,1,1.6,101.0,84.0
+3001819034,Cubs - Reds,2023-05-28T18:20:00Z,False,chi-cubs-cin-reds-m3001819034,16,3136721453.0,Vencedor do jogo,Reds,2,2.3,301.0,16.0
+3001819041,Rockies - Mets,2023-05-28T19:10:00Z,False,col-rockies-ny-mets-m3001819041,16,3136715603.0,Vencedor do jogo,Rockies,1,2.2,101.0,16.0
+3001819041,Rockies - Mets,2023-05-28T19:10:00Z,False,col-rockies-ny-mets-m3001819041,16,3136715603.0,Vencedor do jogo,Mets,2,1.68,301.0,84.0
+3001819036,Angels - Marlins,2023-05-28T20:05:00Z,False,la-angels-mia-marlins-m3001819036,16,3136714844.0,Vencedor do jogo,Angels,1,1.75,101.0,66.0
+3001819036,Angels - Marlins,2023-05-28T20:05:00Z,False,la-angels-mia-marlins-m3001819036,16,3136714844.0,Vencedor do jogo,Marlins,2,2.05,301.0,34.0
+3001819028,Athletics - Astros,2023-05-28T20:05:00Z,False,oak-athletics-hou-astros-m3001819028,16,3136714127.0,Vencedor do jogo,Athletics,1,3.1,101.0,1.0
+3001819028,Athletics - Astros,2023-05-28T20:05:00Z,False,oak-athletics-hou-astros-m3001819028,16,3136714127.0,Vencedor do jogo,Astros,2,1.35,301.0,99.0
+3001819018,Mariners - Pirates,2023-05-28T20:10:00Z,False,sea-mariners-pit-pirates-m3001819018,16,3136713874.0,Vencedor do jogo,Mariners,1,1.72,101.0,89.0
+3001819018,Mariners - Pirates,2023-05-28T20:10:00Z,False,sea-mariners-pit-pirates-m3001819018,16,3136713874.0,Vencedor do jogo,Pirates,2,2.1,301.0,11.0
+3001819065,Diamondbacks - Red Sox,2023-05-28T20:10:00Z,False,ari-diamondbacks-bos-red-sox-m3001819065,16,3136716141.0,Vencedor do jogo,Diamondbacks,1,1.78,101.0,82.0
+3001819065,Diamondbacks - Red Sox,2023-05-28T20:10:00Z,False,ari-diamondbacks-bos-red-sox-m3001819065,16,3136716141.0,Vencedor do jogo,Red Sox,2,2.0,301.0,18.0
+3001806048,Braves - Phillies,2023-05-28T23:10:00Z,False,atl-braves-phi-phillies-m3001806048,16,3134461300.0,Vencedor do jogo,Braves,1,1.35,101.0,90.0
+3001806048,Braves - Phillies,2023-05-28T23:10:00Z,False,atl-braves-phi-phillies-m3001806048,16,3134461300.0,Vencedor do jogo,Phillies,2,3.1,301.0,10.0
+3001834110,NC Dinos - Doosan Bears,2023-05-30T09:30:00Z,False,nc-dinos-doosan-bears-m3001834110,14,,,,,,,
+3001834110,NC Dinos - Doosan Bears,2023-05-30T09:30:00Z,False,nc-dinos-doosan-bears-m3001834110,14,,,,,,,
+3001834115,Hanwha Eagles - Kiwoon Heroes,2023-05-30T09:30:00Z,False,hanwha-eagles-kiwoon-heroes-m3001834115,14,,,,,,,
+3001834115,Hanwha Eagles - Kiwoon Heroes,2023-05-30T09:30:00Z,False,hanwha-eagles-kiwoon-heroes-m3001834115,14,,,,,,,
