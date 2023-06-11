@@ -1,0 +1,29 @@
+id_x,name_x,date,isLive_x,relativeDesktopUrl,openMarketCount,id_y,name_y,name,lx,odds,line,betTrend
+3001818847,Brewers - Athletics,2023-06-11T18:10:00Z,True,mil-brewers-oak-athletics-m3001818847,5,3136709045.0,Vencedor do jogo,Brewers,1,2.45,101.0,
+3001818847,Brewers - Athletics,2023-06-11T18:10:00Z,True,mil-brewers-oak-athletics-m3001818847,5,3136709045.0,Vencedor do jogo,Athletics,2,1.55,301.0,
+3001818795,Blue Jays - Twins,2023-06-11T17:35:00Z,True,tor-blue-jays-min-twins-m3001818795,5,3136714519.0,Vencedor do jogo,Blue Jays,1,4.1,101.0,
+3001818795,Blue Jays - Twins,2023-06-11T17:35:00Z,True,tor-blue-jays-min-twins-m3001818795,5,3136714519.0,Vencedor do jogo,Twins,2,1.22,301.0,
+3001818881,Giants - Cubs,2023-06-11T20:05:00Z,True,sf-giants-chi-cubs-m3001818881,5,3136709721.0,Vencedor do jogo,Giants,1,1.75,101.0,
+3001818881,Giants - Cubs,2023-06-11T20:05:00Z,True,sf-giants-chi-cubs-m3001818881,5,3136709721.0,Vencedor do jogo,Cubs,2,2.05,301.0,
+3001818832,Phillies - Dodgers,2023-06-11T17:35:00Z,True,phi-phillies-la-dodgers-m3001818832,0,,,,,,,
+3001818832,Phillies - Dodgers,2023-06-11T17:35:00Z,True,phi-phillies-la-dodgers-m3001818832,0,,,,,,,
+3001818884,Rockies - Padres,2023-06-11T19:10:00Z,True,col-rockies-sd-padres-m3001818884,5,3136709938.0,Vencedor do jogo,Rockies,1,4.9,101.0,
+3001818884,Rockies - Padres,2023-06-11T19:10:00Z,True,col-rockies-sd-padres-m3001818884,5,3136709938.0,Vencedor do jogo,Padres,2,1.16,301.0,
+3001818837,Cardinals - Reds,2023-06-11T18:15:00Z,True,sl-cardinals-cin-reds-m3001818837,5,3136709348.0,Vencedor do jogo,Cardinals,1,1.57,101.0,
+3001818837,Cardinals - Reds,2023-06-11T18:15:00Z,True,sl-cardinals-cin-reds-m3001818837,5,3136709348.0,Vencedor do jogo,Reds,2,2.4,301.0,
+3001818804,White Sox - Marlins,2023-06-11T18:10:00Z,True,chi-white-sox-mia-marlins-m3001818804,5,3136715000.0,Vencedor do jogo,White Sox,1,1.01,101.0,
+3001818804,White Sox - Marlins,2023-06-11T18:10:00Z,True,chi-white-sox-mia-marlins-m3001818804,5,3136715000.0,Vencedor do jogo,Marlins,2,13.5,301.0,
+3001818861,Angels - Mariners,2023-06-11T20:05:00Z,True,la-angels-sea-mariners-m3001818861,5,3136709907.0,Vencedor do jogo,Angels,1,1.8,101.0,
+3001818861,Angels - Mariners,2023-06-11T20:05:00Z,True,la-angels-sea-mariners-m3001818861,5,3136709907.0,Vencedor do jogo,Mariners,2,2.0,301.0,
+3001818886,Yankees - Red Sox,2023-06-11T23:10:00Z,False,ny-yankees-bos-red-sox-m3001818886,16,3136710318.0,Vencedor do jogo,Yankees,1,1.8,101.0,88.0
+3001818886,Yankees - Red Sox,2023-06-11T23:10:00Z,False,ny-yankees-bos-red-sox-m3001818886,16,3136710318.0,Vencedor do jogo,Red Sox,2,2.0,301.0,12.0
+3001818780,Red Sox - Rockies,2023-06-12T23:10:00Z,False,bos-red-sox-col-rockies-m3001818780,16,3136707913.0,Vencedor do jogo,Red Sox,1,1.38,101.0,100.0
+3001818780,Red Sox - Rockies,2023-06-12T23:10:00Z,False,bos-red-sox-col-rockies-m3001818780,16,3136707913.0,Vencedor do jogo,Rockies,2,3.0,301.0,0.0
+3001818707,Cardinals - Giants,2023-06-12T23:45:00Z,False,sl-cardinals-sf-giants-m3001818707,16,3136711606.0,Vencedor do jogo,Cardinals,1,1.95,101.0,100.0
+3001818707,Cardinals - Giants,2023-06-12T23:45:00Z,False,sl-cardinals-sf-giants-m3001818707,16,3136711606.0,Vencedor do jogo,Giants,2,1.82,301.0,0.0
+3001818715,Royals - Reds,2023-06-13T00:10:00Z,False,kc-royals-cin-reds-m3001818715,16,3136705845.0,Vencedor do jogo,Royals,1,1.88,101.0,100.0
+3001818715,Royals - Reds,2023-06-13T00:10:00Z,False,kc-royals-cin-reds-m3001818715,16,3136705845.0,Vencedor do jogo,Reds,2,1.9,301.0,0.0
+3001818708,Mariners - Marlins,2023-06-13T01:40:00Z,False,sea-mariners-mia-marlins-m3001818708,16,3136705503.0,Vencedor do jogo,Mariners,1,1.72,101.0,100.0
+3001818708,Mariners - Marlins,2023-06-13T01:40:00Z,False,sea-mariners-mia-marlins-m3001818708,16,3136705503.0,Vencedor do jogo,Marlins,2,2.05,301.0,0.0
+3001849918,Hiroshima Toyo Carp - Tohoku Rakuten Golden Eagles,2023-06-13T09:00:00Z,False,hiroshima-toyo-carp-tohoku-rakuten-golden-eagles-m3001849918,13,3141102420.0,Vencedor do jogo,Hiroshima Toyo Carp,1,1.8,101.0,100.0
+3001849918,Hiroshima Toyo Carp - Tohoku Rakuten Golden Eagles,2023-06-13T09:00:00Z,False,hiroshima-toyo-carp-tohoku-rakuten-golden-eagles-m3001849918,13,3141102420.0,Vencedor do jogo,Tohoku Rakuten Golden Eagles,2,1.95,301.0,0.0
