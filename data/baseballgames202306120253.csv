@@ -1,0 +1,17 @@
+id_x,name_x,date,isLive_x,relativeDesktopUrl,openMarketCount,id_y,name_y,name,lx,odds,line,betTrend
+3001818780,Red Sox - Rockies,2023-06-12T23:10:00Z,False,bos-red-sox-col-rockies-m3001818780,16,3136707913,Vencedor do jogo,Red Sox,1,1.38,101,100
+3001818780,Red Sox - Rockies,2023-06-12T23:10:00Z,False,bos-red-sox-col-rockies-m3001818780,16,3136707913,Vencedor do jogo,Rockies,2,3.05,301,0
+3001818707,Cardinals - Giants,2023-06-12T23:45:00Z,False,sl-cardinals-sf-giants-m3001818707,16,3136711606,Vencedor do jogo,Cardinals,1,2.0,101,70
+3001818707,Cardinals - Giants,2023-06-12T23:45:00Z,False,sl-cardinals-sf-giants-m3001818707,16,3136711606,Vencedor do jogo,Giants,2,1.78,301,30
+3001818743,Rangers - Angels,2023-06-13T00:05:00Z,False,tex-rangers-la-angels-m3001818743,16,3136714414,Vencedor do jogo,Rangers,1,1.6,101,88
+3001818743,Rangers - Angels,2023-06-13T00:05:00Z,False,tex-rangers-la-angels-m3001818743,16,3136714414,Vencedor do jogo,Angels,2,2.3,301,12
+3001818715,Royals - Reds,2023-06-13T00:10:00Z,False,kc-royals-cin-reds-m3001818715,16,3136705845,Vencedor do jogo,Royals,1,1.85,101,87
+3001818715,Royals - Reds,2023-06-13T00:10:00Z,False,kc-royals-cin-reds-m3001818715,16,3136705845,Vencedor do jogo,Reds,2,1.95,301,13
+3001818708,Mariners - Marlins,2023-06-13T01:40:00Z,False,sea-mariners-mia-marlins-m3001818708,16,3136705503,Vencedor do jogo,Mariners,1,1.7,101,91
+3001818708,Mariners - Marlins,2023-06-13T01:40:00Z,False,sea-mariners-mia-marlins-m3001818708,16,3136705503,Vencedor do jogo,Marlins,2,2.1,301,9
+3001818702,Athletics - Rays,2023-06-13T01:40:00Z,False,oak-athletics-tb-rays-m3001818702,1,3136711972,Vencedor do jogo,Athletics,1,2.9,101,3
+3001818702,Athletics - Rays,2023-06-13T01:40:00Z,False,oak-athletics-tb-rays-m3001818702,1,3136711972,Vencedor do jogo,Rays,2,1.4,301,97
+3001818729,Diamondbacks - Phillies,2023-06-13T01:40:00Z,False,ari-diamondbacks-phi-phillies-m3001818729,16,3136706488,Vencedor do jogo,Diamondbacks,1,1.85,101,88
+3001818729,Diamondbacks - Phillies,2023-06-13T01:40:00Z,False,ari-diamondbacks-phi-phillies-m3001818729,16,3136706488,Vencedor do jogo,Phillies,2,1.9,301,12
+3001849918,Hiroshima Toyo Carp - Tohoku Rakuten Golden Eagles,2023-06-13T09:00:00Z,False,hiroshima-toyo-carp-tohoku-rakuten-golden-eagles-m3001849918,13,3141102420,Vencedor do jogo,Hiroshima Toyo Carp,1,1.8,101,100
+3001849918,Hiroshima Toyo Carp - Tohoku Rakuten Golden Eagles,2023-06-13T09:00:00Z,False,hiroshima-toyo-carp-tohoku-rakuten-golden-eagles-m3001849918,13,3141102420,Vencedor do jogo,Tohoku Rakuten Golden Eagles,2,1.95,301,0
