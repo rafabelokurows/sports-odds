@@ -1,0 +1,27 @@
+id_x,name_x,date,isLive_x,relativeDesktopUrl,openMarketCount,id_y,name_y,name,lx,odds,line,betTrend
+3001806050,Red Sox - Yankees,2023-06-18T23:10:00Z,True,bos-red-sox-ny-yankees-m3001806050,5,3134461402.0,Vencedor do jogo,Red Sox,1,1.8,101.0,
+3001806050,Red Sox - Yankees,2023-06-18T23:10:00Z,True,bos-red-sox-ny-yankees-m3001806050,5,3134461402.0,Vencedor do jogo,Yankees,2,2.0,301.0,
+3001818735,Diamondbacks - Cleveland Guardians,2023-06-18T20:10:00Z,True,ari-diamondbacks-cleveland-guardians-m3001818735,1,3136706140.0,Vencedor do jogo,Diamondbacks,1,16.5,101.0,
+3001818735,Diamondbacks - Cleveland Guardians,2023-06-18T20:10:00Z,True,ari-diamondbacks-cleveland-guardians-m3001818735,1,3136706140.0,Vencedor do jogo,Cleveland Guardians,2,1.0,301.0,
+3001893353,Yokohama BayStars - Hokkaido Nippon Ham Fighters,2023-06-19T09:00:00Z,False,yokohama-baystars-hokkaido-nippon-ham-fighters-m3001893353,13,3146223893.0,Vencedor do jogo,Yokohama BayStars,1,1.62,101.0,98.0
+3001893353,Yokohama BayStars - Hokkaido Nippon Ham Fighters,2023-06-19T09:00:00Z,False,yokohama-baystars-hokkaido-nippon-ham-fighters-m3001893353,13,3146223893.0,Vencedor do jogo,Hokkaido Nippon Ham Fighters,2,2.2,301.0,2.0
+3001818686,Nationals - Cardinals,2023-06-19T20:05:00Z,False,was-nationals-sl-cardinals-m3001818686,16,3136704933.0,Vencedor do jogo,Nationals,1,2.3,101.0,0.0
+3001818686,Nationals - Cardinals,2023-06-19T20:05:00Z,False,was-nationals-sl-cardinals-m3001818686,16,3136704933.0,Vencedor do jogo,Cardinals,2,1.62,301.0,100.0
+3001818693,Tigers - Royals,2023-06-19T22:40:00Z,False,det-tigers-kc-royals-m3001818693,16,3136705213.0,Vencedor do jogo,Tigers,1,1.65,101.0,91.0
+3001818693,Tigers - Royals,2023-06-19T22:40:00Z,False,det-tigers-kc-royals-m3001818693,16,3136705213.0,Vencedor do jogo,Royals,2,2.2,301.0,9.0
+3001818624,Marlins - Blue Jays,2023-06-19T22:40:00Z,False,mia-marlins-tor-blue-jays-m3001818624,16,3136708823.0,Vencedor do jogo,Marlins,1,2.15,101.0,0.0
+3001818624,Marlins - Blue Jays,2023-06-19T22:40:00Z,False,mia-marlins-tor-blue-jays-m3001818624,16,3136708823.0,Vencedor do jogo,Blue Jays,2,1.68,301.0,100.0
+3001818640,Pirates - Cubs,2023-06-19T23:05:00Z,False,pit-pirates-chi-cubs-m3001818640,16,3136708348.0,Vencedor do jogo,Pirates,1,2.0,101.0,17.0
+3001818640,Pirates - Cubs,2023-06-19T23:05:00Z,False,pit-pirates-chi-cubs-m3001818640,16,3136708348.0,Vencedor do jogo,Cubs,2,1.78,301.0,83.0
+3001818650,Reds - Rockies,2023-06-19T23:10:00Z,False,cin-reds-col-rockies-m3001818650,16,,,,,,,
+3001818650,Reds - Rockies,2023-06-19T23:10:00Z,False,cin-reds-col-rockies-m3001818650,16,,,,,,,
+3001818628,Twins - Red Sox,2023-06-19T23:40:00Z,False,min-twins-bos-red-sox-m3001818628,16,3136702938.0,Vencedor do jogo,Twins,1,1.78,101.0,71.0
+3001818628,Twins - Red Sox,2023-06-19T23:40:00Z,False,min-twins-bos-red-sox-m3001818628,16,3136702938.0,Vencedor do jogo,Red Sox,2,2.0,301.0,29.0
+3001818677,Brewers - Diamondbacks,2023-06-20T00:10:00Z,False,mil-brewers-ari-diamondbacks-m3001818677,16,3136710477.0,Vencedor do jogo,Brewers,1,1.78,101.0,33.0
+3001818677,Brewers - Diamondbacks,2023-06-20T00:10:00Z,False,mil-brewers-ari-diamondbacks-m3001818677,16,3136710477.0,Vencedor do jogo,Diamondbacks,2,2.0,301.0,67.0
+3001818683,Astros - Mets,2023-06-20T00:10:00Z,False,hou-astros-ny-mets-m3001818683,16,3136704874.0,Vencedor do jogo,Astros,1,1.72,101.0,0.0
+3001818683,Astros - Mets,2023-06-20T00:10:00Z,False,hou-astros-ny-mets-m3001818683,16,3136704874.0,Vencedor do jogo,Mets,2,2.1,301.0,100.0
+3001857717,Doosan Bears - SSG Landers,2023-06-20T09:30:00Z,False,doosan-bears-ssg-landers-m3001857717,14,3142151739.0,Vencedor do jogo,Doosan Bears,1,2.0,101.0,86.0
+3001857717,Doosan Bears - SSG Landers,2023-06-20T09:30:00Z,False,doosan-bears-ssg-landers-m3001857717,14,3142151739.0,Vencedor do jogo,SSG Landers,2,1.75,301.0,14.0
+3001860990,Chunichi Dragons - Tokyo Yakult Swallows,2023-06-23T09:00:00Z,False,chunichi-dragons-tokyo-yakult-swallows-m3001860990,13,3142662973.0,Vencedor do jogo,Chunichi Dragons,1,2.05,101.0,67.0
+3001860990,Chunichi Dragons - Tokyo Yakult Swallows,2023-06-23T09:00:00Z,False,chunichi-dragons-tokyo-yakult-swallows-m3001860990,13,3142662973.0,Vencedor do jogo,Tokyo Yakult Swallows,2,1.7,301.0,33.0
