@@ -10,9 +10,11 @@ Using Python and Github Actions for now
 - [ ] Start analyzing results to see trends on odds for one side or another
 
 # Next steps
-Carregar todos os arquivos com as odds
-Agrupar por dia e jogo
-Ver odd final e odd inicial
+* Carregar todos os arquivos com as odds
+* Agrupar por dia e jogo
+* Ver odd final e odd inicial
+* Obter dados para os jogos pós 09/05
+  
 Calcular:
 * odds médias vencedor
 * odds médias favoritos
@@ -35,5 +37,5 @@ Estratégias:
 formas diferentes de agrupar duplas/triplas
 
 Value bets:
-favoritos grande margem com odd 2+
+favoritos grande margem com odd 1.8+
 
