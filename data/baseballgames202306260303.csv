@@ -1,0 +1,17 @@
+id_x,name_x,date,isLive_x,relativeDesktopUrl,openMarketCount,id_y,name_y,name,lx,odds,line,betTrend
+3001864786,Fukuoka SoftBank Hawks - Tohoku Rakuten Golden Eagles,2023-06-26T09:00:00Z,False,fukuoka-softbank-hawks-tohoku-rakuten-golden-eagles-m3001864786,13,3143099048,Vencedor do jogo,Fukuoka SoftBank Hawks,1,1.68,101,90
+3001864786,Fukuoka SoftBank Hawks - Tohoku Rakuten Golden Eagles,2023-06-26T09:00:00Z,False,fukuoka-softbank-hawks-tohoku-rakuten-golden-eagles-m3001864786,13,3143099048,Vencedor do jogo,Tohoku Rakuten Golden Eagles,2,2.1,301,10
+3001818540,Orioles - Reds,2023-06-26T23:05:00Z,False,bal-orioles-cin-reds-m3001818540,16,3136700784,Vencedor do jogo,Orioles,1,1.68,101,92
+3001818540,Orioles - Reds,2023-06-26T23:05:00Z,False,bal-orioles-cin-reds-m3001818540,16,3136700784,Vencedor do jogo,Reds,2,2.15,301,8
+3001818550,Mets - Brewers,2023-06-26T23:10:00Z,False,ny-mets-mil-brewers-m3001818550,16,3136701057,Vencedor do jogo,Mets,1,1.52,101,80
+3001818550,Mets - Brewers,2023-06-26T23:10:00Z,False,ny-mets-mil-brewers-m3001818550,16,3136701057,Vencedor do jogo,Brewers,2,2.5,301,20
+3001818565,Braves - Twins,2023-06-26T23:20:00Z,False,atl-braves-min-twins-m3001818565,16,3136701909,Vencedor do jogo,Braves,1,1.48,101,93
+3001818565,Braves - Twins,2023-06-26T23:20:00Z,False,atl-braves-min-twins-m3001818565,16,3136701909,Vencedor do jogo,Twins,2,2.65,301,7
+3001818603,Rangers - Tigers,2023-06-27T00:05:00Z,False,tex-rangers-det-tigers-m3001818603,16,3136702589,Vencedor do jogo,Rangers,1,1.5,101,96
+3001818603,Rangers - Tigers,2023-06-27T00:05:00Z,False,tex-rangers-det-tigers-m3001818603,16,3136702589,Vencedor do jogo,Tigers,2,2.55,301,4
+3001818604,Angels - White Sox,2023-06-27T01:40:00Z,False,la-angels-chi-white-sox-m3001818604,16,3136708898,Vencedor do jogo,Angels,1,1.7,101,88
+3001818604,Angels - White Sox,2023-06-27T01:40:00Z,False,la-angels-chi-white-sox-m3001818604,16,3136708898,Vencedor do jogo,White Sox,2,2.1,301,12
+3001818542,Mariners - Nationals,2023-06-27T01:40:00Z,False,sea-mariners-was-nationals-m3001818542,16,3136700753,Vencedor do jogo,Mariners,1,1.35,101,100
+3001818542,Mariners - Nationals,2023-06-27T01:40:00Z,False,sea-mariners-was-nationals-m3001818542,16,3136700753,Vencedor do jogo,Nationals,2,3.05,301,0
+3001865961,Hiroshima Toyo Carp - Yokohama BayStars,2023-06-27T09:00:00Z,False,hiroshima-toyo-carp-yokohama-baystars-m3001865961,13,3143224892,Vencedor do jogo,Hiroshima Toyo Carp,1,2.0,101,50
+3001865961,Hiroshima Toyo Carp - Yokohama BayStars,2023-06-27T09:00:00Z,False,hiroshima-toyo-carp-yokohama-baystars-m3001865961,13,3143224892,Vencedor do jogo,Yokohama BayStars,2,1.75,301,50
