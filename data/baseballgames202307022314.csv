@@ -1,0 +1,17 @@
+id_x,name_x,date,isLive_x,relativeDesktopUrl,openMarketCount,id_y,name_y,name,lx,odds,line,betTrend
+3001818522,Mets - Giants,2023-07-02T23:10:00Z,True,ny-mets-sf-giants-m3001818522,5,3136700546,Vencedor do jogo,Mets,1,1.6,101,
+3001818522,Mets - Giants,2023-07-02T23:10:00Z,True,ny-mets-sf-giants-m3001818522,5,3136700546,Vencedor do jogo,Giants,2,2.25,301,
+3001818574,Cubs - Cleveland Guardians,2023-07-02T21:05:00Z,True,chi-cubs-cleveland-guardians-m3001818574,5,3136702038,Vencedor do jogo,Cubs,1,1.75,101,
+3001818574,Cubs - Cleveland Guardians,2023-07-02T21:05:00Z,True,chi-cubs-cleveland-guardians-m3001818574,5,3136702038,Vencedor do jogo,Cleveland Guardians,2,2.05,301,
+3001818495,Rangers - Astros,2023-07-03T18:05:00Z,False,tex-rangers-hou-astros-m3001818495,16,3136698830,Vencedor do jogo,Rangers,1,1.88,101,44.0
+3001818495,Rangers - Astros,2023-07-03T18:05:00Z,False,tex-rangers-hou-astros-m3001818495,16,3136698830,Vencedor do jogo,Astros,2,1.9,301,56.0
+3001818512,Brewers - Cubs,2023-07-03T18:10:00Z,False,mil-brewers-chi-cubs-m3001818512,16,3136699830,Vencedor do jogo,Brewers,1,1.9,101,50.0
+3001818512,Brewers - Cubs,2023-07-03T18:10:00Z,False,mil-brewers-chi-cubs-m3001818512,16,3136699830,Vencedor do jogo,Cubs,2,1.85,301,50.0
+3001818445,Nationals - Reds,2023-07-03T22:05:00Z,False,was-nationals-cin-reds-m3001818445,16,3136696602,Vencedor do jogo,Nationals,1,2.1,101,7.0
+3001818445,Nationals - Reds,2023-07-03T22:05:00Z,False,was-nationals-cin-reds-m3001818445,16,3136696602,Vencedor do jogo,Reds,2,1.72,301,93.0
+3001818455,Marlins - Cardinals,2023-07-03T22:40:00Z,False,mia-marlins-sl-cardinals-m3001818455,16,3136697583,Vencedor do jogo,Marlins,1,1.8,101,83.0
+3001818455,Marlins - Cardinals,2023-07-03T22:40:00Z,False,mia-marlins-sl-cardinals-m3001818455,16,3136697583,Vencedor do jogo,Cardinals,2,2.0,301,17.0
+3001818513,Yankees - Orioles,2023-07-03T23:05:00Z,False,ny-yankees-bal-orioles-m3001818513,16,3136699768,Vencedor do jogo,Yankees,1,1.95,101,87.0
+3001818513,Yankees - Orioles,2023-07-03T23:05:00Z,False,ny-yankees-bal-orioles-m3001818513,16,3136699768,Vencedor do jogo,Orioles,2,1.85,301,13.0
+3001818472,Cleveland Guardians - Braves,2023-07-03T23:10:00Z,False,cleveland-guardians-atl-braves-m3001818472,16,3136697817,Vencedor do jogo,Cleveland Guardians,1,2.25,101,10.0
+3001818472,Cleveland Guardians - Braves,2023-07-03T23:10:00Z,False,cleveland-guardians-atl-braves-m3001818472,16,3136697817,Vencedor do jogo,Braves,2,1.62,301,90.0
