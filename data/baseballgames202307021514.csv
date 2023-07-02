@@ -1,0 +1,29 @@
+id_x,name_x,date,isLive_x,relativeDesktopUrl,openMarketCount,id_y,name_y,name,lx,odds,line,betTrend
+3001818539,Orioles - Twins,2023-07-02T16:05:00Z,False,bal-orioles-min-twins-m3001818539,10,3136700846,Vencedor do jogo,Orioles,1,1.95,101,64
+3001818539,Orioles - Twins,2023-07-02T16:05:00Z,False,bal-orioles-min-twins-m3001818539,10,3136700846,Vencedor do jogo,Twins,2,1.78,301,36
+3001818575,Braves - Marlins,2023-07-02T17:35:00Z,False,atl-braves-mia-marlins-m3001818575,16,3136703734,Vencedor do jogo,Braves,1,1.45,101,91
+3001818575,Braves - Marlins,2023-07-02T17:35:00Z,False,atl-braves-mia-marlins-m3001818575,16,3136703734,Vencedor do jogo,Marlins,2,2.75,301,9
+3001818564,Phillies - Nationals,2023-07-02T17:35:00Z,False,phi-phillies-was-nationals-m3001818564,16,3136701785,Vencedor do jogo,Phillies,1,1.38,101,91
+3001818564,Phillies - Nationals,2023-07-02T17:35:00Z,False,phi-phillies-was-nationals-m3001818564,16,3136701785,Vencedor do jogo,Nationals,2,3.0,301,9
+3001818578,Pirates - Brewers,2023-07-02T17:35:00Z,False,pit-pirates-mil-brewers-m3001818578,16,3136702131,Vencedor do jogo,Pirates,1,1.88,101,54
+3001818578,Pirates - Brewers,2023-07-02T17:35:00Z,False,pit-pirates-mil-brewers-m3001818578,16,3136702131,Vencedor do jogo,Brewers,2,1.88,301,46
+3001818596,Blue Jays - Red Sox,2023-07-02T17:35:00Z,False,tor-blue-jays-bos-red-sox-m3001818596,16,3136702713,Vencedor do jogo,Blue Jays,1,1.48,101,76
+3001818596,Blue Jays - Red Sox,2023-07-02T17:35:00Z,False,tor-blue-jays-bos-red-sox-m3001818596,16,3136702713,Vencedor do jogo,Red Sox,2,2.6,301,24
+3001818524,Reds - Padres,2023-07-02T17:40:00Z,False,cin-reds-sd-padres-m3001818524,16,3136701352,Vencedor do jogo,Reds,1,1.65,101,89
+3001818524,Reds - Padres,2023-07-02T17:40:00Z,False,cin-reds-sd-padres-m3001818524,16,3136701352,Vencedor do jogo,Padres,2,2.2,301,11
+3001818609,Royals - Dodgers,2023-07-02T18:10:00Z,False,kc-royals-la-dodgers-m3001818609,16,3136702810,Vencedor do jogo,Royals,1,2.6,101,16
+3001818609,Royals - Dodgers,2023-07-02T18:10:00Z,False,kc-royals-la-dodgers-m3001818609,16,3136702810,Vencedor do jogo,Dodgers,2,1.48,301,84
+3001818567,Cardinals - Yankees,2023-07-02T18:15:00Z,False,sl-cardinals-ny-yankees-m3001818567,16,3136701940,Vencedor do jogo,Cardinals,1,1.95,101,19
+3001818567,Cardinals - Yankees,2023-07-02T18:15:00Z,False,sl-cardinals-ny-yankees-m3001818567,16,3136701940,Vencedor do jogo,Yankees,2,1.85,301,81
+3001818551,Rangers - Astros,2023-07-02T18:35:00Z,False,tex-rangers-hou-astros-m3001818551,16,3136701088,Vencedor do jogo,Rangers,1,1.7,101,59
+3001818551,Rangers - Astros,2023-07-02T18:35:00Z,False,tex-rangers-hou-astros-m3001818551,16,3136701088,Vencedor do jogo,Astros,2,2.1,301,41
+3001818611,Rockies - Tigers,2023-07-02T19:10:00Z,False,col-rockies-det-tigers-m3001818611,16,3136702866,Vencedor do jogo,Rockies,1,1.88,101,66
+3001818611,Rockies - Tigers,2023-07-02T19:10:00Z,False,col-rockies-det-tigers-m3001818611,16,3136702866,Vencedor do jogo,Tigers,2,1.88,301,34
+3001818537,Angels - Diamondbacks,2023-07-02T20:05:00Z,False,la-angels-ari-diamondbacks-m3001818537,16,3136706808,Vencedor do jogo,Angels,1,1.9,101,24
+3001818537,Angels - Diamondbacks,2023-07-02T20:05:00Z,False,la-angels-ari-diamondbacks-m3001818537,16,3136706808,Vencedor do jogo,Diamondbacks,2,1.85,301,76
+3001818572,Mariners - Rays,2023-07-02T20:10:00Z,False,sea-mariners-tb-rays-m3001818572,16,3136701976,Vencedor do jogo,Mariners,1,1.75,101,26
+3001818572,Mariners - Rays,2023-07-02T20:10:00Z,False,sea-mariners-tb-rays-m3001818572,16,3136701976,Vencedor do jogo,Rays,2,2.05,301,74
+3001818574,Cubs - Cleveland Guardians,2023-07-02T21:05:00Z,False,chi-cubs-cleveland-guardians-m3001818574,16,3136702038,Vencedor do jogo,Cubs,1,1.95,101,65
+3001818574,Cubs - Cleveland Guardians,2023-07-02T21:05:00Z,False,chi-cubs-cleveland-guardians-m3001818574,16,3136702038,Vencedor do jogo,Cleveland Guardians,2,1.82,301,35
+3001818522,Mets - Giants,2023-07-02T23:10:00Z,False,ny-mets-sf-giants-m3001818522,16,3136700546,Vencedor do jogo,Mets,1,1.78,101,98
+3001818522,Mets - Giants,2023-07-02T23:10:00Z,False,ny-mets-sf-giants-m3001818522,16,3136700546,Vencedor do jogo,Giants,2,2.0,301,2
