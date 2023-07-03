@@ -1,0 +1,17 @@
+id_x,name_x,date,isLive_x,relativeDesktopUrl,openMarketCount,id_y,name_y,name,lx,odds,line,betTrend
+3001818495,Rangers - Astros,2023-07-03T18:05:00Z,False,tex-rangers-hou-astros-m3001818495,16,3136698830,Vencedor do jogo,Rangers,1,1.85,101,50
+3001818495,Rangers - Astros,2023-07-03T18:05:00Z,False,tex-rangers-hou-astros-m3001818495,16,3136698830,Vencedor do jogo,Astros,2,1.95,301,50
+3001818512,Brewers - Cubs,2023-07-03T18:10:00Z,False,mil-brewers-chi-cubs-m3001818512,16,3136699830,Vencedor do jogo,Brewers,1,1.85,101,77
+3001818512,Brewers - Cubs,2023-07-03T18:10:00Z,False,mil-brewers-chi-cubs-m3001818512,16,3136699830,Vencedor do jogo,Cubs,2,1.9,301,23
+3001818445,Nationals - Reds,2023-07-03T22:05:00Z,False,was-nationals-cin-reds-m3001818445,16,3136696602,Vencedor do jogo,Nationals,1,2.05,101,10
+3001818445,Nationals - Reds,2023-07-03T22:05:00Z,False,was-nationals-cin-reds-m3001818445,16,3136696602,Vencedor do jogo,Reds,2,1.75,301,90
+3001818455,Marlins - Cardinals,2023-07-03T22:40:00Z,False,mia-marlins-sl-cardinals-m3001818455,16,3136697583,Vencedor do jogo,Marlins,1,1.78,101,79
+3001818455,Marlins - Cardinals,2023-07-03T22:40:00Z,False,mia-marlins-sl-cardinals-m3001818455,16,3136697583,Vencedor do jogo,Cardinals,2,2.05,301,21
+3001818513,Yankees - Orioles,2023-07-03T23:05:00Z,False,ny-yankees-bal-orioles-m3001818513,16,3136699768,Vencedor do jogo,Yankees,1,1.95,101,83
+3001818513,Yankees - Orioles,2023-07-03T23:05:00Z,False,ny-yankees-bal-orioles-m3001818513,16,3136699768,Vencedor do jogo,Orioles,2,1.82,301,17
+3001818472,Cleveland Guardians - Braves,2023-07-03T23:10:00Z,False,cleveland-guardians-atl-braves-m3001818472,16,3136697817,Vencedor do jogo,Cleveland Guardians,1,2.25,101,6
+3001818472,Cleveland Guardians - Braves,2023-07-03T23:10:00Z,False,cleveland-guardians-atl-braves-m3001818472,16,3136697817,Vencedor do jogo,Braves,2,1.62,301,94
+3001818443,Twins - Royals,2023-07-04T00:10:00Z,False,min-twins-kc-royals-m3001818443,16,3136696478,Vencedor do jogo,Twins,1,1.42,101,100
+3001818443,Twins - Royals,2023-07-04T00:10:00Z,False,min-twins-kc-royals-m3001818443,16,3136696478,Vencedor do jogo,Royals,2,2.8,301,0
+3001818471,Giants - Mariners,2023-07-04T01:45:00Z,False,sf-giants-sea-mariners-m3001818471,16,3136697972,Vencedor do jogo,Giants,1,1.72,101,100
+3001818471,Giants - Mariners,2023-07-04T01:45:00Z,False,sf-giants-sea-mariners-m3001818471,16,3136697972,Vencedor do jogo,Mariners,2,2.1,301,0
