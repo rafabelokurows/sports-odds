@@ -1,0 +1,15 @@
+id_x,name_x,date,isLive_x,relativeDesktopUrl,openMarketCount,id_y,name_y,name,lx,odds,line,betTrend
+3001882378,Hokkaido Nippon Ham Fighters - Tohoku Rakuten Golden Eagles,2023-07-11T09:00:00Z,True,hokkaido-nippon-ham-fighters-tohoku-rakuten-golden-eagles-m3001882378,0,3145072548,Vencedor do jogo,Hokkaido Nippon Ham Fighters,1,1.8,101,
+3001882378,Hokkaido Nippon Ham Fighters - Tohoku Rakuten Golden Eagles,2023-07-11T09:00:00Z,True,hokkaido-nippon-ham-fighters-tohoku-rakuten-golden-eagles-m3001882378,0,3145072548,Vencedor do jogo,Tohoku Rakuten Golden Eagles,2,2.0,301,
+3001882373,Tokyo Yakult Swallows - Chunichi Dragons,2023-07-11T09:00:00Z,True,tokyo-yakult-swallows-chunichi-dragons-m3001882373,4,3145072409,Vencedor do jogo,Tokyo Yakult Swallows,1,2.25,101,
+3001882373,Tokyo Yakult Swallows - Chunichi Dragons,2023-07-11T09:00:00Z,True,tokyo-yakult-swallows-chunichi-dragons-m3001882373,4,3145072409,Vencedor do jogo,Chunichi Dragons,2,1.65,301,
+3001882372,Orix Buffaloes - Chiba Lotte Marines,2023-07-11T09:00:00Z,True,orix-buffaloes-chiba-lotte-marines-m3001882372,4,3145072517,Vencedor do jogo,Orix Buffaloes,1,1.7,101,
+3001882372,Orix Buffaloes - Chiba Lotte Marines,2023-07-11T09:00:00Z,True,orix-buffaloes-chiba-lotte-marines-m3001882372,4,3145072517,Vencedor do jogo,Chiba Lotte Marines,2,2.15,301,
+3001882379,Hanshin Tigers - Yokohama BayStars,2023-07-11T09:00:00Z,True,hanshin-tigers-yokohama-baystars-m3001882379,4,3145072579,Vencedor do jogo,Hanshin Tigers,1,1.6,101,
+3001882379,Hanshin Tigers - Yokohama BayStars,2023-07-11T09:00:00Z,True,hanshin-tigers-yokohama-baystars-m3001882379,4,3145072579,Vencedor do jogo,Yokohama BayStars,2,2.3,301,
+3001882374,Yomiuri Giants - Hiroshima Toyo Carp,2023-07-11T09:00:00Z,True,yomiuri-giants-hiroshima-toyo-carp-m3001882374,4,3145072347,Vencedor do jogo,Yomiuri Giants,1,1.7,101,
+3001882374,Yomiuri Giants - Hiroshima Toyo Carp,2023-07-11T09:00:00Z,True,yomiuri-giants-hiroshima-toyo-carp-m3001882374,4,3145072347,Vencedor do jogo,Hiroshima Toyo Carp,2,2.1,301,
+3001882371,Kiwoon Heroes - KT Wiz,2023-07-11T09:30:00Z,False,kiwoon-heroes-kt-wiz-m3001882371,8,3145072316,Vencedor do jogo,Kiwoon Heroes,1,1.6,101,95.0
+3001882371,Kiwoon Heroes - KT Wiz,2023-07-11T09:30:00Z,False,kiwoon-heroes-kt-wiz-m3001882371,8,3145072316,Vencedor do jogo,KT Wiz,2,2.25,301,5.0
+3001919547,Liga Americana All Stars - National League All Stars,2023-07-12T00:00:00Z,False,liga-americana-all-stars-national-league-all-stars-m3001919547,10,3148758017,Vencedor do jogo,Liga Americana All Stars,1,1.85,101,95.0
+3001919547,Liga Americana All Stars - National League All Stars,2023-07-12T00:00:00Z,False,liga-americana-all-stars-national-league-all-stars-m3001919547,10,3148758017,Vencedor do jogo,National League All Stars,2,1.9,301,5.0
