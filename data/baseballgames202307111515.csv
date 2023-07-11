@@ -1,0 +1,9 @@
+id_x,name_x,date,isLive_x,relativeDesktopUrl,openMarketCount,id_y,name_y,name,lx,odds,line,betTrend
+3001919547,Liga Americana All Stars - National League All Stars,2023-07-12T00:00:00Z,False,liga-americana-all-stars-national-league-all-stars-m3001919547,10,3148758017,Vencedor do jogo,Liga Americana All Stars,1,1.88,101,92
+3001919547,Liga Americana All Stars - National League All Stars,2023-07-12T00:00:00Z,False,liga-americana-all-stars-national-league-all-stars-m3001919547,10,3148758017,Vencedor do jogo,National League All Stars,2,1.9,301,8
+3001883254,SSG Landers - Doosan Bears,2023-07-12T09:30:00Z,False,ssg-landers-doosan-bears-m3001883254,14,3145198396,Vencedor do jogo,SSG Landers,1,1.85,101,50
+3001883254,SSG Landers - Doosan Bears,2023-07-12T09:30:00Z,False,ssg-landers-doosan-bears-m3001883254,14,3145198396,Vencedor do jogo,Doosan Bears,2,1.9,301,50
+3001883255,KIA Tigers - Samsung Lions,2023-07-12T09:30:00Z,False,kia-tigers-samsung-lions-m3001883255,14,3145198427,Vencedor do jogo,KIA Tigers,1,1.55,101,100
+3001883255,KIA Tigers - Samsung Lions,2023-07-12T09:30:00Z,False,kia-tigers-samsung-lions-m3001883255,14,3145198427,Vencedor do jogo,Samsung Lions,2,2.35,301,0
+3001883260,LG Twins - Hanwha Eagles,2023-07-12T09:30:00Z,False,lg-twins-hanwha-eagles-m3001883260,14,3145198497,Vencedor do jogo,LG Twins,1,1.5,101,100
+3001883260,LG Twins - Hanwha Eagles,2023-07-12T09:30:00Z,False,lg-twins-hanwha-eagles-m3001883260,14,3145198497,Vencedor do jogo,Hanwha Eagles,2,2.5,301,0
