@@ -1,0 +1,15 @@
+id_x,name_x,date,isLive_x,relativeDesktopUrl,openMarketCount,id_y,name_y,name,lx,odds,line,betTrend
+3001919547,Liga Americana All Stars - National League All Stars,2023-07-12T00:00:00Z,False,liga-americana-all-stars-national-league-all-stars-m3001919547,10,3148758017,Vencedor do jogo,Liga Americana All Stars,1,1.88,101,88
+3001919547,Liga Americana All Stars - National League All Stars,2023-07-12T00:00:00Z,False,liga-americana-all-stars-national-league-all-stars-m3001919547,10,3148758017,Vencedor do jogo,National League All Stars,2,1.9,301,12
+3001883258,Orix Buffaloes - Chiba Lotte Marines,2023-07-12T09:00:00Z,False,orix-buffaloes-chiba-lotte-marines-m3001883258,13,3145198528,Vencedor do jogo,Orix Buffaloes,1,2.3,101,50
+3001883258,Orix Buffaloes - Chiba Lotte Marines,2023-07-12T09:00:00Z,False,orix-buffaloes-chiba-lotte-marines-m3001883258,13,3145198528,Vencedor do jogo,Chiba Lotte Marines,2,1.58,301,50
+3001883262,Hokkaido Nippon Ham Fighters - Tohoku Rakuten Golden Eagles,2023-07-12T09:00:00Z,False,hokkaido-nippon-ham-fighters-tohoku-rakuten-golden-eagles-m3001883262,13,3145198652,Vencedor do jogo,Hokkaido Nippon Ham Fighters,1,1.85,101,100
+3001883262,Hokkaido Nippon Ham Fighters - Tohoku Rakuten Golden Eagles,2023-07-12T09:00:00Z,False,hokkaido-nippon-ham-fighters-tohoku-rakuten-golden-eagles-m3001883262,13,3145198652,Vencedor do jogo,Tohoku Rakuten Golden Eagles,2,1.88,301,0
+3001883257,Fukuoka SoftBank Hawks - Saitama Seibu Lions,2023-07-12T09:15:00Z,False,fukuoka-softbank-hawks-saitama-seibu-lions-m3001883257,13,3145198559,Vencedor do jogo,Fukuoka SoftBank Hawks,1,1.6,101,100
+3001883257,Fukuoka SoftBank Hawks - Saitama Seibu Lions,2023-07-12T09:15:00Z,False,fukuoka-softbank-hawks-saitama-seibu-lions-m3001883257,13,3145198559,Vencedor do jogo,Saitama Seibu Lions,2,2.25,301,0
+3001883254,SSG Landers - Doosan Bears,2023-07-12T09:30:00Z,False,ssg-landers-doosan-bears-m3001883254,14,3145198396,Vencedor do jogo,SSG Landers,1,1.85,101,57
+3001883254,SSG Landers - Doosan Bears,2023-07-12T09:30:00Z,False,ssg-landers-doosan-bears-m3001883254,14,3145198396,Vencedor do jogo,Doosan Bears,2,1.9,301,43
+3001883260,LG Twins - Hanwha Eagles,2023-07-12T09:30:00Z,False,lg-twins-hanwha-eagles-m3001883260,14,3145198497,Vencedor do jogo,LG Twins,1,1.5,101,100
+3001883260,LG Twins - Hanwha Eagles,2023-07-12T09:30:00Z,False,lg-twins-hanwha-eagles-m3001883260,14,3145198497,Vencedor do jogo,Hanwha Eagles,2,2.5,301,0
+3001883255,KIA Tigers - Samsung Lions,2023-07-12T09:30:00Z,False,kia-tigers-samsung-lions-m3001883255,14,3145198427,Vencedor do jogo,KIA Tigers,1,1.55,101,78
+3001883255,KIA Tigers - Samsung Lions,2023-07-12T09:30:00Z,False,kia-tigers-samsung-lions-m3001883255,14,3145198427,Vencedor do jogo,Samsung Lions,2,2.35,301,22
