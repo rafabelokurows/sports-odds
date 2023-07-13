@@ -1,0 +1,15 @@
+id_x,name_x,date,isLive_x,relativeDesktopUrl,openMarketCount,id_y,name_y,name,lx,odds,line,betTrend
+3001884093,Yomiuri Giants - Hiroshima Toyo Carp,2023-07-13T09:00:00Z,True,yomiuri-giants-hiroshima-toyo-carp-m3001884093,4,3145345513,Vencedor do jogo,Yomiuri Giants,1,1.65,101,
+3001884093,Yomiuri Giants - Hiroshima Toyo Carp,2023-07-13T09:00:00Z,True,yomiuri-giants-hiroshima-toyo-carp-m3001884093,4,3145345513,Vencedor do jogo,Hiroshima Toyo Carp,2,2.2,301,
+3001884097,Fukuoka SoftBank Hawks - Saitama Seibu Lions,2023-07-13T09:00:00Z,True,fukuoka-softbank-hawks-saitama-seibu-lions-m3001884097,0,3145345576,Vencedor do jogo,Fukuoka SoftBank Hawks,1,1.75,101,
+3001884097,Fukuoka SoftBank Hawks - Saitama Seibu Lions,2023-07-13T09:00:00Z,True,fukuoka-softbank-hawks-saitama-seibu-lions-m3001884097,0,3145345576,Vencedor do jogo,Saitama Seibu Lions,2,2.05,301,
+3001884092,Tokyo Yakult Swallows - Chunichi Dragons,2023-07-13T09:00:00Z,True,tokyo-yakult-swallows-chunichi-dragons-m3001884092,4,3145345638,Vencedor do jogo,Tokyo Yakult Swallows,1,1.7,101,
+3001884092,Tokyo Yakult Swallows - Chunichi Dragons,2023-07-13T09:00:00Z,True,tokyo-yakult-swallows-chunichi-dragons-m3001884092,4,3145345638,Vencedor do jogo,Chunichi Dragons,2,2.1,301,
+3001884095,SSG Landers - Doosan Bears,2023-07-13T09:30:00Z,False,ssg-landers-doosan-bears-m3001884095,8,3145345731,Vencedor do jogo,SSG Landers,1,1.88,101,50.0
+3001884095,SSG Landers - Doosan Bears,2023-07-13T09:30:00Z,False,ssg-landers-doosan-bears-m3001884095,8,3145345731,Vencedor do jogo,Doosan Bears,2,1.88,301,50.0
+3001884096,NC Dinos - Lotte Giants,2023-07-13T09:30:00Z,False,nc-dinos-lotte-giants-m3001884096,8,3145345669,Vencedor do jogo,NC Dinos,1,1.82,101,53.0
+3001884096,NC Dinos - Lotte Giants,2023-07-13T09:30:00Z,False,nc-dinos-lotte-giants-m3001884096,8,3145345669,Vencedor do jogo,Lotte Giants,2,1.9,301,47.0
+3001884089,KIA Tigers - Samsung Lions,2023-07-13T09:30:00Z,False,kia-tigers-samsung-lions-m3001884089,8,3145345480,Vencedor do jogo,KIA Tigers,1,1.58,101,89.0
+3001884089,KIA Tigers - Samsung Lions,2023-07-13T09:30:00Z,False,kia-tigers-samsung-lions-m3001884089,8,3145345480,Vencedor do jogo,Samsung Lions,2,2.3,301,11.0
+3001884090,Kiwoon Heroes - KT Wiz,2023-07-13T09:30:00Z,False,kiwoon-heroes-kt-wiz-m3001884090,8,3145345607,Vencedor do jogo,Kiwoon Heroes,1,2.2,101,50.0
+3001884090,Kiwoon Heroes - KT Wiz,2023-07-13T09:30:00Z,False,kiwoon-heroes-kt-wiz-m3001884090,8,3145345607,Vencedor do jogo,KT Wiz,2,1.62,301,50.0
