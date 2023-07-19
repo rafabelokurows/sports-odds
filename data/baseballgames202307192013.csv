@@ -1,0 +1,31 @@
+id_x,name_x,date,isLive_x,relativeDesktopUrl,openMarketCount,id_y,name_y,name,lx,odds,line,betTrend
+3001818312,Athletics - Red Sox,2023-07-19T19:35:00Z,True,oak-athletics-bos-red-sox-m3001818312,5,3136693442,Vencedor do jogo,Athletics,1,2.4,101,
+3001818312,Athletics - Red Sox,2023-07-19T19:35:00Z,True,oak-athletics-bos-red-sox-m3001818312,5,3136693442,Vencedor do jogo,Red Sox,2,1.57,301,
+3001818362,Cardinals - Marlins,2023-07-19T18:15:00Z,True,sl-cardinals-mia-marlins-m3001818362,5,3136698429,Vencedor do jogo,Cardinals,1,1.15,101,
+3001818362,Cardinals - Marlins,2023-07-19T18:15:00Z,True,sl-cardinals-mia-marlins-m3001818362,5,3136698429,Vencedor do jogo,Marlins,2,5.2,301,
+3001818329,Rockies - Astros,2023-07-19T19:10:00Z,True,col-rockies-hou-astros-m3001818329,5,3136697459,Vencedor do jogo,Rockies,1,2.3,101,
+3001818329,Rockies - Astros,2023-07-19T19:10:00Z,True,col-rockies-hou-astros-m3001818329,5,3136697459,Vencedor do jogo,Astros,2,1.6,301,
+3001818311,Rangers - Rays,2023-07-19T18:05:00Z,True,tex-rangers-tb-rays-m3001818311,5,3136697171,Vencedor do jogo,Rangers,1,1.07,101,
+3001818311,Rangers - Rays,2023-07-19T18:05:00Z,True,tex-rangers-tb-rays-m3001818311,5,3136697171,Vencedor do jogo,Rays,2,8.0,301,
+3001818296,Orioles - Dodgers,2023-07-19T17:05:00Z,True,bal-orioles-la-dodgers-m3001818296,5,3136693223,Vencedor do jogo,Orioles,1,1.01,101,
+3001818296,Orioles - Dodgers,2023-07-19T17:05:00Z,True,bal-orioles-la-dodgers-m3001818296,5,3136693223,Vencedor do jogo,Dodgers,2,13.5,301,
+3001818366,Phillies - Brewers,2023-07-19T22:40:00Z,False,phi-phillies-mil-brewers-m3001818366,16,3136694491,Vencedor do jogo,Phillies,1,1.68,101,86.0
+3001818366,Phillies - Brewers,2023-07-19T22:40:00Z,False,phi-phillies-mil-brewers-m3001818366,16,3136694491,Vencedor do jogo,Brewers,2,2.15,301,14.0
+3001818327,Blue Jays - Padres,2023-07-19T23:05:00Z,False,tor-blue-jays-sd-padres-m3001818327,16,3136693659,Vencedor do jogo,Blue Jays,1,1.8,101,73.0
+3001818327,Blue Jays - Padres,2023-07-19T23:05:00Z,False,tor-blue-jays-sd-padres-m3001818327,16,3136693659,Vencedor do jogo,Padres,2,1.95,301,27.0
+3001818302,Angels - Yankees,2023-07-19T23:05:00Z,False,la-angels-ny-yankees-m3001818302,16,3136696731,Vencedor do jogo,Angels,1,2.15,101,31.0
+3001818302,Angels - Yankees,2023-07-19T23:05:00Z,False,la-angels-ny-yankees-m3001818302,16,3136696731,Vencedor do jogo,Yankees,2,1.68,301,69.0
+3001818287,Mets - White Sox,2023-07-19T23:10:00Z,False,ny-mets-chi-white-sox-m3001818287,16,3136696633,Vencedor do jogo,Mets,1,1.45,101,95.0
+3001818287,Mets - White Sox,2023-07-19T23:10:00Z,False,ny-mets-chi-white-sox-m3001818287,16,3136696633,Vencedor do jogo,White Sox,2,2.7,301,5.0
+3001818355,Reds - Giants,2023-07-19T23:10:00Z,False,cin-reds-sf-giants-m3001818355,16,3136694553,Vencedor do jogo,Reds,1,1.88,101,34.0
+3001818355,Reds - Giants,2023-07-19T23:10:00Z,False,cin-reds-sf-giants-m3001818355,16,3136694553,Vencedor do jogo,Giants,2,1.9,301,66.0
+3001818365,Braves - Diamondbacks,2023-07-19T23:20:00Z,False,atl-braves-ari-diamondbacks-m3001818365,16,3136698398,Vencedor do jogo,Braves,1,1.42,101,95.0
+3001818365,Braves - Diamondbacks,2023-07-19T23:20:00Z,False,atl-braves-ari-diamondbacks-m3001818365,16,3136698398,Vencedor do jogo,Diamondbacks,2,2.85,301,5.0
+3001818292,Cubs - Nationals,2023-07-20T00:05:00Z,False,chi-cubs-was-nationals-m3001818292,16,3136692943,Vencedor do jogo,Cubs,1,1.58,101,93.0
+3001818292,Cubs - Nationals,2023-07-20T00:05:00Z,False,chi-cubs-was-nationals-m3001818292,16,3136692943,Vencedor do jogo,Nationals,2,2.35,301,7.0
+3001818309,Royals - Tigers,2023-07-20T00:10:00Z,False,kc-royals-det-tigers-m3001818309,16,3136697130,Vencedor do jogo,Royals,1,2.2,101,18.0
+3001818309,Royals - Tigers,2023-07-20T00:10:00Z,False,kc-royals-det-tigers-m3001818309,16,3136697130,Vencedor do jogo,Tigers,2,1.65,301,82.0
+3001818356,Mariners - Twins,2023-07-20T01:40:00Z,False,sea-mariners-min-twins-m3001818356,16,3136694336,Vencedor do jogo,Mariners,1,1.65,101,75.0
+3001818356,Mariners - Twins,2023-07-20T01:40:00Z,False,sea-mariners-min-twins-m3001818356,16,3136694336,Vencedor do jogo,Twins,2,2.2,301,25.0
+3001894555,Samsung Lions - KT Wiz,2023-07-21T09:30:00Z,False,samsung-lions-kt-wiz-m3001894555,14,3146359093,Vencedor do jogo,Samsung Lions,1,1.65,101,100.0
+3001894555,Samsung Lions - KT Wiz,2023-07-21T09:30:00Z,False,samsung-lions-kt-wiz-m3001894555,14,3146359093,Vencedor do jogo,KT Wiz,2,2.15,301,0.0
