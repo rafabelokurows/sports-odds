@@ -1,0 +1,21 @@
+id_x,name_x,date,isLive_x,relativeDesktopUrl,openMarketCount,id_y,name_y,name,lx,odds,line,betTrend
+3001818322,Royals - Tigers,2023-07-20T18:10:00Z,True,kc-royals-det-tigers-m3001818322,1,3136697233,Vencedor do jogo,Royals,1,13.0,101,
+3001818322,Royals - Tigers,2023-07-20T18:10:00Z,True,kc-royals-det-tigers-m3001818322,1,3136697233,Vencedor do jogo,Tigers,2,1.02,301,
+3001818341,Mariners - Twins,2023-07-20T19:40:00Z,True,sea-mariners-min-twins-m3001818341,5,3136697696,Vencedor do jogo,Mariners,1,1.35,101,
+3001818341,Mariners - Twins,2023-07-20T19:40:00Z,True,sea-mariners-min-twins-m3001818341,5,3136697696,Vencedor do jogo,Twins,2,3.1,301,
+3001818361,Rays - Orioles,2023-07-20T22:40:00Z,False,tb-rays-bal-orioles-m3001818361,16,3136698225,Vencedor do jogo,Rays,1,1.52,101,85.0
+3001818361,Rays - Orioles,2023-07-20T22:40:00Z,False,tb-rays-bal-orioles-m3001818361,16,3136698225,Vencedor do jogo,Orioles,2,2.5,301,15.0
+3001818308,Cubs - Cardinals,2023-07-21T00:05:00Z,False,chi-cubs-sl-cardinals-m3001818308,16,3136693349,Vencedor do jogo,Cubs,1,1.8,101,88.0
+3001818308,Cubs - Cardinals,2023-07-21T00:05:00Z,False,chi-cubs-sl-cardinals-m3001818308,16,3136693349,Vencedor do jogo,Cardinals,2,2.0,301,12.0
+3001818318,Athletics - Astros,2023-07-21T01:40:00Z,False,oak-athletics-hou-astros-m3001818318,16,3136693597,Vencedor do jogo,Athletics,1,2.7,101,4.0
+3001818318,Athletics - Astros,2023-07-21T01:40:00Z,False,oak-athletics-hou-astros-m3001818318,16,3136693597,Vencedor do jogo,Astros,2,1.45,301,96.0
+3001894555,Samsung Lions - KT Wiz,2023-07-21T09:30:00Z,False,samsung-lions-kt-wiz-m3001894555,14,3146359093,Vencedor do jogo,Samsung Lions,1,2.0,101,77.0
+3001894555,Samsung Lions - KT Wiz,2023-07-21T09:30:00Z,False,samsung-lions-kt-wiz-m3001894555,14,3146359093,Vencedor do jogo,KT Wiz,2,1.75,301,23.0
+3001894554,LG Twins - SSG Landers,2023-07-21T09:30:00Z,False,lg-twins-ssg-landers-m3001894554,14,3146359062,Vencedor do jogo,LG Twins,1,1.72,101,95.0
+3001894554,LG Twins - SSG Landers,2023-07-21T09:30:00Z,False,lg-twins-ssg-landers-m3001894554,14,3146359062,Vencedor do jogo,SSG Landers,2,2.05,301,5.0
+3001894553,Hanwha Eagles - NC Dinos,2023-07-21T09:30:00Z,False,hanwha-eagles-nc-dinos-m3001894553,14,3146359028,Vencedor do jogo,Hanwha Eagles,1,2.1,101,48.0
+3001894553,Hanwha Eagles - NC Dinos,2023-07-21T09:30:00Z,False,hanwha-eagles-nc-dinos-m3001894553,14,3146359028,Vencedor do jogo,NC Dinos,2,1.7,301,52.0
+3001894558,Lotte Giants - Kiwoon Heroes,2023-07-21T09:30:00Z,False,lotte-giants-kiwoon-heroes-m3001894558,14,3146359187,Vencedor do jogo,Lotte Giants,1,2.1,101,47.0
+3001894558,Lotte Giants - Kiwoon Heroes,2023-07-21T09:30:00Z,False,lotte-giants-kiwoon-heroes-m3001894558,14,3146359187,Vencedor do jogo,Kiwoon Heroes,2,1.68,301,53.0
+3001894559,KIA Tigers - Doosan Bears,2023-07-21T09:30:00Z,False,kia-tigers-doosan-bears-m3001894559,14,3146359154,Vencedor do jogo,KIA Tigers,1,1.95,101,50.0
+3001894559,KIA Tigers - Doosan Bears,2023-07-21T09:30:00Z,False,kia-tigers-doosan-bears-m3001894559,14,3146359154,Vencedor do jogo,Doosan Bears,2,1.8,301,50.0
