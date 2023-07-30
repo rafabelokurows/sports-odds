@@ -1,0 +1,13 @@
+id_x,name_x,date,isLive_x,relativeDesktopUrl,openMarketCount,id_y,name_y,name,lx,odds,line,betTrend
+3001818202,Padres - Rangers,2023-07-30T20:10:00Z,True,padres-rangers-m3001818202,1,3136690549,Vencedor do jogo,Padres,1,1.01,101,
+3001818202,Padres - Rangers,2023-07-30T20:10:00Z,True,padres-rangers-m3001818202,1,3136690549,Vencedor do jogo,Rangers,2,13.5,301,
+3001818266,Giants - Red Sox,2023-07-30T20:05:00Z,True,giants-red-sox-m3001818266,1,3136692247,Vencedor do jogo,Giants,1,1.25,101,
+3001818266,Giants - Red Sox,2023-07-30T20:05:00Z,True,giants-red-sox-m3001818266,1,3136692247,Vencedor do jogo,Red Sox,2,3.9,301,
+3001818243,Orioles - Yankees,2023-07-30T23:10:00Z,True,orioles-yankees-m3001818243,5,3136692061,Vencedor do jogo,Orioles,1,1.65,101,
+3001818243,Orioles - Yankees,2023-07-30T23:10:00Z,True,orioles-yankees-m3001818243,5,3136692061,Vencedor do jogo,Yankees,2,2.2,301,
+3001819150,Nationals - Brewers,2023-07-31T23:05:00Z,False,nationals-brewers-m3001819150,16,3136719010,Vencedor do jogo,Nationals,1,2.55,101,10.0
+3001819150,Nationals - Brewers,2023-07-31T23:05:00Z,False,nationals-brewers-m3001819150,16,3136719010,Vencedor do jogo,Brewers,2,1.48,301,90.0
+3001819217,Blue Jays - Orioles,2023-07-31T23:05:00Z,False,blue-jays-orioles-m3001819217,16,3136720925,Vencedor do jogo,Blue Jays,1,1.68,101,100.0
+3001819217,Blue Jays - Orioles,2023-07-31T23:05:00Z,False,blue-jays-orioles-m3001819217,16,3136720925,Vencedor do jogo,Orioles,2,2.15,301,0.0
+3001819151,Braves - Angels,2023-07-31T23:20:00Z,False,braves-angels-m3001819151,16,3136719103,Vencedor do jogo,Braves,1,1.38,101,86.0
+3001819151,Braves - Angels,2023-07-31T23:20:00Z,False,braves-angels-m3001819151,16,3136719103,Vencedor do jogo,Angels,2,2.95,301,14.0
