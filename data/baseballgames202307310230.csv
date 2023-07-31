@@ -1,0 +1,17 @@
+id_x,name_x,date,isLive_x,relativeDesktopUrl,openMarketCount,id_y,name_y,name,lx,odds,line,betTrend
+3001819189,Marlins - Phillies,2023-07-31T22:40:00Z,False,marlins-phillies-m3001819189,16,3136724038,Vencedor do jogo,Marlins,1,1.9,101,38
+3001819189,Marlins - Phillies,2023-07-31T22:40:00Z,False,marlins-phillies-m3001819189,16,3136724038,Vencedor do jogo,Phillies,2,1.88,301,62
+3001819150,Nationals - Brewers,2023-07-31T23:05:00Z,False,nationals-brewers-m3001819150,16,3136719010,Vencedor do jogo,Nationals,1,2.55,101,7
+3001819150,Nationals - Brewers,2023-07-31T23:05:00Z,False,nationals-brewers-m3001819150,16,3136719010,Vencedor do jogo,Brewers,2,1.48,301,93
+3001819217,Blue Jays - Orioles,2023-07-31T23:05:00Z,False,blue-jays-orioles-m3001819217,16,3136720925,Vencedor do jogo,Blue Jays,1,1.68,101,82
+3001819217,Blue Jays - Orioles,2023-07-31T23:05:00Z,False,blue-jays-orioles-m3001819217,16,3136720925,Vencedor do jogo,Orioles,2,2.15,301,18
+3001819151,Braves - Angels,2023-07-31T23:20:00Z,False,braves-angels-m3001819151,16,3136719103,Vencedor do jogo,Braves,1,1.4,101,92
+3001819151,Braves - Angels,2023-07-31T23:20:00Z,False,braves-angels-m3001819151,16,3136719103,Vencedor do jogo,Angels,2,2.85,301,8
+3001819187,Cubs - Reds,2023-08-01T00:05:00Z,False,cubs-reds-m3001819187,1,3136722876,Vencedor do jogo,Cubs,1,1.8,101,18
+3001819187,Cubs - Reds,2023-08-01T00:05:00Z,False,cubs-reds-m3001819187,1,3136722876,Vencedor do jogo,Reds,2,2.0,301,82
+3001819168,Astros - Cleveland Guardians,2023-08-01T00:10:00Z,False,astros-cleveland-guardians-m3001819168,16,3136719813,Vencedor do jogo,Astros,1,1.5,101,67
+3001819168,Astros - Cleveland Guardians,2023-08-01T00:10:00Z,False,astros-cleveland-guardians-m3001819168,16,3136719813,Vencedor do jogo,Cleveland Guardians,2,2.55,301,33
+3001819181,Rockies - Padres,2023-08-01T00:40:00Z,False,rockies-padres-m3001819181,16,3136722783,Vencedor do jogo,Rockies,1,2.7,101,7
+3001819181,Rockies - Padres,2023-08-01T00:40:00Z,False,rockies-padres-m3001819181,16,3136722783,Vencedor do jogo,Padres,2,1.45,301,93
+3001819230,Mariners - Red Sox,2023-08-01T01:40:00Z,False,mariners-red-sox-m3001819230,16,3136723775,Vencedor do jogo,Mariners,1,1.72,101,100
+3001819230,Mariners - Red Sox,2023-08-01T01:40:00Z,False,mariners-red-sox-m3001819230,16,3136723775,Vencedor do jogo,Red Sox,2,2.1,301,0
