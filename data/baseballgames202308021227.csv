@@ -1,0 +1,41 @@
+id_x,name_x,date,isLive_x,relativeDesktopUrl,openMarketCount,id_y,name_y,name,lx,odds,line,betTrend
+3001912865,Lotte Giants - NC Dinos,2023-08-02T09:30:00Z,True,lotte-giants-nc-dinos-m3001912865,5,3147930646,Vencedor do jogo,Lotte Giants,1,1.07,101,
+3001912865,Lotte Giants - NC Dinos,2023-08-02T09:30:00Z,True,lotte-giants-nc-dinos-m3001912865,5,3147930646,Vencedor do jogo,NC Dinos,2,8.25,301,
+3001912862,Samsung Lions - KIA Tigers,2023-08-02T09:30:00Z,True,samsung-lions-kia-tigers-m3001912862,1,3147930491,Vencedor do jogo,Samsung Lions,1,8.75,101,
+3001912862,Samsung Lions - KIA Tigers,2023-08-02T09:30:00Z,True,samsung-lions-kia-tigers-m3001912862,1,3147930491,Vencedor do jogo,KIA Tigers,2,1.06,301,
+3001912866,Hanwha Eagles - Doosan Bears,2023-08-02T09:30:00Z,True,hanwha-eagles-doosan-bears-m3001912866,1,3147930615,Vencedor do jogo,Hanwha Eagles,1,1.55,101,
+3001912866,Hanwha Eagles - Doosan Bears,2023-08-02T09:30:00Z,True,hanwha-eagles-doosan-bears-m3001912866,1,3147930615,Vencedor do jogo,Doosan Bears,2,2.4,301,
+3001912858,LG Twins - Kiwoon Heroes,2023-08-02T09:30:00Z,True,lg-twins-kiwoon-heroes-m3001912858,0,3147930360,Vencedor do jogo,LG Twins,1,1.0,101,
+3001912858,LG Twins - Kiwoon Heroes,2023-08-02T09:30:00Z,True,lg-twins-kiwoon-heroes-m3001912858,0,3147930360,Vencedor do jogo,Kiwoon Heroes,2,16.5,301,
+3001912867,Chiba Lotte Marines - Hokkaido Nippon Ham Fighters,2023-08-02T09:00:00Z,True,chiba-lotte-marines-hokkaido-nippon-ham-fighters-m3001912867,1,3147930584,Vencedor do jogo,Chiba Lotte Marines,1,16.5,101,
+3001912867,Chiba Lotte Marines - Hokkaido Nippon Ham Fighters,2023-08-02T09:00:00Z,True,chiba-lotte-marines-hokkaido-nippon-ham-fighters-m3001912867,1,3147930584,Vencedor do jogo,Hokkaido Nippon Ham Fighters,2,1.0,301,
+3001912863,Orix Buffaloes - Tohoku Rakuten Golden Eagles,2023-08-02T09:00:00Z,True,orix-buffaloes-tohoku-rakuten-golden-eagles-m3001912863,1,3147930522,Vencedor do jogo,Orix Buffaloes,1,1.47,101,
+3001912863,Orix Buffaloes - Tohoku Rakuten Golden Eagles,2023-08-02T09:00:00Z,True,orix-buffaloes-tohoku-rakuten-golden-eagles-m3001912863,1,3147930522,Vencedor do jogo,Tohoku Rakuten Golden Eagles,2,2.6,301,
+3001819203,Braves - Angels,2023-08-02T16:20:00Z,False,braves-angels-m3001819203,16,3136723148,Vencedor do jogo,Braves,1,1.65,101,93.0
+3001819203,Braves - Angels,2023-08-02T16:20:00Z,False,braves-angels-m3001819203,16,3136723148,Vencedor do jogo,Angels,2,2.2,301,7.0
+3001819137,Pirates - Tigers,2023-08-02T16:35:00Z,False,pirates-tigers-m3001819137,16,3136722584,Vencedor do jogo,Pirates,1,2.0,101,52.0
+3001819137,Pirates - Tigers,2023-08-02T16:35:00Z,False,pirates-tigers-m3001819137,16,3136722584,Vencedor do jogo,Tigers,2,1.8,301,48.0
+3001819204,Nationals - Brewers,2023-08-02T17:05:00Z,False,nationals-brewers-m3001819204,16,3136723117,Vencedor do jogo,Nationals,1,2.1,101,15.0
+3001819204,Nationals - Brewers,2023-08-02T17:05:00Z,False,nationals-brewers-m3001819204,16,3136723117,Vencedor do jogo,Brewers,2,1.72,301,85.0
+3001819224,Rockies - Padres,2023-08-02T19:10:00Z,False,rockies-padres-m3001819224,16,3136723574,Vencedor do jogo,Rockies,1,2.9,101,9.0
+3001819224,Rockies - Padres,2023-08-02T19:10:00Z,False,rockies-padres-m3001819224,16,3136723574,Vencedor do jogo,Padres,2,1.4,301,91.0
+3001819220,Mariners - Red Sox,2023-08-02T20:10:00Z,False,mariners-red-sox-m3001819220,16,3136721018,Vencedor do jogo,Mariners,1,1.75,101,65.0
+3001819220,Mariners - Red Sox,2023-08-02T20:10:00Z,False,mariners-red-sox-m3001819220,16,3136721018,Vencedor do jogo,Red Sox,2,2.05,301,35.0
+3001819153,Marlins - Phillies,2023-08-02T22:40:00Z,False,marlins-phillies-m3001819153,16,3136723843,Vencedor do jogo,Marlins,1,2.1,101,27.0
+3001819153,Marlins - Phillies,2023-08-02T22:40:00Z,False,marlins-phillies-m3001819153,16,3136723843,Vencedor do jogo,Phillies,2,1.72,301,73.0
+3001819142,Yankees - Rays,2023-08-02T23:05:00Z,False,yankees-rays-m3001819142,16,3136722553,Vencedor do jogo,Yankees,1,1.88,101,57.0
+3001819142,Yankees - Rays,2023-08-02T23:05:00Z,False,yankees-rays-m3001819142,16,3136722553,Vencedor do jogo,Rays,2,1.88,301,43.0
+3001819228,Blue Jays - Orioles,2023-08-02T23:05:00Z,False,blue-jays-orioles-m3001819228,16,3136723405,Vencedor do jogo,Blue Jays,1,1.78,101,31.0
+3001819228,Blue Jays - Orioles,2023-08-02T23:05:00Z,False,blue-jays-orioles-m3001819228,16,3136723405,Vencedor do jogo,Orioles,2,2.0,301,69.0
+3001819161,Cardinals - Twins,2023-08-02T23:45:00Z,False,cardinals-twins-m3001819161,16,3136719415,Vencedor do jogo,Cardinals,1,2.05,101,24.0
+3001819161,Cardinals - Twins,2023-08-02T23:45:00Z,False,cardinals-twins-m3001819161,16,3136719415,Vencedor do jogo,Twins,2,1.72,301,76.0
+3001819212,Rangers - White Sox,2023-08-03T00:05:00Z,False,rangers-white-sox-m3001819212,16,3136723247,Vencedor do jogo,Rangers,1,1.68,101,71.0
+3001819212,Rangers - White Sox,2023-08-03T00:05:00Z,False,rangers-white-sox-m3001819212,16,3136723247,Vencedor do jogo,White Sox,2,2.15,301,29.0
+3001819186,Cubs - Reds,2023-08-03T00:05:00Z,False,cubs-reds-m3001819186,16,3136722940,Vencedor do jogo,Cubs,1,1.72,101,58.0
+3001819186,Cubs - Reds,2023-08-03T00:05:00Z,False,cubs-reds-m3001819186,16,3136722940,Vencedor do jogo,Reds,2,2.1,301,42.0
+3001819219,Royals - Mets,2023-08-03T00:10:00Z,False,royals-mets-m3001819219,16,3136723373,Vencedor do jogo,Royals,1,2.5,101,13.0
+3001819219,Royals - Mets,2023-08-03T00:10:00Z,False,royals-mets-m3001819219,16,3136723373,Vencedor do jogo,Mets,2,1.5,301,87.0
+3001819206,Giants - Diamondbacks,2023-08-03T01:45:00Z,False,giants-diamondbacks-m3001819206,16,3136720427,Vencedor do jogo,Giants,1,1.52,101,93.0
+3001819206,Giants - Diamondbacks,2023-08-03T01:45:00Z,False,giants-diamondbacks-m3001819206,16,3136720427,Vencedor do jogo,Diamondbacks,2,2.5,301,7.0
+3001819156,Dodgers - Athletics,2023-08-03T02:10:00Z,False,dodgers-athletics-m3001819156,16,3136719322,Vencedor do jogo,Dodgers,1,1.32,101,98.0
+3001819156,Dodgers - Athletics,2023-08-03T02:10:00Z,False,dodgers-athletics-m3001819156,16,3136719322,Vencedor do jogo,Athletics,2,3.3,301,2.0
