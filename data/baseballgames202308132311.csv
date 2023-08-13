@@ -1,0 +1,17 @@
+id_x,name_x,date,isLive_x,relativeDesktopUrl,openMarketCount,id_y,name_y,name,lx,odds,line,betTrend
+3001928791,Mets - Braves,2023-08-13T23:10:00Z,True,mets-braves-m3001928791,5,3149654736,Vencedor do jogo,Mets,1,2.15,101,
+3001928791,Mets - Braves,2023-08-13T23:10:00Z,True,mets-braves-m3001928791,5,3149654736,Vencedor do jogo,Braves,2,1.65,301,
+3001929013,Mariners - Orioles,2023-08-13T20:10:00Z,True,mariners-orioles-m3001929013,1,3149675488,Vencedor do jogo,Mariners,1,5.3,101,
+3001929013,Mariners - Orioles,2023-08-13T20:10:00Z,True,mariners-orioles-m3001929013,1,3149675488,Vencedor do jogo,Orioles,2,1.15,301,
+3001982910,Pirates - Reds,2023-08-13T22:05:00Z,True,pirates-reds-m3001982910,5,3154541877,Vencedor do jogo,Pirates,1,1.8,101,
+3001982910,Pirates - Reds,2023-08-13T22:05:00Z,True,pirates-reds-m3001982910,5,3154541877,Vencedor do jogo,Reds,2,2.0,301,
+3001930364,Marlins - Astros,2023-08-14T22:40:00Z,False,marlins-astros-m3001930364,16,3149814722,Vencedor do jogo,MIA Marlins,1,2.25,101,6.0
+3001930364,Marlins - Astros,2023-08-14T22:40:00Z,False,marlins-astros-m3001930364,16,3149814722,Vencedor do jogo,HOU Astros,2,1.62,301,94.0
+3001930365,Braves - Yankees,2023-08-14T23:20:00Z,False,braves-yankees-m3001930365,16,3149814691,Vencedor do jogo,ATL Braves,1,1.42,101,
+3001930365,Braves - Yankees,2023-08-14T23:20:00Z,False,braves-yankees-m3001930365,16,3149814691,Vencedor do jogo,NY Yankees,2,2.8,301,
+3001930363,Cardinals - Athletics,2023-08-14T23:45:00Z,False,cardinals-athletics-m3001930363,16,3149814784,Vencedor do jogo,SL Cardinals,1,1.45,101,100.0
+3001930363,Cardinals - Athletics,2023-08-14T23:45:00Z,False,cardinals-athletics-m3001930363,16,3149814784,Vencedor do jogo,OAK Athletics,2,2.65,301,0.0
+3001930361,Rangers - Angels,2023-08-15T00:05:00Z,False,rangers-angels-m3001930361,16,3149814629,Vencedor do jogo,TEX Rangers,1,1.55,101,100.0
+3001930361,Rangers - Angels,2023-08-15T00:05:00Z,False,rangers-angels-m3001930361,16,3149814629,Vencedor do jogo,LA Angels,2,2.4,301,0.0
+3001961321,Royals - Mariners,2023-08-15T00:10:00Z,False,royals-mariners-m3001961321,16,3152049876,Vencedor do jogo,KC Royals,1,2.2,101,0.0
+3001961321,Royals - Mariners,2023-08-15T00:10:00Z,False,royals-mariners-m3001961321,16,3152049876,Vencedor do jogo,SEA Mariners,2,1.65,301,100.0
