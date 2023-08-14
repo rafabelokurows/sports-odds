@@ -1,0 +1,15 @@
+id_x,name_x,date,isLive_x,relativeDesktopUrl,openMarketCount,id_y,name_y,name,lx,odds,line,betTrend
+3001930364,Marlins - Astros,2023-08-14T22:40:00Z,False,marlins-astros-m3001930364,16,3149814722,Vencedor do jogo,MIA Marlins,1,2.15,101,8
+3001930364,Marlins - Astros,2023-08-14T22:40:00Z,False,marlins-astros-m3001930364,16,3149814722,Vencedor do jogo,HOU Astros,2,1.68,301,92
+3001930365,Braves - Yankees,2023-08-14T23:20:00Z,False,braves-yankees-m3001930365,16,3149814691,Vencedor do jogo,ATL Braves,1,1.42,101,91
+3001930365,Braves - Yankees,2023-08-14T23:20:00Z,False,braves-yankees-m3001930365,16,3149814691,Vencedor do jogo,NY Yankees,2,2.8,301,9
+3001930363,Cardinals - Athletics,2023-08-14T23:45:00Z,False,cardinals-athletics-m3001930363,16,3149814784,Vencedor do jogo,SL Cardinals,1,1.48,101,97
+3001930363,Cardinals - Athletics,2023-08-14T23:45:00Z,False,cardinals-athletics-m3001930363,16,3149814784,Vencedor do jogo,OAK Athletics,2,2.65,301,3
+3001930361,Rangers - Angels,2023-08-15T00:05:00Z,False,rangers-angels-m3001930361,16,3149814629,Vencedor do jogo,TEX Rangers,1,1.55,101,94
+3001930361,Rangers - Angels,2023-08-15T00:05:00Z,False,rangers-angels-m3001930361,16,3149814629,Vencedor do jogo,LA Angels,2,2.4,301,6
+3001961321,Royals - Mariners,2023-08-15T00:10:00Z,False,royals-mariners-m3001961321,16,3152049876,Vencedor do jogo,KC Royals,1,2.2,101,8
+3001961321,Royals - Mariners,2023-08-15T00:10:00Z,False,royals-mariners-m3001961321,16,3152049876,Vencedor do jogo,SEA Mariners,2,1.65,301,92
+3001930367,Padres - Orioles,2023-08-15T01:40:00Z,False,padres-orioles-m3001930367,16,3149814753,Vencedor do jogo,SD Padres,1,1.7,101,80
+3001930367,Padres - Orioles,2023-08-15T01:40:00Z,False,padres-orioles-m3001930367,16,3149814753,Vencedor do jogo,BAL Orioles,2,2.15,301,20
+3001930436,Giants - Rays,2023-08-15T01:45:00Z,False,giants-rays-m3001930436,16,3149821044,Vencedor do jogo,SF Giants,1,2.15,101,86
+3001930436,Giants - Rays,2023-08-15T01:45:00Z,False,giants-rays-m3001930436,16,3149821044,Vencedor do jogo,TB Rays,2,1.68,301,14
