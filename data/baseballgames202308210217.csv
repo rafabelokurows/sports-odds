@@ -1,0 +1,15 @@
+id_x,name_x,date,isLive_x,relativeDesktopUrl,openMarketCount,id_y,name_y,name,lx,odds,line,betTrend
+3001898909,Tigers - Cubs,2023-08-21T22:40:00Z,False,tigers-cubs-m3001898909,16,3146660123,Vencedor do jogo,DET Tigers,1,2.1,101,23
+3001898909,Tigers - Cubs,2023-08-21T22:40:00Z,False,tigers-cubs-m3001898909,16,3146660123,Vencedor do jogo,CHI Cubs,2,1.7,301,77
+3001898883,Phillies - Giants,2023-08-21T22:40:00Z,False,phillies-giants-m3001898883,16,3146658564,Vencedor do jogo,PHI Phillies,1,1.58,101,100
+3001898883,Phillies - Giants,2023-08-21T22:40:00Z,False,phillies-giants-m3001898883,16,3146658564,Vencedor do jogo,SF Giants,2,2.35,301,0
+3001898919,White Sox - Mariners,2023-08-22T00:10:00Z,False,white-sox-mariners-m3001898919,16,3146659703,Vencedor do jogo,CHI White Sox,1,2.5,101,11
+3001898919,White Sox - Mariners,2023-08-22T00:10:00Z,False,white-sox-mariners-m3001898919,16,3146659703,Vencedor do jogo,SEA Mariners,2,1.52,301,89
+3001898920,Astros - Red Sox,2023-08-22T00:10:00Z,False,astros-red-sox-m3001898920,16,3146659765,Vencedor do jogo,HOU Astros,1,1.75,101,77
+3001898920,Astros - Red Sox,2023-08-22T00:10:00Z,False,astros-red-sox-m3001898920,16,3146659765,Vencedor do jogo,BOS Red Sox,2,2.05,301,23
+3001898918,Angels - Reds,2023-08-22T01:40:00Z,False,angels-reds-m3001898918,16,3146659672,Vencedor do jogo,LA Angels,1,1.75,101,76
+3001898918,Angels - Reds,2023-08-22T01:40:00Z,False,angels-reds-m3001898918,16,3146659672,Vencedor do jogo,CIN Reds,2,2.05,301,24
+3001898885,Diamondbacks - Rangers,2023-08-22T01:40:00Z,False,diamondbacks-rangers-m3001898885,16,3146658595,Vencedor do jogo,ARI Diamondbacks,1,2.25,101,30
+3001898885,Diamondbacks - Rangers,2023-08-22T01:40:00Z,False,diamondbacks-rangers-m3001898885,16,3146658595,Vencedor do jogo,TEX Rangers,2,1.62,301,70
+3001898915,Athletics - Royals,2023-08-22T01:40:00Z,False,athletics-royals-m3001898915,16,3146659387,Vencedor do jogo,OAK Athletics,1,1.72,101,0
+3001898915,Athletics - Royals,2023-08-22T01:40:00Z,False,athletics-royals-m3001898915,16,3146659387,Vencedor do jogo,KC Royals,2,2.1,301,100
