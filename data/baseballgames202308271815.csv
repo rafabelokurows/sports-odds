@@ -1,0 +1,31 @@
+id_x,name_x,date,isLive_x,relativeDesktopUrl,openMarketCount,id_y,name_y,name,lx,odds,line,betTrend
+3001898913,Phillies - Cardinals,2023-08-27T17:35:00Z,True,phillies-cardinals-m3001898913,5,3146659045.0,Vencedor do jogo,Phillies,1,1.25,101.0,
+3001898913,Phillies - Cardinals,2023-08-27T17:35:00Z,True,phillies-cardinals-m3001898913,5,3146659045.0,Vencedor do jogo,Cardinals,2,3.85,301.0,
+3001898931,Orioles - Rockies,2023-08-27T17:35:00Z,True,orioles-rockies-m3001898931,5,3146660022.0,Vencedor do jogo,Orioles,1,1.37,101.0,
+3001898931,Orioles - Rockies,2023-08-27T17:35:00Z,True,orioles-rockies-m3001898931,5,3146660022.0,Vencedor do jogo,Rockies,2,3.0,301.0,
+3001898910,Blue Jays - Cleveland Guardians,2023-08-27T17:35:00Z,True,blue-jays-cleveland-guardians-m3001898910,0,3146659232.0,Vencedor do jogo,Blue Jays,1,1.45,101.0,
+3001898910,Blue Jays - Cleveland Guardians,2023-08-27T17:35:00Z,True,blue-jays-cleveland-guardians-m3001898910,0,3146659232.0,Vencedor do jogo,Cleveland Guardians,2,2.7,301.0,
+3001898874,Tigers - Astros,2023-08-27T17:40:00Z,True,tigers-astros-m3001898874,5,3146658221.0,Vencedor do jogo,Tigers,1,2.15,101.0,
+3001898874,Tigers - Astros,2023-08-27T17:40:00Z,True,tigers-astros-m3001898874,5,3146658221.0,Vencedor do jogo,Astros,2,1.65,301.0,
+3001898865,Rays - Yankees,2023-08-27T17:40:00Z,True,rays-yankees-m3001898865,5,3146657869.0,Vencedor do jogo,Rays,1,1.22,101.0,
+3001898865,Rays - Yankees,2023-08-27T17:40:00Z,True,rays-yankees-m3001898865,5,3146657869.0,Vencedor do jogo,Yankees,2,4.05,301.0,
+3001898854,Red Sox - Dodgers,2023-08-27T17:35:00Z,True,red-sox-dodgers-m3001898854,5,3146657652.0,Vencedor do jogo,Red Sox,1,1.85,101.0,
+3001898854,Red Sox - Dodgers,2023-08-27T17:35:00Z,True,red-sox-dodgers-m3001898854,5,3146657652.0,Vencedor do jogo,Dodgers,2,1.9,301.0,
+3001898888,Pirates - Cubs,2023-08-27T17:35:00Z,True,pirates-cubs-m3001898888,5,3146658471.0,Vencedor do jogo,Pirates,1,1.85,101.0,
+3001898888,Pirates - Cubs,2023-08-27T17:35:00Z,True,pirates-cubs-m3001898888,5,3146658471.0,Vencedor do jogo,Cubs,2,1.9,301.0,
+3001898876,White Sox - Athletics,2023-08-27T18:10:00Z,True,white-sox-athletics-m3001898876,5,3146658345.0,Vencedor do jogo,White Sox,1,1.7,101.0,
+3001898876,White Sox - Athletics,2023-08-27T18:10:00Z,True,white-sox-athletics-m3001898876,5,3146658345.0,Vencedor do jogo,Athletics,2,2.15,301.0,
+3001898859,Marlins - Nationals,2023-08-27T17:40:00Z,True,marlins-nationals-m3001898859,0,,,,,,,
+3001898859,Marlins - Nationals,2023-08-27T17:40:00Z,True,marlins-nationals-m3001898859,0,,,,,,,
+3001898873,Mets - Angels,2023-08-27T16:05:00Z,True,mets-angels-m3001898873,5,3146658190.0,Vencedor do jogo,Mets,1,1.65,101.0,
+3001898873,Mets - Angels,2023-08-27T16:05:00Z,True,mets-angels-m3001898873,5,3146658190.0,Vencedor do jogo,Angels,2,2.2,301.0,
+3001898880,Brewers - Padres,2023-08-27T18:10:00Z,True,brewers-padres-m3001898880,5,3146658377.0,Vencedor do jogo,Brewers,1,2.0,101.0,
+3001898880,Brewers - Padres,2023-08-27T18:10:00Z,True,brewers-padres-m3001898880,5,3146658377.0,Vencedor do jogo,Padres,2,1.8,301.0,
+3001898857,Twins - Rangers,2023-08-27T18:10:00Z,True,twins-rangers-m3001898857,5,3146657745.0,Vencedor do jogo,Twins,1,1.85,101.0,
+3001898857,Twins - Rangers,2023-08-27T18:10:00Z,True,twins-rangers-m3001898857,5,3146657745.0,Vencedor do jogo,Rangers,2,1.95,301.0,
+3001898902,Mariners - Royals,2023-08-27T20:10:00Z,False,mariners-royals-m3001898902,16,3146660155.0,Vencedor do jogo,SEA Mariners,1,1.3,101.0,96.0
+3001898902,Mariners - Royals,2023-08-27T20:10:00Z,False,mariners-royals-m3001898902,16,3146660155.0,Vencedor do jogo,KC Royals,2,3.4,301.0,4.0
+3001898877,Diamondbacks - Reds,2023-08-27T20:10:00Z,False,diamondbacks-reds-m3001898877,16,3146658166.0,Vencedor do jogo,ARI Diamondbacks,1,1.78,101.0,78.0
+3001898877,Diamondbacks - Reds,2023-08-27T20:10:00Z,False,diamondbacks-reds-m3001898877,16,3146658166.0,Vencedor do jogo,CIN Reds,2,2.0,301.0,22.0
+3001898943,Giants - Braves,2023-08-27T23:10:00Z,False,giants-braves-m3001898943,16,3146660389.0,Vencedor do jogo,SF Giants,1,2.15,101.0,23.0
+3001898943,Giants - Braves,2023-08-27T23:10:00Z,False,giants-braves-m3001898943,16,3146660389.0,Vencedor do jogo,ATL Braves,2,1.7,301.0,77.0
