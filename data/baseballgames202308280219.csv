@@ -1,0 +1,27 @@
+id_x,name_x,date,isLive_x,relativeDesktopUrl,openMarketCount,id_y,name_y,name,lx,odds,line,betTrend
+3001870961,Phillies - Angels,2023-08-28T22:40:00Z,False,phillies-angels-m3001870961,16,3143857229.0,Vencedor do jogo,PHI Phillies,1,1.65,101.0,93.0
+3001870961,Phillies - Angels,2023-08-28T22:40:00Z,False,phillies-angels-m3001870961,16,3143857229.0,Vencedor do jogo,LA Angels,2,2.2,301.0,7.0
+3001870889,Tigers - Yankees,2023-08-28T22:40:00Z,False,tigers-yankees-m3001870889,16,3143855533.0,Vencedor do jogo,DET Tigers,1,1.88,101.0,48.0
+3001870889,Tigers - Yankees,2023-08-28T22:40:00Z,False,tigers-yankees-m3001870889,16,3143855533.0,Vencedor do jogo,NY Yankees,2,1.9,301.0,52.0
+3001870897,Orioles - White Sox,2023-08-28T23:05:00Z,False,orioles-white-sox-m3001870897,16,3143855633.0,Vencedor do jogo,BAL Orioles,1,1.42,101.0,93.0
+3001870897,Orioles - White Sox,2023-08-28T23:05:00Z,False,orioles-white-sox-m3001870897,16,3143855633.0,Vencedor do jogo,CHI White Sox,2,2.85,301.0,7.0
+3001870898,Blue Jays - Nationals,2023-08-28T23:05:00Z,False,blue-jays-nationals-m3001870898,16,3143855578.0,Vencedor do jogo,TOR Blue Jays,1,1.38,101.0,89.0
+3001870898,Blue Jays - Nationals,2023-08-28T23:05:00Z,False,blue-jays-nationals-m3001870898,16,3143855578.0,Vencedor do jogo,WAS Nationals,2,2.95,301.0,11.0
+3001870957,Red Sox - Astros,2023-08-28T23:10:00Z,False,red-sox-astros-m3001870957,16,3143856902.0,Vencedor do jogo,BOS Red Sox,1,1.78,101.0,50.0
+3001870957,Red Sox - Astros,2023-08-28T23:10:00Z,False,red-sox-astros-m3001870957,16,3143856902.0,Vencedor do jogo,HOU Astros,2,2.0,301.0,50.0
+3001870930,Mets - Rangers,2023-08-28T23:10:00Z,False,mets-rangers-m3001870930,16,3143856135.0,Vencedor do jogo,NY Mets,1,2.25,101.0,14.0
+3001870930,Mets - Rangers,2023-08-28T23:10:00Z,False,mets-rangers-m3001870930,16,3143856135.0,Vencedor do jogo,TEX Rangers,2,1.62,301.0,86.0
+3001870940,Twins - Cleveland Guardians,2023-08-28T23:40:00Z,False,twins-cleveland-guardians-m3001870940,16,3143856517.0,Vencedor do jogo,MIN Twins,1,1.6,101.0,86.0
+3001870940,Twins - Cleveland Guardians,2023-08-28T23:40:00Z,False,twins-cleveland-guardians-m3001870940,16,3143856517.0,Vencedor do jogo,Cleveland Guardians,2,2.3,301.0,14.0
+3001870943,Cardinals - Padres,2023-08-28T23:45:00Z,False,cardinals-padres-m3001870943,16,3143856580.0,Vencedor do jogo,SL Cardinals,1,2.45,101.0,20.0
+3001870943,Cardinals - Padres,2023-08-28T23:45:00Z,False,cardinals-padres-m3001870943,16,3143856580.0,Vencedor do jogo,SD Padres,2,1.55,301.0,80.0
+3001870886,Cubs - Brewers,2023-08-29T00:05:00Z,False,cubs-brewers-m3001870886,1,3143856291.0,Vencedor do jogo,CHI Cubs,1,1.8,101.0,76.0
+3001870886,Cubs - Brewers,2023-08-29T00:05:00Z,False,cubs-brewers-m3001870886,1,3143856291.0,Vencedor do jogo,MIL Brewers,2,2.0,301.0,24.0
+3001870941,Royals - Pirates,2023-08-29T00:10:00Z,False,royals-pirates-m3001870941,16,3143856871.0,Vencedor do jogo,KC Royals,1,1.9,101.0,50.0
+3001870941,Royals - Pirates,2023-08-29T00:10:00Z,False,royals-pirates-m3001870941,16,3143856871.0,Vencedor do jogo,PIT Pirates,2,1.88,301.0,50.0
+3001870913,Rockies - Braves,2023-08-29T00:40:00Z,False,rockies-braves-m3001870913,16,,,,,,,
+3001870913,Rockies - Braves,2023-08-29T00:40:00Z,False,rockies-braves-m3001870913,16,,,,,,,
+3001870899,Giants - Reds,2023-08-29T01:45:00Z,False,giants-reds-m3001870899,16,3143857001.0,Vencedor do jogo,SF Giants,1,1.85,101.0,80.0
+3001870899,Giants - Reds,2023-08-29T01:45:00Z,False,giants-reds-m3001870899,16,3143857001.0,Vencedor do jogo,CIN Reds,2,1.9,301.0,20.0
+3001870890,Dodgers - Diamondbacks,2023-08-29T02:10:00Z,False,dodgers-diamondbacks-m3001870890,16,3143855293.0,Vencedor do jogo,LA Dodgers,1,1.7,101.0,82.0
+3001870890,Dodgers - Diamondbacks,2023-08-29T02:10:00Z,False,dodgers-diamondbacks-m3001870890,16,3143855293.0,Vencedor do jogo,ARI Diamondbacks,2,2.1,301.0,18.0
