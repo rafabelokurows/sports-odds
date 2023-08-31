@@ -1,0 +1,31 @@
+id_x,name_x,date,isLive_x,relativeDesktopUrl,openMarketCount,id_y,name_y,name,lx,odds,line,betTrend
+3001870921,Dodgers - Diamondbacks,2023-08-31T02:10:00Z,True,dodgers-diamondbacks-m3001870921,5,3143856197,Vencedor do jogo,Dodgers,1,1.57,101,
+3001870921,Dodgers - Diamondbacks,2023-08-31T02:10:00Z,True,dodgers-diamondbacks-m3001870921,5,3143856197,Vencedor do jogo,Diamondbacks,2,2.4,301,
+3001870895,Rockies - Braves,2023-08-31T00:40:00Z,True,rockies-braves-m3001870895,5,3143855440,Vencedor do jogo,Rockies,1,13.0,101,
+3001870895,Rockies - Braves,2023-08-31T00:40:00Z,True,rockies-braves-m3001870895,5,3143855440,Vencedor do jogo,Braves,2,1.02,301,
+3001870954,Royals - Pirates,2023-08-31T00:10:00Z,True,royals-pirates-m3001870954,5,3143858170,Vencedor do jogo,Royals,1,8.5,101,
+3001870954,Royals - Pirates,2023-08-31T00:10:00Z,True,royals-pirates-m3001870954,5,3143858170,Vencedor do jogo,Pirates,2,1.06,301,
+3001963270,Chiba Lotte Marines - Hokkaido Nippon Ham Fighters,2023-08-31T09:00:00Z,False,chiba-lotte-marines-hokkaido-nippon-ham-fighters-m3001963270,13,3152383104,Vencedor do jogo,Chiba Lotte Marines,1,1.52,101,92.0
+3001963270,Chiba Lotte Marines - Hokkaido Nippon Ham Fighters,2023-08-31T09:00:00Z,False,chiba-lotte-marines-hokkaido-nippon-ham-fighters-m3001963270,13,3152383104,Vencedor do jogo,Hokkaido Nippon Ham Fighters,2,2.4,301,8.0
+3001963278,Tohoku Rakuten Golden Eagles - Saitama Seibu Lions,2023-08-31T09:00:00Z,False,tohoku-rakuten-golden-eagles-saitama-seibu-lions-m3001963278,13,3152383385,Vencedor do jogo,Tohoku Rakuten Golden Eagles,1,1.72,101,85.0
+3001963278,Tohoku Rakuten Golden Eagles - Saitama Seibu Lions,2023-08-31T09:00:00Z,False,tohoku-rakuten-golden-eagles-saitama-seibu-lions-m3001963278,13,3152383385,Vencedor do jogo,Saitama Seibu Lions,2,2.05,301,15.0
+3001963275,Yomiuri Giants - Hiroshima Toyo Carp,2023-08-31T09:00:00Z,False,yomiuri-giants-hiroshima-toyo-carp-m3001963275,13,3152383263,Vencedor do jogo,Yomiuri Giants,1,2.1,101,6.0
+3001963275,Yomiuri Giants - Hiroshima Toyo Carp,2023-08-31T09:00:00Z,False,yomiuri-giants-hiroshima-toyo-carp-m3001963275,13,3152383263,Vencedor do jogo,Hiroshima Toyo Carp,2,1.7,301,94.0
+3001963274,Fukuoka SoftBank Hawks - Orix Buffaloes,2023-08-31T09:00:00Z,False,fukuoka-softbank-hawks-orix-buffaloes-m3001963274,13,3152383232,Vencedor do jogo,Fukuoka SoftBank Hawks,1,1.82,101,67.0
+3001963274,Fukuoka SoftBank Hawks - Orix Buffaloes,2023-08-31T09:00:00Z,False,fukuoka-softbank-hawks-orix-buffaloes-m3001963274,13,3152383232,Vencedor do jogo,Orix Buffaloes,2,1.95,301,33.0
+3001963271,Chunichi Dragons - Tokyo Yakult Swallows,2023-08-31T09:00:00Z,False,chunichi-dragons-tokyo-yakult-swallows-m3001963271,13,3152383136,Vencedor do jogo,Chunichi Dragons,1,1.9,101,69.0
+3001963271,Chunichi Dragons - Tokyo Yakult Swallows,2023-08-31T09:00:00Z,False,chunichi-dragons-tokyo-yakult-swallows-m3001963271,13,3152383136,Vencedor do jogo,Tokyo Yakult Swallows,2,1.82,301,31.0
+3001963276,LG Twins - Doosan Bears,2023-08-31T09:30:00Z,False,lg-twins-doosan-bears-m3001963276,14,3152383322,Vencedor do jogo,LG Twins,1,1.52,101,98.0
+3001963276,LG Twins - Doosan Bears,2023-08-31T09:30:00Z,False,lg-twins-doosan-bears-m3001963276,14,3152383322,Vencedor do jogo,Doosan Bears,2,2.4,301,2.0
+3001963269,KT Wiz - Samsung Lions,2023-08-31T09:30:00Z,False,kt-wiz-samsung-lions-m3001963269,14,3152383073,Vencedor do jogo,KT Wiz,1,1.65,101,95.0
+3001963269,KT Wiz - Samsung Lions,2023-08-31T09:30:00Z,False,kt-wiz-samsung-lions-m3001963269,14,3152383073,Vencedor do jogo,Samsung Lions,2,2.15,301,5.0
+3001963277,SSG Landers - Kiwoon Heroes,2023-08-31T09:30:00Z,False,ssg-landers-kiwoon-heroes-m3001963277,14,3152383353,Vencedor do jogo,SSG Landers,1,1.72,101,93.0
+3001963277,SSG Landers - Kiwoon Heroes,2023-08-31T09:30:00Z,False,ssg-landers-kiwoon-heroes-m3001963277,14,3152383353,Vencedor do jogo,Kiwoon Heroes,2,2.05,301,7.0
+3001963272,KIA Tigers - NC Dinos,2023-08-31T09:30:00Z,False,kia-tigers-nc-dinos-m3001963272,14,3152383170,Vencedor do jogo,KIA Tigers,1,2.05,101,23.0
+3001963272,KIA Tigers - NC Dinos,2023-08-31T09:30:00Z,False,kia-tigers-nc-dinos-m3001963272,14,3152383170,Vencedor do jogo,NC Dinos,2,1.7,301,77.0
+3001963273,Hanwha Eagles - Lotte Giants,2023-08-31T09:30:00Z,False,hanwha-eagles-lotte-giants-m3001963273,14,3152383201,Vencedor do jogo,Hanwha Eagles,1,2.25,101,15.0
+3001963273,Hanwha Eagles - Lotte Giants,2023-08-31T09:30:00Z,False,hanwha-eagles-lotte-giants-m3001963273,14,3152383201,Vencedor do jogo,Lotte Giants,2,1.6,301,85.0
+3001870878,Tigers - Yankees,2023-08-31T17:10:00Z,False,tigers-yankees-m3001870878,16,3143855063,Vencedor do jogo,DET Tigers,1,2.0,101,15.0
+3001870878,Tigers - Yankees,2023-08-31T17:10:00Z,False,tigers-yankees-m3001870878,16,3143855063,Vencedor do jogo,NY Yankees,2,1.78,301,85.0
+3001870914,Nationals - Marlins,2023-08-31T23:05:00Z,False,nationals-marlins-m3001870914,16,3143855853,Vencedor do jogo,WAS Nationals,1,2.35,101,100.0
+3001870914,Nationals - Marlins,2023-08-31T23:05:00Z,False,nationals-marlins-m3001870914,16,3143855853,Vencedor do jogo,MIA Marlins,2,1.58,301,0.0
