@@ -1,0 +1,21 @@
+id_x,name_x,date,isLive_x,relativeDesktopUrl,openMarketCount,id_y,name_y,name,lx,odds,line,betTrend
+3001972679,Doosan Bears - KIA Tigers,2023-09-07T09:30:00Z,True,doosan-bears-kia-tigers-m3001972679,1,3153425697.0,Vencedor do jogo,Doosan Bears,1,1.02,101.0,
+3001972679,Doosan Bears - KIA Tigers,2023-09-07T09:30:00Z,True,doosan-bears-kia-tigers-m3001972679,1,3153425697.0,Vencedor do jogo,KIA Tigers,2,12.5,301.0,
+3001972677,Hanwha Eagles - SSG Landers,2023-09-07T09:30:00Z,True,hanwha-eagles-ssg-landers-m3001972677,0,3153425634.0,Vencedor do jogo,Hanwha Eagles,1,1.04,101.0,
+3001972677,Hanwha Eagles - SSG Landers,2023-09-07T09:30:00Z,True,hanwha-eagles-ssg-landers-m3001972677,0,3153425634.0,Vencedor do jogo,SSG Landers,2,10.0,301.0,
+3001972676,Lotte Giants - Samsung Lions,2023-09-07T09:30:00Z,True,lotte-giants-samsung-lions-m3001972676,1,3153425603.0,Vencedor do jogo,Lotte Giants,1,1.5,101.0,
+3001972676,Lotte Giants - Samsung Lions,2023-09-07T09:30:00Z,True,lotte-giants-samsung-lions-m3001972676,1,3153425603.0,Vencedor do jogo,Samsung Lions,2,2.55,301.0,
+3001972680,KT Wiz - LG Twins,2023-09-07T09:30:00Z,True,kt-wiz-lg-twins-m3001972680,1,3153425728.0,Vencedor do jogo,KT Wiz,1,16.5,101.0,
+3001972680,KT Wiz - LG Twins,2023-09-07T09:30:00Z,True,kt-wiz-lg-twins-m3001972680,1,3153425728.0,Vencedor do jogo,LG Twins,2,1.0,301.0,
+3001870813,Marlins - Dodgers,2023-09-07T22:40:00Z,False,marlins-dodgers-m3001870813,16,3143852790.0,Vencedor do jogo,MIA Marlins,1,2.0,101.0,33.0
+3001870813,Marlins - Dodgers,2023-09-07T22:40:00Z,False,marlins-dodgers-m3001870813,16,3143852790.0,Vencedor do jogo,LA Dodgers,2,1.78,301.0,67.0
+3001870796,Rays - Mariners,2023-09-07T22:40:00Z,False,rays-mariners-m3001870796,16,3143852385.0,Vencedor do jogo,TB Rays,1,2.05,101.0,73.0
+3001870796,Rays - Mariners,2023-09-07T22:40:00Z,False,rays-mariners-m3001870796,16,3143852385.0,Vencedor do jogo,SEA Mariners,2,1.75,301.0,27.0
+3001870795,Yankees - Tigers,2023-09-07T23:05:00Z,False,yankees-tigers-m3001870795,16,3143853226.0,Vencedor do jogo,NY Yankees,1,1.58,101.0,84.0
+3001870795,Yankees - Tigers,2023-09-07T23:05:00Z,False,yankees-tigers-m3001870795,16,3143853226.0,Vencedor do jogo,DET Tigers,2,2.35,301.0,16.0
+3001870802,Braves - Cardinals,2023-09-07T23:20:00Z,False,braves-cardinals-m3001870802,16,3143852572.0,Vencedor do jogo,ATL Braves,1,1.32,101.0,86.0
+3001870802,Braves - Cardinals,2023-09-07T23:20:00Z,False,braves-cardinals-m3001870802,16,3143852572.0,Vencedor do jogo,SL Cardinals,2,3.3,301.0,14.0
+3001870804,Cubs - Diamondbacks,2023-09-07T23:40:00Z,False,cubs-diamondbacks-m3001870804,16,3143852665.0,Vencedor do jogo,CHI Cubs,1,1.52,101.0,89.0
+3001870804,Cubs - Diamondbacks,2023-09-07T23:40:00Z,False,cubs-diamondbacks-m3001870804,16,3143852665.0,Vencedor do jogo,ARI Diamondbacks,2,2.5,301.0,11.0
+3001590281,MLB 2023,2023-10-01T23:00:00Z,False,mlb-2023-m3001590281,1,,,,,,,
+3001590281,MLB 2023,2023-10-01T23:00:00Z,False,mlb-2023-m3001590281,1,,,,,,,
