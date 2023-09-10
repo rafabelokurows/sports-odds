@@ -1,0 +1,29 @@
+id_x,name_x,date,isLive_x,relativeDesktopUrl,openMarketCount,id_y,name_y,name,lx,odds,line,betTrend
+3001870865,Phillies - Marlins,2023-09-10T17:05:00Z,False,phillies-marlins-m3001870865,16,3143854336.0,Vencedor do jogo,PHI Phillies,1,1.52,101.0,100.0
+3001870865,Phillies - Marlins,2023-09-10T17:05:00Z,False,phillies-marlins-m3001870865,16,3143854336.0,Vencedor do jogo,MIA Marlins,2,2.5,301.0,0.0
+3001870801,Rays - Mariners,2023-09-10T17:10:00Z,False,rays-mariners-m3001870801,16,3143852541.0,Vencedor do jogo,TB Rays,1,1.65,101.0,82.0
+3001870801,Rays - Mariners,2023-09-10T17:10:00Z,False,rays-mariners-m3001870801,16,3143852541.0,Vencedor do jogo,SEA Mariners,2,2.2,301.0,18.0
+3001870858,Tigers - White Sox,2023-09-10T17:10:00Z,False,tigers-white-sox-m3001870858,16,3143853744.0,Vencedor do jogo,DET Tigers,1,1.75,101.0,81.0
+3001870858,Tigers - White Sox,2023-09-10T17:10:00Z,False,tigers-white-sox-m3001870858,16,3143853744.0,Vencedor do jogo,CHI White Sox,2,2.05,301.0,19.0
+3001870827,Yankees - Brewers,2023-09-10T17:35:00Z,False,yankees-brewers-m3001870827,16,3143853040.0,Vencedor do jogo,NY Yankees,1,1.75,101.0,81.0
+3001870827,Yankees - Brewers,2023-09-10T17:35:00Z,False,yankees-brewers-m3001870827,16,3143853040.0,Vencedor do jogo,MIL Brewers,2,2.05,301.0,19.0
+3001870793,Red Sox - Orioles,2023-09-10T17:35:00Z,False,red-sox-orioles-m3001870793,16,3143852417.0,Vencedor do jogo,BOS Red Sox,1,1.85,101.0,52.0
+3001870793,Red Sox - Orioles,2023-09-10T17:35:00Z,False,red-sox-orioles-m3001870793,16,3143852417.0,Vencedor do jogo,BAL Orioles,2,1.95,301.0,48.0
+3001870863,Blue Jays - Royals,2023-09-10T17:35:00Z,False,blue-jays-royals-m3001870863,16,3143854622.0,Vencedor do jogo,TOR Blue Jays,1,1.52,101.0,97.0
+3001870863,Blue Jays - Royals,2023-09-10T17:35:00Z,False,blue-jays-royals-m3001870863,16,3143854622.0,Vencedor do jogo,KC Royals,2,2.5,301.0,3.0
+3001870857,Reds - Cardinals,2023-09-10T17:40:00Z,False,reds-cardinals-m3001870857,16,3143854405.0,Vencedor do jogo,CIN Reds,1,1.82,101.0,67.0
+3001870857,Reds - Cardinals,2023-09-10T17:40:00Z,False,reds-cardinals-m3001870857,16,3143854405.0,Vencedor do jogo,SL Cardinals,2,1.95,301.0,33.0
+3001870810,Twins - Mets,2023-09-10T18:10:00Z,False,twins-mets-m3001870810,16,3143852728.0,Vencedor do jogo,MIN Twins,1,1.48,101.0,90.0
+3001870810,Twins - Mets,2023-09-10T18:10:00Z,False,twins-mets-m3001870810,16,3143852728.0,Vencedor do jogo,NY Mets,2,2.55,301.0,10.0
+3001870812,Astros - Padres,2023-09-10T18:10:00Z,False,astros-padres-m3001870812,16,3143852947.0,Vencedor do jogo,HOU Astros,1,1.68,101.0,93.0
+3001870812,Astros - Padres,2023-09-10T18:10:00Z,False,astros-padres-m3001870812,16,3143852947.0,Vencedor do jogo,SD Padres,2,2.15,301.0,7.0
+3001870818,Cubs - Diamondbacks,2023-09-10T18:20:00Z,False,cubs-diamondbacks-m3001870818,16,3143853450.0,Vencedor do jogo,CHI Cubs,1,1.65,101.0,87.0
+3001870818,Cubs - Diamondbacks,2023-09-10T18:20:00Z,False,cubs-diamondbacks-m3001870818,16,3143853450.0,Vencedor do jogo,ARI Diamondbacks,2,2.2,301.0,13.0
+3001870846,Rangers - Athletics,2023-09-10T18:35:00Z,False,rangers-athletics-m3001870846,16,3143854467.0,Vencedor do jogo,TEX Rangers,1,1.38,101.0,99.0
+3001870846,Rangers - Athletics,2023-09-10T18:35:00Z,False,rangers-athletics-m3001870846,16,3143854467.0,Vencedor do jogo,OAK Athletics,2,2.95,301.0,1.0
+3001870829,Angels - Cleveland Guardians,2023-09-10T20:05:00Z,False,angels-cleveland-guardians-m3001870829,16,3143854025.0,Vencedor do jogo,LA Angels,1,2.4,101.0,13.0
+3001870829,Angels - Cleveland Guardians,2023-09-10T20:05:00Z,False,angels-cleveland-guardians-m3001870829,16,3143854025.0,Vencedor do jogo,Cleveland Guardians,2,1.55,301.0,87.0
+3001870855,Giants - Rockies,2023-09-11T00:10:00Z,False,giants-rockies-m3001870855,16,3143853930.0,Vencedor do jogo,SF Giants,1,1.4,101.0,92.0
+3001870855,Giants - Rockies,2023-09-11T00:10:00Z,False,giants-rockies-m3001870855,16,3143853930.0,Vencedor do jogo,COL Rockies,2,2.9,301.0,8.0
+3001590281,MLB 2023,2023-10-01T23:00:00Z,False,mlb-2023-m3001590281,1,,,,,,,
+3001590281,MLB 2023,2023-10-01T23:00:00Z,False,mlb-2023-m3001590281,1,,,,,,,
