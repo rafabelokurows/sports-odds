@@ -1,0 +1,19 @@
+id_x,name_x,date,isLive_x,relativeDesktopUrl,openMarketCount,id_y,name_y,name,lx,odds,line,betTrend
+3001870855,Giants - Rockies,2023-09-11T00:10:00Z,False,giants-rockies-m3001870855,10,3143853930,Vencedor do jogo,SF Giants,1,1.42,101,99
+3001870855,Giants - Rockies,2023-09-11T00:10:00Z,False,giants-rockies-m3001870855,10,3143853930,Vencedor do jogo,COL Rockies,2,2.65,301,1
+3001899122,Phillies - Braves,2023-09-11T17:05:00Z,False,phillies-braves-m3001899122,16,3146684992,Vencedor do jogo,PHI Phillies,1,2.15,101,11
+3001899122,Phillies - Braves,2023-09-11T17:05:00Z,False,phillies-braves-m3001899122,16,3146684992,Vencedor do jogo,ATL Braves,2,1.68,301,89
+3001979502,Orioles - Cardinals,2023-09-11T22:35:00Z,False,orioles-cardinals-m3001979502,16,3154073596,Vencedor do jogo,BAL Orioles,1,1.6,101,100
+3001979502,Orioles - Cardinals,2023-09-11T22:35:00Z,False,orioles-cardinals-m3001979502,16,3154073596,Vencedor do jogo,SL Cardinals,2,2.3,301,0
+3001979559,Blue Jays - Rangers,2023-09-11T23:05:00Z,False,blue-jays-rangers-m3001979559,16,3154075371,Vencedor do jogo,TOR Blue Jays,1,1.65,101,92
+3001979559,Blue Jays - Rangers,2023-09-11T23:05:00Z,False,blue-jays-rangers-m3001979559,16,3154075371,Vencedor do jogo,TEX Rangers,2,2.2,301,8
+3001979518,Mets - Diamondbacks,2023-09-11T23:10:00Z,False,mets-diamondbacks-m3001979518,16,3154073951,Vencedor do jogo,NY Mets,1,1.68,101,57
+3001979518,Mets - Diamondbacks,2023-09-11T23:10:00Z,False,mets-diamondbacks-m3001979518,16,3154073951,Vencedor do jogo,ARI Diamondbacks,2,2.15,301,43
+3001979520,Red Sox - Yankees,2023-09-11T23:10:00Z,False,red-sox-yankees-m3001979520,16,3154074636,Vencedor do jogo,BOS Red Sox,1,1.72,101,0
+3001979520,Red Sox - Yankees,2023-09-11T23:10:00Z,False,red-sox-yankees-m3001979520,16,3154074636,Vencedor do jogo,NY Yankees,2,2.05,301,100
+3001979547,Twins - Rays,2023-09-11T23:40:00Z,False,twins-rays-m3001979547,16,3154075057,Vencedor do jogo,MIN Twins,1,2.05,101,83
+3001979547,Twins - Rays,2023-09-11T23:40:00Z,False,twins-rays-m3001979547,16,3154075057,Vencedor do jogo,TB Rays,2,1.75,301,17
+3001979477,Astros - Athletics,2023-09-12T00:10:00Z,False,astros-athletics-m3001979477,16,3154072942,Vencedor do jogo,HOU Astros,1,1.32,101,100
+3001979477,Astros - Athletics,2023-09-12T00:10:00Z,False,astros-athletics-m3001979477,16,3154072942,Vencedor do jogo,OAK Athletics,2,3.3,301,0
+3001979557,Mariners - Angels,2023-09-12T01:40:00Z,False,mariners-angels-m3001979557,16,3154075642,Vencedor do jogo,SEA Mariners,1,1.42,101,100
+3001979557,Mariners - Angels,2023-09-12T01:40:00Z,False,mariners-angels-m3001979557,16,3154075642,Vencedor do jogo,LA Angels,2,2.8,301,0
