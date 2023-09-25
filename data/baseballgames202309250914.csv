@@ -1,0 +1,21 @@
+id_x,name_x,date,isLive_x,relativeDesktopUrl,openMarketCount,id_y,name_y,name,lx,odds,line,betTrend
+3001998495,Orix Buffaloes - Saitama Seibu Lions,2023-09-25T09:00:00Z,True,orix-buffaloes-saitama-seibu-lions-m3001998495,4,3156619212.0,Vencedor do jogo,Orix Buffaloes,1,1.45,101.0,
+3001998495,Orix Buffaloes - Saitama Seibu Lions,2023-09-25T09:00:00Z,True,orix-buffaloes-saitama-seibu-lions-m3001998495,4,3156619212.0,Vencedor do jogo,Saitama Seibu Lions,2,2.7,301.0,
+3001998491,Chunichi Dragons - Hanshin Tigers,2023-09-25T09:00:00Z,True,chunichi-dragons-hanshin-tigers-m3001998491,4,3156619064.0,Vencedor do jogo,Chunichi Dragons,1,2.35,101.0,
+3001998491,Chunichi Dragons - Hanshin Tigers,2023-09-25T09:00:00Z,True,chunichi-dragons-hanshin-tigers-m3001998491,4,3156619064.0,Vencedor do jogo,Hanshin Tigers,2,1.57,301.0,
+3001998493,Chiba Lotte Marines - Fukuoka SoftBank Hawks,2023-09-25T09:00:00Z,True,chiba-lotte-marines-fukuoka-softbank-hawks-m3001998493,4,3156619150.0,Vencedor do jogo,Chiba Lotte Marines,1,2.05,101.0,
+3001998493,Chiba Lotte Marines - Fukuoka SoftBank Hawks,2023-09-25T09:00:00Z,True,chiba-lotte-marines-fukuoka-softbank-hawks-m3001998493,4,3156619150.0,Vencedor do jogo,Fukuoka SoftBank Hawks,2,1.75,301.0,
+3001998492,Yokohama BayStars - Yomiuri Giants,2023-09-25T09:00:00Z,True,yokohama-baystars-yomiuri-giants-m3001998492,0,3156619095.0,Vencedor do jogo,Yokohama BayStars,1,1.85,101.0,
+3001998492,Yokohama BayStars - Yomiuri Giants,2023-09-25T09:00:00Z,True,yokohama-baystars-yomiuri-giants-m3001998492,0,3156619095.0,Vencedor do jogo,Yomiuri Giants,2,1.95,301.0,
+3001998494,Hokkaido Nippon Ham Fighters - Tohoku Rakuten Golden Eagles,2023-09-25T09:00:00Z,True,hokkaido-nippon-ham-fighters-tohoku-rakuten-golden-eagles-m3001998494,4,3156619181.0,Vencedor do jogo,Hokkaido Nippon Ham Fighters,1,2.15,101.0,
+3001998494,Hokkaido Nippon Ham Fighters - Tohoku Rakuten Golden Eagles,2023-09-25T09:00:00Z,True,hokkaido-nippon-ham-fighters-tohoku-rakuten-golden-eagles-m3001998494,4,3156619181.0,Vencedor do jogo,Tohoku Rakuten Golden Eagles,2,1.65,301.0,
+3002040892,Yankees - Diamondbacks,2023-09-25T17:05:00Z,False,yankees-diamondbacks-m3002040892,16,3162508924.0,Vencedor do jogo,NY Yankees,1,2.0,101.0,65.0
+3002040892,Yankees - Diamondbacks,2023-09-25T17:05:00Z,False,yankees-diamondbacks-m3002040892,16,3162508924.0,Vencedor do jogo,ARI Diamondbacks,2,1.78,301.0,35.0
+3001999648,Angels - Rangers,2023-09-26T01:40:00Z,False,angels-rangers-m3001999648,16,3156754400.0,Vencedor do jogo,LA Angels,1,2.55,101.0,3.0
+3001999648,Angels - Rangers,2023-09-26T01:40:00Z,False,angels-rangers-m3001999648,16,3156754400.0,Vencedor do jogo,TEX Rangers,2,1.5,301.0,97.0
+3001999649,Mariners - Astros,2023-09-26T01:40:00Z,False,mariners-astros-m3001999649,16,3156754431.0,Vencedor do jogo,SEA Mariners,1,1.75,101.0,90.0
+3001999649,Mariners - Astros,2023-09-26T01:40:00Z,False,mariners-astros-m3001999649,16,3156754431.0,Vencedor do jogo,HOU Astros,2,2.05,301.0,10.0
+3001999650,Giants - Padres,2023-09-26T01:45:00Z,False,giants-padres-m3001999650,16,3156754462.0,Vencedor do jogo,SF Giants,1,1.95,101.0,50.0
+3001999650,Giants - Padres,2023-09-26T01:45:00Z,False,giants-padres-m3001999650,16,3156754462.0,Vencedor do jogo,SD Padres,2,1.82,301.0,50.0
+3001590281,MLB 2023,2023-10-01T23:00:00Z,False,mlb-2023-m3001590281,1,,,,,,,
+3001590281,MLB 2023,2023-10-01T23:00:00Z,False,mlb-2023-m3001590281,1,,,,,,,
