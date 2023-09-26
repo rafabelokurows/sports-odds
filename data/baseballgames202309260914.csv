@@ -1,0 +1,39 @@
+id_x,name_x,date,isLive_x,relativeDesktopUrl,openMarketCount,id_y,name_y,name,lx,odds,line,betTrend
+3002000170,Hiroshima Toyo Carp - Chunichi Dragons,2023-09-26T09:00:00Z,True,hiroshima-toyo-carp-chunichi-dragons-m3002000170,4,3156807729.0,Vencedor do jogo,Hiroshima Toyo Carp,1,1.25,101.0,
+3002000170,Hiroshima Toyo Carp - Chunichi Dragons,2023-09-26T09:00:00Z,True,hiroshima-toyo-carp-chunichi-dragons-m3002000170,4,3156807729.0,Vencedor do jogo,Chunichi Dragons,2,3.85,301.0,
+3002000169,Orix Buffaloes - Saitama Seibu Lions,2023-09-26T09:00:00Z,True,orix-buffaloes-saitama-seibu-lions-m3002000169,4,3156807698.0,Vencedor do jogo,Orix Buffaloes,1,1.52,101.0,
+3002000169,Orix Buffaloes - Saitama Seibu Lions,2023-09-26T09:00:00Z,True,orix-buffaloes-saitama-seibu-lions-m3002000169,4,3156807698.0,Vencedor do jogo,Saitama Seibu Lions,2,2.5,301.0,
+3002034536,Hanshin Tigers - Tokyo Yakult Swallows,2023-09-26T09:00:00Z,True,hanshin-tigers-tokyo-yakult-swallows-m3002034536,4,3161635185.0,Vencedor do jogo,Hanshin Tigers,1,1.6,101.0,
+3002034536,Hanshin Tigers - Tokyo Yakult Swallows,2023-09-26T09:00:00Z,True,hanshin-tigers-tokyo-yakult-swallows-m3002034536,4,3161635185.0,Vencedor do jogo,Tokyo Yakult Swallows,2,2.25,301.0,
+3002000171,Yokohama BayStars - Yomiuri Giants,2023-09-26T09:00:00Z,True,yokohama-baystars-yomiuri-giants-m3002000171,4,3156807761.0,Vencedor do jogo,Yokohama BayStars,1,1.75,101.0,
+3002000171,Yokohama BayStars - Yomiuri Giants,2023-09-26T09:00:00Z,True,yokohama-baystars-yomiuri-giants-m3002000171,4,3156807761.0,Vencedor do jogo,Yomiuri Giants,2,2.05,301.0,
+3002000168,Hokkaido Nippon Ham Fighters - Chiba Lotte Marines,2023-09-26T09:00:00Z,True,hokkaido-nippon-ham-fighters-chiba-lotte-marines-m3002000168,4,3156807667.0,Vencedor do jogo,Hokkaido Nippon Ham Fighters,1,1.4,101.0,
+3002000168,Hokkaido Nippon Ham Fighters - Chiba Lotte Marines,2023-09-26T09:00:00Z,True,hokkaido-nippon-ham-fighters-chiba-lotte-marines-m3002000168,4,3156807667.0,Vencedor do jogo,Chiba Lotte Marines,2,2.85,301.0,
+3002006737,NC Dinos - KIA Tigers,2023-09-26T09:30:00Z,False,nc-dinos-kia-tigers-m3002006737,8,3157854897.0,Vencedor do jogo,NC Dinos,1,1.35,101.0,97.0
+3002006737,NC Dinos - KIA Tigers,2023-09-26T09:30:00Z,False,nc-dinos-kia-tigers-m3002006737,8,3157854897.0,Vencedor do jogo,KIA Tigers,2,3.1,301.0,3.0
+3002006738,Hanwha Eagles - Samsung Lions,2023-09-26T09:30:00Z,False,hanwha-eagles-samsung-lions-m3002006738,8,3157854607.0,Vencedor do jogo,Hanwha Eagles,1,1.85,101.0,63.0
+3002006738,Hanwha Eagles - Samsung Lions,2023-09-26T09:30:00Z,False,hanwha-eagles-samsung-lions-m3002006738,8,3157854607.0,Vencedor do jogo,Samsung Lions,2,1.88,301.0,37.0
+3002015328,Cleveland Guardians - Reds,2023-09-26T22:10:00Z,False,cleveland-guardians-reds-m3002015328,16,3159149313.0,Vencedor do jogo,Cleveland Guardians,1,1.88,101.0,66.0
+3002015328,Cleveland Guardians - Reds,2023-09-26T22:10:00Z,False,cleveland-guardians-reds-m3002015328,16,3159149313.0,Vencedor do jogo,CIN Reds,2,1.9,301.0,34.0
+3002000886,Orioles - Nationals,2023-09-26T22:35:00Z,False,orioles-nationals-m3002000886,16,3156946391.0,Vencedor do jogo,BAL Orioles,1,1.38,101.0,100.0
+3002000886,Orioles - Nationals,2023-09-26T22:35:00Z,False,orioles-nationals-m3002000886,16,3156946391.0,Vencedor do jogo,WAS Nationals,2,2.95,301.0,0.0
+3002000880,Blue Jays - Yankees,2023-09-26T23:05:00Z,False,blue-jays-yankees-m3002000880,16,3156946205.0,Vencedor do jogo,TOR Blue Jays,1,1.58,101.0,100.0
+3002000880,Blue Jays - Yankees,2023-09-26T23:05:00Z,False,blue-jays-yankees-m3002000880,16,3156946205.0,Vencedor do jogo,NY Yankees,2,2.3,301.0,0.0
+3002000881,Red Sox - Rays,2023-09-26T23:10:00Z,False,red-sox-rays-m3002000881,16,3156946236.0,Vencedor do jogo,BOS Red Sox,1,2.1,101.0,18.0
+3002000881,Red Sox - Rays,2023-09-26T23:10:00Z,False,red-sox-rays-m3002000881,16,3156946236.0,Vencedor do jogo,TB Rays,2,1.72,301.0,82.0
+3002000885,Mets - Marlins,2023-09-26T23:10:00Z,False,mets-marlins-m3002000885,16,3156946422.0,Vencedor do jogo,NY Mets,1,2.05,101.0,45.0
+3002000885,Mets - Marlins,2023-09-26T23:10:00Z,False,mets-marlins-m3002000885,16,3156946422.0,Vencedor do jogo,MIA Marlins,2,1.75,301.0,55.0
+3002000883,Braves - Cubs,2023-09-26T23:20:00Z,False,braves-cubs-m3002000883,16,3156946298.0,Vencedor do jogo,ATL Braves,1,1.68,101.0,74.0
+3002000883,Braves - Cubs,2023-09-26T23:20:00Z,False,braves-cubs-m3002000883,16,3156946298.0,Vencedor do jogo,CHI Cubs,2,2.15,301.0,26.0
+3002000879,Brewers - Cardinals,2023-09-26T23:40:00Z,False,brewers-cardinals-m3002000879,16,3156946329.0,Vencedor do jogo,MIL Brewers,1,1.6,101.0,83.0
+3002000879,Brewers - Cardinals,2023-09-26T23:40:00Z,False,brewers-cardinals-m3002000879,16,3156946329.0,Vencedor do jogo,SL Cardinals,2,2.3,301.0,17.0
+3002000887,White Sox - Diamondbacks,2023-09-26T23:40:00Z,False,white-sox-diamondbacks-m3002000887,16,3156946454.0,Vencedor do jogo,CHI White Sox,1,2.15,101.0,33.0
+3002000887,White Sox - Diamondbacks,2023-09-26T23:40:00Z,False,white-sox-diamondbacks-m3002000887,16,3156946454.0,Vencedor do jogo,ARI Diamondbacks,2,1.68,301.0,67.0
+3002000969,Angels - Rangers,2023-09-27T01:40:00Z,False,angels-rangers-m3002000969,16,3156967130.0,Vencedor do jogo,LA Angels,1,2.45,101.0,0.0
+3002000969,Angels - Rangers,2023-09-27T01:40:00Z,False,angels-rangers-m3002000969,16,3156967130.0,Vencedor do jogo,TEX Rangers,2,1.55,301.0,100.0
+3002000970,Giants - Padres,2023-09-27T01:45:00Z,False,giants-padres-m3002000970,16,3156967161.0,Vencedor do jogo,SF Giants,1,2.0,101.0,25.0
+3002000970,Giants - Padres,2023-09-27T01:45:00Z,False,giants-padres-m3002000970,16,3156967161.0,Vencedor do jogo,SD Padres,2,1.78,301.0,75.0
+3002000971,Mariners - Astros,2023-09-27T02:05:00Z,False,mariners-astros-m3002000971,16,3156967194.0,Vencedor do jogo,SEA Mariners,1,1.65,101.0,82.0
+3002000971,Mariners - Astros,2023-09-27T02:05:00Z,False,mariners-astros-m3002000971,16,3156967194.0,Vencedor do jogo,HOU Astros,2,2.2,301.0,18.0
+3001590281,MLB 2023,2023-10-01T23:00:00Z,False,mlb-2023-m3001590281,1,,,,,,,
+3001590281,MLB 2023,2023-10-01T23:00:00Z,False,mlb-2023-m3001590281,1,,,,,,,
