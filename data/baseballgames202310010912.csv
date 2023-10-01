@@ -1,0 +1,25 @@
+id_x,name_x,date,isLive_x,relativeDesktopUrl,openMarketCount,id_y,name_y,name,lx,odds,line,betTrend
+3002034531,Yomiuri Giants - Tokyo Yakult Swallows,2023-10-01T08:00:00Z,True,yomiuri-giants-tokyo-yakult-swallows-m3002034531,4,3161634999.0,Vencedor do jogo,Yomiuri Giants,1,1.57,101.0,
+3002034531,Yomiuri Giants - Tokyo Yakult Swallows,2023-10-01T08:00:00Z,True,yomiuri-giants-tokyo-yakult-swallows-m3002034531,4,3161634999.0,Vencedor do jogo,Tokyo Yakult Swallows,2,2.35,301.0,
+3002007262,Giants - Dodgers,2023-10-01T19:05:00Z,False,giants-dodgers-m3002007262,16,3157936589.0,Vencedor do jogo,SF Giants,1,2.4,101.0,29.0
+3002007262,Giants - Dodgers,2023-10-01T19:05:00Z,False,giants-dodgers-m3002007262,16,3157936589.0,Vencedor do jogo,LA Dodgers,2,1.55,301.0,71.0
+3002007269,Orioles - Red Sox,2023-10-01T19:05:00Z,False,orioles-red-sox-m3002007269,16,3157936713.0,Vencedor do jogo,BAL Orioles,1,1.5,101.0,100.0
+3002007269,Orioles - Red Sox,2023-10-01T19:05:00Z,False,orioles-red-sox-m3002007269,16,3157936713.0,Vencedor do jogo,BOS Red Sox,2,2.55,301.0,0.0
+3002007266,Rockies - Twins,2023-10-01T19:10:00Z,False,rockies-twins-m3002007266,16,3157936744.0,Vencedor do jogo,COL Rockies,1,2.4,101.0,0.0
+3002007266,Rockies - Twins,2023-10-01T19:10:00Z,False,rockies-twins-m3002007266,16,3157936744.0,Vencedor do jogo,MIN Twins,2,1.55,301.0,100.0
+3002015330,Royals - Yankees,2023-10-01T19:10:00Z,False,royals-yankees-m3002015330,16,3159149282.0,Vencedor do jogo,KC Royals,1,2.3,101.0,0.0
+3002015330,Royals - Yankees,2023-10-01T19:10:00Z,False,royals-yankees-m3002015330,16,3159149282.0,Vencedor do jogo,NY Yankees,2,1.6,301.0,100.0
+3002015324,Tigers - Cleveland Guardians,2023-10-01T19:10:00Z,False,tigers-cleveland-guardians-m3002015324,16,3159149220.0,Vencedor do jogo,DET Tigers,1,1.75,101.0,82.0
+3002015324,Tigers - Cleveland Guardians,2023-10-01T19:10:00Z,False,tigers-cleveland-guardians-m3002015324,16,3159149220.0,Vencedor do jogo,Cleveland Guardians,2,2.05,301.0,18.0
+3002007265,Brewers - Cubs,2023-10-01T19:10:00Z,False,brewers-cubs-m3002007265,16,3157936837.0,Vencedor do jogo,MIL Brewers,1,1.9,101.0,25.0
+3002007265,Brewers - Cubs,2023-10-01T19:10:00Z,False,brewers-cubs-m3002007265,16,3157936837.0,Vencedor do jogo,CHI Cubs,2,1.85,301.0,75.0
+3002007110,Braves - Nationals,2023-10-01T19:10:00Z,False,braves-nationals-m3002007110,16,3157909219.0,Vencedor do jogo,ATL Braves,1,1.38,101.0,100.0
+3002007110,Braves - Nationals,2023-10-01T19:10:00Z,False,braves-nationals-m3002007110,16,3157909219.0,Vencedor do jogo,WAS Nationals,2,3.0,301.0,0.0
+3002007267,White Sox - Padres,2023-10-01T19:10:00Z,False,white-sox-padres-m3002007267,16,3157936806.0,Vencedor do jogo,CHI White Sox,1,2.55,101.0,0.0
+3002007267,White Sox - Padres,2023-10-01T19:10:00Z,False,white-sox-padres-m3002007267,16,3157936806.0,Vencedor do jogo,SD Padres,2,1.5,301.0,100.0
+3002007268,Mets - Phillies,2023-10-01T19:10:00Z,False,mets-phillies-m3002007268,16,,,,,,,
+3002007268,Mets - Phillies,2023-10-01T19:10:00Z,False,mets-phillies-m3002007268,16,,,,,,,
+3002007271,Cardinals - Reds,2023-10-01T19:15:00Z,False,cardinals-reds-m3002007271,16,3157936868.0,Vencedor do jogo,SL Cardinals,1,2.0,101.0,0.0
+3002007271,Cardinals - Reds,2023-10-01T19:15:00Z,False,cardinals-reds-m3002007271,16,3157936868.0,Vencedor do jogo,CIN Reds,2,1.8,301.0,100.0
+3001590281,MLB 2023,2023-10-01T23:00:00Z,False,mlb-2023-m3001590281,1,,,,,,,
+3001590281,MLB 2023,2023-10-01T23:00:00Z,False,mlb-2023-m3001590281,1,,,,,,,
