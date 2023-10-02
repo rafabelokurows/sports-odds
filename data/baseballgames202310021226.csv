@@ -1,0 +1,13 @@
+id_x,name_x,date,isLive_x,relativeDesktopUrl,openMarketCount,id_y,name_y,name,lx,odds,line,betTrend
+3002051422,Lotte Giants - Samsung Lions,2023-10-02T08:00:00Z,True,lotte-giants-samsung-lions-m3002051422,2,3164403716.0,Vencedor do jogo,Lotte Giants,1,5.3,101.0,
+3002051422,Lotte Giants - Samsung Lions,2023-10-02T08:00:00Z,True,lotte-giants-samsung-lions-m3002051422,2,3164403716.0,Vencedor do jogo,Samsung Lions,2,1.15,301.0,
+3002051341,Rays - Rangers,2023-10-03T19:10:00Z,False,rays-rangers-m3002051341,16,3164389596.0,Vencedor do jogo,TB Rays,1,1.65,101.0,90.0
+3002051341,Rays - Rangers,2023-10-03T19:10:00Z,False,rays-rangers-m3002051341,16,3164389596.0,Vencedor do jogo,TEX Rangers,2,2.2,301.0,10.0
+3002051342,Twins - Blue Jays,2023-10-03T20:40:00Z,False,twins-blue-jays-m3002051342,16,3164389627.0,Vencedor do jogo,MIN Twins,1,1.85,101.0,79.0
+3002051342,Twins - Blue Jays,2023-10-03T20:40:00Z,False,twins-blue-jays-m3002051342,16,3164389627.0,Vencedor do jogo,TOR Blue Jays,2,1.9,301.0,21.0
+3002051344,Brewers - Diamondbacks,2023-10-03T23:10:00Z,False,brewers-diamondbacks-m3002051344,16,3164389689.0,Vencedor do jogo,MIL Brewers,1,1.55,101.0,100.0
+3002051344,Brewers - Diamondbacks,2023-10-03T23:10:00Z,False,brewers-diamondbacks-m3002051344,16,3164389689.0,Vencedor do jogo,ARI Diamondbacks,2,2.4,301.0,0.0
+3002051343,Phillies - Marlins,2023-10-04T00:10:00Z,False,phillies-marlins-m3002051343,16,3164389658.0,Vencedor do jogo,PHI Phillies,1,1.58,101.0,100.0
+3002051343,Phillies - Marlins,2023-10-04T00:10:00Z,False,phillies-marlins-m3002051343,16,3164389658.0,Vencedor do jogo,MIA Marlins,2,2.35,301.0,0.0
+3001590281,MLB 2023,2023-10-15T23:00:00Z,False,mlb-2023-m3001590281,1,,,,,,,
+3001590281,MLB 2023,2023-10-15T23:00:00Z,False,mlb-2023-m3001590281,1,,,,,,,
