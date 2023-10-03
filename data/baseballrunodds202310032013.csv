@@ -1,0 +1,63 @@
+gameid,date,home,away,competition,name,odds,is_cashoutable
+3002051341,2023-10-03T19:10:00Z,TB Rays,TEX Rangers,EUA - MLB,Acima de 4.5,1.52,False
+3002051341,2023-10-03T19:10:00Z,TB Rays,TEX Rangers,EUA - MLB,Abaixo de 4.5,2.45,False
+3002051341,2023-10-03T19:10:00Z,TB Rays,TEX Rangers,EUA - MLB,Acima de 5.5,2.1,False
+3002051341,2023-10-03T19:10:00Z,TB Rays,TEX Rangers,EUA - MLB,Abaixo de 5.5,1.7,False
+3002051341,2023-10-03T19:10:00Z,TB Rays,TEX Rangers,EUA - MLB,Acima de 6.5,2.6,False
+3002051341,2023-10-03T19:10:00Z,TB Rays,TEX Rangers,EUA - MLB,Abaixo de 6.5,1.5,False
+3002051342,2023-10-03T20:40:00Z,MIN Twins,TOR Blue Jays,EUA - MLB,Acima de 6.5,1.52,False
+3002051342,2023-10-03T20:40:00Z,MIN Twins,TOR Blue Jays,EUA - MLB,Abaixo de 6.5,2.35,False
+3002051342,2023-10-03T20:40:00Z,MIN Twins,TOR Blue Jays,EUA - MLB,Acima de 7.5,1.88,False
+3002051342,2023-10-03T20:40:00Z,MIN Twins,TOR Blue Jays,EUA - MLB,Abaixo de 7.5,1.82,False
+3002051342,2023-10-03T20:40:00Z,MIN Twins,TOR Blue Jays,EUA - MLB,Acima de 8.5,2.2,False
+3002051342,2023-10-03T20:40:00Z,MIN Twins,TOR Blue Jays,EUA - MLB,Abaixo de 8.5,1.6,False
+3002051344,2023-10-03T23:10:00Z,MIL Brewers,ARI Diamondbacks,EUA - MLB,Acima de 6.5,1.45,False
+3002051344,2023-10-03T23:10:00Z,MIL Brewers,ARI Diamondbacks,EUA - MLB,Abaixo de 6.5,2.7,False
+3002051344,2023-10-03T23:10:00Z,MIL Brewers,ARI Diamondbacks,EUA - MLB,Acima de 7.5,1.75,False
+3002051344,2023-10-03T23:10:00Z,MIL Brewers,ARI Diamondbacks,EUA - MLB,Abaixo de 7.5,2.05,False
+3002051344,2023-10-03T23:10:00Z,MIL Brewers,ARI Diamondbacks,EUA - MLB,Acima de 8.5,2.0,False
+3002051344,2023-10-03T23:10:00Z,MIL Brewers,ARI Diamondbacks,EUA - MLB,Abaixo de 8.5,1.78,False
+3002051344,2023-10-03T23:10:00Z,MIL Brewers,ARI Diamondbacks,EUA - MLB,Acima de 9.5,2.55,False
+3002051344,2023-10-03T23:10:00Z,MIL Brewers,ARI Diamondbacks,EUA - MLB,Abaixo de 9.5,1.5,False
+3002051344,2023-10-03T23:10:00Z,MIL Brewers,ARI Diamondbacks,EUA - MLB,Acima de 10.5,3.05,False
+3002051344,2023-10-03T23:10:00Z,MIL Brewers,ARI Diamondbacks,EUA - MLB,Abaixo de 10.5,1.38,False
+3002051343,2023-10-04T00:10:00Z,PHI Phillies,MIA Marlins,EUA - MLB,Acima de 5.5,1.38,False
+3002051343,2023-10-04T00:10:00Z,PHI Phillies,MIA Marlins,EUA - MLB,Abaixo de 5.5,2.95,False
+3002051343,2023-10-04T00:10:00Z,PHI Phillies,MIA Marlins,EUA - MLB,Acima de 6.5,1.55,False
+3002051343,2023-10-04T00:10:00Z,PHI Phillies,MIA Marlins,EUA - MLB,Abaixo de 6.5,2.4,False
+3002051343,2023-10-04T00:10:00Z,PHI Phillies,MIA Marlins,EUA - MLB,Acima de 7.5,1.9,False
+3002051343,2023-10-04T00:10:00Z,PHI Phillies,MIA Marlins,EUA - MLB,Abaixo de 7.5,1.85,False
+3002051343,2023-10-04T00:10:00Z,PHI Phillies,MIA Marlins,EUA - MLB,Acima de 8.5,2.25,False
+3002051343,2023-10-04T00:10:00Z,PHI Phillies,MIA Marlins,EUA - MLB,Abaixo de 8.5,1.62,False
+3002051343,2023-10-04T00:10:00Z,PHI Phillies,MIA Marlins,EUA - MLB,Acima de 9.5,2.9,False
+3002051343,2023-10-04T00:10:00Z,PHI Phillies,MIA Marlins,EUA - MLB,Abaixo de 9.5,1.4,False
+3002016893,2023-10-04T06:00:00Z,KT Wiz,KIA Tigers,Coreia do Sul - KBO,Ímpar,1.52,False
+3002016893,2023-10-04T06:00:00Z,KT Wiz,KIA Tigers,Coreia do Sul - KBO,Par,1.95,False
+3002043841,2023-10-04T09:00:00Z,Orix Buffaloes,Chiba Lotte Marines,Japão - NPB,Acima de 4.5,1.38,False
+3002043841,2023-10-04T09:00:00Z,Orix Buffaloes,Chiba Lotte Marines,Japão - NPB,Abaixo de 4.5,2.95,False
+3002043841,2023-10-04T09:00:00Z,Orix Buffaloes,Chiba Lotte Marines,Japão - NPB,Acima de 5.5,1.68,False
+3002043841,2023-10-04T09:00:00Z,Orix Buffaloes,Chiba Lotte Marines,Japão - NPB,Abaixo de 5.5,2.15,False
+3002043841,2023-10-04T09:00:00Z,Orix Buffaloes,Chiba Lotte Marines,Japão - NPB,Acima de 6.5,2.0,False
+3002043841,2023-10-04T09:00:00Z,Orix Buffaloes,Chiba Lotte Marines,Japão - NPB,Abaixo de 6.5,1.78,False
+3002043841,2023-10-04T09:00:00Z,Orix Buffaloes,Chiba Lotte Marines,Japão - NPB,Acima de 7.5,2.55,False
+3002043841,2023-10-04T09:00:00Z,Orix Buffaloes,Chiba Lotte Marines,Japão - NPB,Abaixo de 7.5,1.48,False
+3002043841,2023-10-04T09:00:00Z,Orix Buffaloes,Chiba Lotte Marines,Japão - NPB,Acima de 8.5,3.2,False
+3002043841,2023-10-04T09:00:00Z,Orix Buffaloes,Chiba Lotte Marines,Japão - NPB,Abaixo de 8.5,1.32,False
+3002053895,2023-10-04T09:00:00Z,Yomiuri Giants,Yokohama BayStars,Japão - NPB,Acima de 4.5,1.35,False
+3002053895,2023-10-04T09:00:00Z,Yomiuri Giants,Yokohama BayStars,Japão - NPB,Abaixo de 4.5,3.1,False
+3002053895,2023-10-04T09:00:00Z,Yomiuri Giants,Yokohama BayStars,Japão - NPB,Acima de 5.5,1.62,False
+3002053895,2023-10-04T09:00:00Z,Yomiuri Giants,Yokohama BayStars,Japão - NPB,Abaixo de 5.5,2.2,False
+3002053895,2023-10-04T09:00:00Z,Yomiuri Giants,Yokohama BayStars,Japão - NPB,Acima de 6.5,1.88,False
+3002053895,2023-10-04T09:00:00Z,Yomiuri Giants,Yokohama BayStars,Japão - NPB,Abaixo de 6.5,1.88,False
+3002053895,2023-10-04T09:00:00Z,Yomiuri Giants,Yokohama BayStars,Japão - NPB,Acima de 7.5,2.4,False
+3002053895,2023-10-04T09:00:00Z,Yomiuri Giants,Yokohama BayStars,Japão - NPB,Abaixo de 7.5,1.52,False
+3002053895,2023-10-04T09:00:00Z,Yomiuri Giants,Yokohama BayStars,Japão - NPB,Acima de 8.5,3.0,False
+3002053895,2023-10-04T09:00:00Z,Yomiuri Giants,Yokohama BayStars,Japão - NPB,Abaixo de 8.5,1.35,False
+3002016891,2023-10-04T09:30:00Z,Lotte Giants,LG Twins,Coreia do Sul - KBO,Ímpar,1.52,False
+3002016891,2023-10-04T09:30:00Z,Lotte Giants,LG Twins,Coreia do Sul - KBO,Par,1.95,False
+3002016892,2023-10-04T09:30:00Z,Samsung Lions,Hanwha Eagles,Coreia do Sul - KBO,Ímpar,1.52,False
+3002016892,2023-10-04T09:30:00Z,Samsung Lions,Hanwha Eagles,Coreia do Sul - KBO,Par,1.95,False
+3002016890,2023-10-04T09:30:00Z,SSG Landers,NC Dinos,Coreia do Sul - KBO,Ímpar,1.52,False
+3002016890,2023-10-04T09:30:00Z,SSG Landers,NC Dinos,Coreia do Sul - KBO,Par,1.95,False
+3002016894,2023-10-04T09:30:00Z,KT Wiz,KIA Tigers,Coreia do Sul - KBO,Ímpar,1.52,False
+3002016894,2023-10-04T09:30:00Z,KT Wiz,KIA Tigers,Coreia do Sul - KBO,Par,1.95,False
