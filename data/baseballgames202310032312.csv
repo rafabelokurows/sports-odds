@@ -1,0 +1,25 @@
+id_x,name_x,date,isLive_x,relativeDesktopUrl,openMarketCount,id_y,name_y,name,lx,odds,line,betTrend
+3002051344,Brewers - Diamondbacks,2023-10-03T23:10:00Z,True,brewers-diamondbacks-m3002051344,5,3164389689,Vencedor do jogo,Brewers,1,1.45,101,
+3002051344,Brewers - Diamondbacks,2023-10-03T23:10:00Z,True,brewers-diamondbacks-m3002051344,5,3164389689,Vencedor do jogo,Diamondbacks,2,2.7,301,
+3002051342,Twins - Blue Jays,2023-10-03T20:40:00Z,True,twins-blue-jays-m3002051342,4,3164389627,Vencedor do jogo,Twins,1,1.02,101,
+3002051342,Twins - Blue Jays,2023-10-03T20:40:00Z,True,twins-blue-jays-m3002051342,4,3164389627,Vencedor do jogo,Blue Jays,2,12.0,301,
+3002051343,Phillies - Marlins,2023-10-04T00:10:00Z,False,phillies-marlins-m3002051343,9,3164389658,Vencedor do jogo,PHI Phillies,1,1.6,101,95.0
+3002051343,Phillies - Marlins,2023-10-04T00:10:00Z,False,phillies-marlins-m3002051343,9,3164389658,Vencedor do jogo,MIA Marlins,2,2.2,301,5.0
+3002016893,KT Wiz - KIA Tigers,2023-10-04T06:00:00Z,False,kt-wiz-kia-tigers-m3002016893,14,3159341872,Vencedor do jogo,KT Wiz,1,2.0,101,23.0
+3002016893,KT Wiz - KIA Tigers,2023-10-04T06:00:00Z,False,kt-wiz-kia-tigers-m3002016893,14,3159341872,Vencedor do jogo,KIA Tigers,2,1.75,301,77.0
+3002043841,Orix Buffaloes - Chiba Lotte Marines,2023-10-04T09:00:00Z,False,orix-buffaloes-chiba-lotte-marines-m3002043841,13,3163049592,Vencedor do jogo,Orix Buffaloes,1,1.55,101,93.0
+3002043841,Orix Buffaloes - Chiba Lotte Marines,2023-10-04T09:00:00Z,False,orix-buffaloes-chiba-lotte-marines-m3002043841,13,3163049592,Vencedor do jogo,Chiba Lotte Marines,2,2.35,301,7.0
+3002053895,Yomiuri Giants - Yokohama BayStars,2023-10-04T09:00:00Z,False,yomiuri-giants-yokohama-baystars-m3002053895,13,3164703195,Vencedor do jogo,Yomiuri Giants,1,1.95,101,45.0
+3002053895,Yomiuri Giants - Yokohama BayStars,2023-10-04T09:00:00Z,False,yomiuri-giants-yokohama-baystars-m3002053895,13,3164703195,Vencedor do jogo,Yokohama BayStars,2,1.8,301,55.0
+3002043842,Tokyo Yakult Swallows - Hanshin Tigers,2023-10-04T09:00:00Z,False,tokyo-yakult-swallows-hanshin-tigers-m3002043842,13,3163049623,Vencedor do jogo,Tokyo Yakult Swallows,1,2.2,101,9.0
+3002043842,Tokyo Yakult Swallows - Hanshin Tigers,2023-10-04T09:00:00Z,False,tokyo-yakult-swallows-hanshin-tigers-m3002043842,13,3163049623,Vencedor do jogo,Hanshin Tigers,2,1.62,301,91.0
+3002016891,Lotte Giants - LG Twins,2023-10-04T09:30:00Z,False,lotte-giants-lg-twins-m3002016891,14,3159341968,Vencedor do jogo,Lotte Giants,1,2.2,101,10.0
+3002016891,Lotte Giants - LG Twins,2023-10-04T09:30:00Z,False,lotte-giants-lg-twins-m3002016891,14,3159341968,Vencedor do jogo,LG Twins,2,1.62,301,90.0
+3002016892,Samsung Lions - Hanwha Eagles,2023-10-04T09:30:00Z,False,samsung-lions-hanwha-eagles-m3002016892,14,3159341999,Vencedor do jogo,Samsung Lions,1,2.35,101,26.0
+3002016892,Samsung Lions - Hanwha Eagles,2023-10-04T09:30:00Z,False,samsung-lions-hanwha-eagles-m3002016892,14,3159341999,Vencedor do jogo,Hanwha Eagles,2,1.55,301,74.0
+3002016890,SSG Landers - NC Dinos,2023-10-04T09:30:00Z,False,ssg-landers-nc-dinos-m3002016890,14,3159342062,Vencedor do jogo,SSG Landers,1,1.65,101,67.0
+3002016890,SSG Landers - NC Dinos,2023-10-04T09:30:00Z,False,ssg-landers-nc-dinos-m3002016890,14,3159342062,Vencedor do jogo,NC Dinos,2,2.15,301,33.0
+3002016894,KT Wiz - KIA Tigers,2023-10-04T09:30:00Z,False,kt-wiz-kia-tigers-m3002016894,14,3159341905,Vencedor do jogo,KT Wiz,1,2.0,101,95.0
+3002016894,KT Wiz - KIA Tigers,2023-10-04T09:30:00Z,False,kt-wiz-kia-tigers-m3002016894,14,3159341905,Vencedor do jogo,KIA Tigers,2,1.75,301,5.0
+3002051345,Rays - Rangers,2023-10-04T19:10:00Z,False,rays-rangers-m3002051345,16,3164389727,Vencedor do jogo,TB Rays,1,1.65,101,89.0
+3002051345,Rays - Rangers,2023-10-04T19:10:00Z,False,rays-rangers-m3002051345,16,3164389727,Vencedor do jogo,TEX Rangers,2,2.2,301,11.0
