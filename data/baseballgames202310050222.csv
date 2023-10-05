@@ -1,0 +1,13 @@
+id_x,name_x,date,isLive_x,relativeDesktopUrl,openMarketCount,id_y,name_y,name,lx,odds,line,betTrend
+3002051347,Phillies - Marlins,2023-10-05T00:10:00Z,True,phillies-marlins-m3002051347,5,3164389790,Vencedor do jogo,Phillies,1,1.0,101,
+3002051347,Phillies - Marlins,2023-10-05T00:10:00Z,True,phillies-marlins-m3002051347,5,3164389790,Vencedor do jogo,Marlins,2,16.5,301,
+3002043843,Tohoku Rakuten Golden Eagles - Hokkaido Nippon Ham Fighters,2023-10-05T09:00:00Z,False,tohoku-rakuten-golden-eagles-hokkaido-nippon-ham-fighters-m3002043843,13,3163049656,Vencedor do jogo,Tohoku Rakuten Golden Eagles,1,1.7,101,93.0
+3002043843,Tohoku Rakuten Golden Eagles - Hokkaido Nippon Ham Fighters,2023-10-05T09:00:00Z,False,tohoku-rakuten-golden-eagles-hokkaido-nippon-ham-fighters-m3002043843,13,3163049656,Vencedor do jogo,Hokkaido Nippon Ham Fighters,2,2.05,301,7.0
+3002016897,Samsung Lions - Hanwha Eagles,2023-10-05T09:30:00Z,False,samsung-lions-hanwha-eagles-m3002016897,14,3159341841,Vencedor do jogo,Samsung Lions,1,1.35,101,90.0
+3002016897,Samsung Lions - Hanwha Eagles,2023-10-05T09:30:00Z,False,samsung-lions-hanwha-eagles-m3002016897,14,3159341841,Vencedor do jogo,Hanwha Eagles,2,3.0,301,10.0
+3002016896,Lotte Giants - LG Twins,2023-10-05T09:30:00Z,False,lotte-giants-lg-twins-m3002016896,14,3159341717,Vencedor do jogo,Lotte Giants,1,2.35,101,6.0
+3002016896,Lotte Giants - LG Twins,2023-10-05T09:30:00Z,False,lotte-giants-lg-twins-m3002016896,14,3159341717,Vencedor do jogo,LG Twins,2,1.55,301,94.0
+3002016898,KT Wiz - KIA Tigers,2023-10-05T09:30:00Z,False,kt-wiz-kia-tigers-m3002016898,14,3159342346,Vencedor do jogo,KT Wiz,1,2.35,101,19.0
+3002016898,KT Wiz - KIA Tigers,2023-10-05T09:30:00Z,False,kt-wiz-kia-tigers-m3002016898,14,3159342346,Vencedor do jogo,KIA Tigers,2,1.55,301,81.0
+3002016895,SSG Landers - NC Dinos,2023-10-05T09:30:00Z,False,ssg-landers-nc-dinos-m3002016895,14,3159342031,Vencedor do jogo,SSG Landers,1,2.1,101,73.0
+3002016895,SSG Landers - NC Dinos,2023-10-05T09:30:00Z,False,ssg-landers-nc-dinos-m3002016895,14,3159342031,Vencedor do jogo,NC Dinos,2,1.7,301,27.0
