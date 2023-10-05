@@ -1,0 +1,15 @@
+id_x,name_x,date,isLive_x,relativeDesktopUrl,openMarketCount,id_y,name_y,name,lx,odds,line,betTrend
+3002016896,Lotte Giants - LG Twins,2023-10-05T09:30:00Z,True,lotte-giants-lg-twins-m3002016896,0,3159341717.0,Vencedor do jogo,Lotte Giants,1,16.5,101.0,
+3002016896,Lotte Giants - LG Twins,2023-10-05T09:30:00Z,True,lotte-giants-lg-twins-m3002016896,0,3159341717.0,Vencedor do jogo,LG Twins,2,1.0,301.0,
+3002016895,SSG Landers - NC Dinos,2023-10-05T09:30:00Z,True,ssg-landers-nc-dinos-m3002016895,1,3159342031.0,Vencedor do jogo,SSG Landers,1,1.2,101.0,
+3002016895,SSG Landers - NC Dinos,2023-10-05T09:30:00Z,True,ssg-landers-nc-dinos-m3002016895,1,3159342031.0,Vencedor do jogo,NC Dinos,2,4.3,301.0,
+3002056562,Orioles - Rangers,2023-10-07T17:00:00Z,False,orioles-rangers-m3002056562,16,3164942095.0,Vencedor do jogo,BAL Orioles,1,1.72,101.0,100.0
+3002056562,Orioles - Rangers,2023-10-07T17:00:00Z,False,orioles-rangers-m3002056562,16,3164942095.0,Vencedor do jogo,TEX Rangers,2,2.05,301.0,0.0
+3002056690,Dodgers - Diamondbacks,2023-10-07T17:00:00Z,False,dodgers-diamondbacks-m3002056690,16,,,,,,,
+3002056690,Dodgers - Diamondbacks,2023-10-07T17:00:00Z,False,dodgers-diamondbacks-m3002056690,16,,,,,,,
+3002056694,Braves - Phillies,2023-10-07T17:00:00Z,False,braves-phillies-m3002056694,16,,,,,,,
+3002056694,Braves - Phillies,2023-10-07T17:00:00Z,False,braves-phillies-m3002056694,16,,,,,,,
+3002056602,Astros - Twins,2023-10-07T22:00:00Z,False,astros-twins-m3002056602,16,3164950557.0,Vencedor do jogo,HOU Astros,1,1.6,101.0,100.0
+3002056602,Astros - Twins,2023-10-07T22:00:00Z,False,astros-twins-m3002056602,16,3164950557.0,Vencedor do jogo,MIN Twins,2,2.3,301.0,0.0
+3001590281,MLB 2023,2023-10-15T23:00:00Z,False,mlb-2023-m3001590281,1,,,,,,,
+3001590281,MLB 2023,2023-10-15T23:00:00Z,False,mlb-2023-m3001590281,1,,,,,,,
