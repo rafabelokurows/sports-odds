@@ -1,0 +1,17 @@
+id_x,name_x,date,isLive_x,relativeDesktopUrl,openMarketCount,id_y,name_y,name,lx,odds,line,betTrend
+3002043843,Tohoku Rakuten Golden Eagles - Hokkaido Nippon Ham Fighters,2023-10-05T09:00:00Z,True,tohoku-rakuten-golden-eagles-hokkaido-nippon-ham-fighters-m3002043843,4,3163049656.0,Vencedor do jogo,Tohoku Rakuten Golden Eagles,1,1.55,101.0,
+3002043843,Tohoku Rakuten Golden Eagles - Hokkaido Nippon Ham Fighters,2023-10-05T09:00:00Z,True,tohoku-rakuten-golden-eagles-hokkaido-nippon-ham-fighters-m3002043843,4,3163049656.0,Vencedor do jogo,Hokkaido Nippon Ham Fighters,2,2.45,301.0,
+3002016897,Samsung Lions - Hanwha Eagles,2023-10-05T09:30:00Z,False,samsung-lions-hanwha-eagles-m3002016897,8,3159341841.0,Vencedor do jogo,Samsung Lions,1,1.45,101.0,94.0
+3002016897,Samsung Lions - Hanwha Eagles,2023-10-05T09:30:00Z,False,samsung-lions-hanwha-eagles-m3002016897,8,3159341841.0,Vencedor do jogo,Hanwha Eagles,2,2.7,301.0,6.0
+3002016896,Lotte Giants - LG Twins,2023-10-05T09:30:00Z,False,lotte-giants-lg-twins-m3002016896,8,3159341717.0,Vencedor do jogo,Lotte Giants,1,1.85,101.0,13.0
+3002016896,Lotte Giants - LG Twins,2023-10-05T09:30:00Z,False,lotte-giants-lg-twins-m3002016896,8,3159341717.0,Vencedor do jogo,LG Twins,2,1.88,301.0,87.0
+3002016898,KT Wiz - KIA Tigers,2023-10-05T09:30:00Z,False,kt-wiz-kia-tigers-m3002016898,8,3159342346.0,Vencedor do jogo,KT Wiz,1,2.05,101.0,21.0
+3002016898,KT Wiz - KIA Tigers,2023-10-05T09:30:00Z,False,kt-wiz-kia-tigers-m3002016898,8,3159342346.0,Vencedor do jogo,KIA Tigers,2,1.7,301.0,79.0
+3002016895,SSG Landers - NC Dinos,2023-10-05T09:30:00Z,False,ssg-landers-nc-dinos-m3002016895,8,3159342031.0,Vencedor do jogo,SSG Landers,1,2.1,101.0,72.0
+3002016895,SSG Landers - NC Dinos,2023-10-05T09:30:00Z,False,ssg-landers-nc-dinos-m3002016895,8,3159342031.0,Vencedor do jogo,NC Dinos,2,1.7,301.0,28.0
+3002056562,Orioles - Rangers,2023-10-07T17:00:00Z,False,orioles-rangers-m3002056562,16,3164942095.0,Vencedor do jogo,BAL Orioles,1,1.72,101.0,100.0
+3002056562,Orioles - Rangers,2023-10-07T17:00:00Z,False,orioles-rangers-m3002056562,16,3164942095.0,Vencedor do jogo,TEX Rangers,2,2.05,301.0,0.0
+3002056602,Astros - Twins,2023-10-07T22:00:00Z,False,astros-twins-m3002056602,16,3164950557.0,Vencedor do jogo,HOU Astros,1,1.6,101.0,
+3002056602,Astros - Twins,2023-10-07T22:00:00Z,False,astros-twins-m3002056602,16,3164950557.0,Vencedor do jogo,MIN Twins,2,2.3,301.0,
+3001590281,MLB 2023,2023-10-15T23:00:00Z,False,mlb-2023-m3001590281,1,,,,,,,
+3001590281,MLB 2023,2023-10-15T23:00:00Z,False,mlb-2023-m3001590281,1,,,,,,,
