@@ -1,0 +1,17 @@
+id_x,name_x,date,isLive_x,relativeDesktopUrl,openMarketCount,id_y,name_y,name,lx,odds,line,betTrend
+3002056690,Dodgers - Diamondbacks,2023-10-08T01:20:00Z,True,dodgers-diamondbacks-m3002056690,5,3164969666,Vencedor do jogo,Dodgers,1,14.0,101,
+3002056690,Dodgers - Diamondbacks,2023-10-08T01:20:00Z,True,dodgers-diamondbacks-m3002056690,5,3164969666,Vencedor do jogo,Diamondbacks,2,1.01,301,
+3002016908,KT Wiz - Hanwha Eagles,2023-10-08T05:00:00Z,False,kt-wiz-hanwha-eagles-m3002016908,14,3159342279,Vencedor do jogo,KT Wiz,1,1.23,101,95.0
+3002016908,KT Wiz - Hanwha Eagles,2023-10-08T05:00:00Z,False,kt-wiz-hanwha-eagles-m3002016908,14,3159342279,Vencedor do jogo,Hanwha Eagles,2,3.9,301,5.0
+3002016906,Doosan Bears - Lotte Giants,2023-10-08T05:00:00Z,False,doosan-bears-lotte-giants-m3002016906,14,3159342248,Vencedor do jogo,Doosan Bears,1,1.65,101,74.0
+3002016906,Doosan Bears - Lotte Giants,2023-10-08T05:00:00Z,False,doosan-bears-lotte-giants-m3002016906,14,3159342248,Vencedor do jogo,Lotte Giants,2,2.2,301,26.0
+3002016909,KIA Tigers - Samsung Lions,2023-10-08T05:00:00Z,False,kia-tigers-samsung-lions-m3002016909,14,3159342377,Vencedor do jogo,KIA Tigers,1,2.0,101,68.0
+3002016909,KIA Tigers - Samsung Lions,2023-10-08T05:00:00Z,False,kia-tigers-samsung-lions-m3002016909,14,3159342377,Vencedor do jogo,Samsung Lions,2,1.75,301,32.0
+3002016907,NC Dinos - SSG Landers,2023-10-08T05:00:00Z,False,nc-dinos-ssg-landers-m3002016907,14,3159342217,Vencedor do jogo,NC Dinos,1,2.05,101,57.0
+3002016907,NC Dinos - SSG Landers,2023-10-08T05:00:00Z,False,nc-dinos-ssg-landers-m3002016907,14,3159342217,Vencedor do jogo,SSG Landers,2,1.72,301,43.0
+3002056563,Orioles - Rangers,2023-10-08T20:05:00Z,False,orioles-rangers-m3002056563,16,3164942126,Vencedor do jogo,BAL Orioles,1,1.8,101,88.0
+3002056563,Orioles - Rangers,2023-10-08T20:05:00Z,False,orioles-rangers-m3002056563,16,3164942126,Vencedor do jogo,TEX Rangers,2,1.95,301,12.0
+3002056603,Astros - Twins,2023-10-09T00:05:00Z,False,astros-twins-m3002056603,16,3164950618,Vencedor do jogo,HOU Astros,1,1.7,101,100.0
+3002056603,Astros - Twins,2023-10-09T00:05:00Z,False,astros-twins-m3002056603,16,3164950618,Vencedor do jogo,MIN Twins,2,2.1,301,0.0
+3002056695,Braves - Phillies,2023-10-09T22:05:00Z,False,braves-phillies-m3002056695,16,3164970243,Vencedor do jogo,ATL Braves,1,1.58,101,100.0
+3002056695,Braves - Phillies,2023-10-09T22:05:00Z,False,braves-phillies-m3002056695,16,3164970243,Vencedor do jogo,PHI Phillies,2,2.35,301,0.0
