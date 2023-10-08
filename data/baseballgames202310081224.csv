@@ -1,0 +1,11 @@
+id_x,name_x,date,isLive_x,relativeDesktopUrl,openMarketCount,id_y,name_y,name,lx,odds,line,betTrend
+3002056563,Orioles - Rangers,2023-10-08T20:05:00Z,False,orioles-rangers-m3002056563,16,3164942126.0,Vencedor do jogo,BAL Orioles,1,1.8,101.0,89.0
+3002056563,Orioles - Rangers,2023-10-08T20:05:00Z,False,orioles-rangers-m3002056563,16,3164942126.0,Vencedor do jogo,TEX Rangers,2,1.95,301.0,11.0
+3002056603,Astros - Twins,2023-10-09T00:05:00Z,False,astros-twins-m3002056603,16,3164950618.0,Vencedor do jogo,HOU Astros,1,1.7,101.0,93.0
+3002056603,Astros - Twins,2023-10-09T00:05:00Z,False,astros-twins-m3002056603,16,3164950618.0,Vencedor do jogo,MIN Twins,2,2.15,301.0,7.0
+3002056695,Braves - Phillies,2023-10-09T22:05:00Z,False,braves-phillies-m3002056695,16,3164970243.0,Vencedor do jogo,ATL Braves,1,1.6,101.0,90.0
+3002056695,Braves - Phillies,2023-10-09T22:05:00Z,False,braves-phillies-m3002056695,16,3164970243.0,Vencedor do jogo,PHI Phillies,2,2.3,301.0,10.0
+3002056691,Dodgers - Diamondbacks,2023-10-10T01:05:00Z,False,dodgers-diamondbacks-m3002056691,16,3164969726.0,Vencedor do jogo,LA Dodgers,1,1.62,101.0,100.0
+3002056691,Dodgers - Diamondbacks,2023-10-10T01:05:00Z,False,dodgers-diamondbacks-m3002056691,16,3164969726.0,Vencedor do jogo,ARI Diamondbacks,2,2.25,301.0,0.0
+3001590281,MLB 2023,2023-10-15T23:00:00Z,False,mlb-2023-m3001590281,1,,,,,,,
+3001590281,MLB 2023,2023-10-15T23:00:00Z,False,mlb-2023-m3001590281,1,,,,,,,
