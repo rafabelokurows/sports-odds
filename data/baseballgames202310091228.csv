@@ -1,0 +1,13 @@
+id_x,name_x,date,isLive_x,relativeDesktopUrl,openMarketCount,id_y,name_y,name,lx,odds,line,betTrend
+3002043845,Orix Buffaloes - Fukuoka SoftBank Hawks,2023-10-09T09:00:00Z,True,orix-buffaloes-fukuoka-softbank-hawks-m3002043845,0,3163049725.0,Vencedor do jogo,Orix Buffaloes,1,1.22,101.0,
+3002043845,Orix Buffaloes - Fukuoka SoftBank Hawks,2023-10-09T09:00:00Z,True,orix-buffaloes-fukuoka-softbank-hawks-m3002043845,0,3163049725.0,Vencedor do jogo,Fukuoka SoftBank Hawks,2,4.05,301.0,
+3002056695,Braves - Phillies,2023-10-09T22:05:00Z,False,braves-phillies-m3002056695,16,3164970243.0,Vencedor do jogo,ATL Braves,1,1.6,101.0,82.0
+3002056695,Braves - Phillies,2023-10-09T22:05:00Z,False,braves-phillies-m3002056695,16,3164970243.0,Vencedor do jogo,PHI Phillies,2,2.3,301.0,18.0
+3002056691,Dodgers - Diamondbacks,2023-10-10T01:05:00Z,False,dodgers-diamondbacks-m3002056691,16,3164969726.0,Vencedor do jogo,LA Dodgers,1,1.58,101.0,89.0
+3002056691,Dodgers - Diamondbacks,2023-10-10T01:05:00Z,False,dodgers-diamondbacks-m3002056691,16,3164969726.0,Vencedor do jogo,ARI Diamondbacks,2,2.35,301.0,11.0
+3002056608,Twins - Astros,2023-10-10T20:05:00Z,False,twins-astros-m3002056608,16,3164950684.0,Vencedor do jogo,MIN Twins,1,1.72,101.0,86.0
+3002056608,Twins - Astros,2023-10-10T20:05:00Z,False,twins-astros-m3002056608,16,3164950684.0,Vencedor do jogo,HOU Astros,2,2.1,301.0,14.0
+3002056564,Rangers - Orioles,2023-10-11T00:05:00Z,False,rangers-orioles-m3002056564,16,3164942179.0,Vencedor do jogo,TEX Rangers,1,1.7,101.0,83.0
+3002056564,Rangers - Orioles,2023-10-11T00:05:00Z,False,rangers-orioles-m3002056564,16,3164942179.0,Vencedor do jogo,BAL Orioles,2,2.1,301.0,17.0
+3001590281,MLB 2023,2023-10-15T23:00:00Z,False,mlb-2023-m3001590281,1,,,,,,,
+3001590281,MLB 2023,2023-10-15T23:00:00Z,False,mlb-2023-m3001590281,1,,,,,,,
