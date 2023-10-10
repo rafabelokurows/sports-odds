@@ -1,0 +1,21 @@
+id_x,name_x,date,isLive_x,relativeDesktopUrl,openMarketCount,id_y,name_y,name,lx,odds,line,betTrend
+3002019732,NC Dinos - Hanwha Eagles,2023-10-10T09:30:00Z,False,nc-dinos-hanwha-eagles-m3002019732,8,3159629808.0,Vencedor do jogo,NC Dinos,1,1.32,101.0,100.0
+3002019732,NC Dinos - Hanwha Eagles,2023-10-10T09:30:00Z,False,nc-dinos-hanwha-eagles-m3002019732,8,3159629808.0,Vencedor do jogo,Hanwha Eagles,2,3.25,301.0,0.0
+3002019731,LG Twins - Lotte Giants,2023-10-10T09:30:00Z,False,lg-twins-lotte-giants-m3002019731,8,3159629776.0,Vencedor do jogo,LG Twins,1,1.65,101.0,86.0
+3002019731,LG Twins - Lotte Giants,2023-10-10T09:30:00Z,False,lg-twins-lotte-giants-m3002019731,8,3159629776.0,Vencedor do jogo,Lotte Giants,2,2.15,301.0,14.0
+3002019734,KIA Tigers - SSG Landers,2023-10-10T09:30:00Z,False,kia-tigers-ssg-landers-m3002019734,8,3159629907.0,Vencedor do jogo,KIA Tigers,1,2.08,101.0,54.0
+3002019734,KIA Tigers - SSG Landers,2023-10-10T09:30:00Z,False,kia-tigers-ssg-landers-m3002019734,8,3159629907.0,Vencedor do jogo,SSG Landers,2,1.64,301.0,46.0
+3002019735,Kiwoon Heroes - Samsung Lions,2023-10-10T09:30:00Z,False,kiwoon-heroes-samsung-lions-m3002019735,8,3159629938.0,Vencedor do jogo,Kiwoon Heroes,1,1.88,101.0,21.0
+3002019735,Kiwoon Heroes - Samsung Lions,2023-10-10T09:30:00Z,False,kiwoon-heroes-samsung-lions-m3002019735,8,3159629938.0,Vencedor do jogo,Samsung Lions,2,1.85,301.0,79.0
+3002019733,KT Wiz - Doosan Bears,2023-10-10T09:30:00Z,False,kt-wiz-doosan-bears-m3002019733,8,3159629864.0,Vencedor do jogo,KT Wiz,1,1.75,101.0,64.0
+3002019733,KT Wiz - Doosan Bears,2023-10-10T09:30:00Z,False,kt-wiz-doosan-bears-m3002019733,8,3159629864.0,Vencedor do jogo,Doosan Bears,2,2.0,301.0,36.0
+3002056608,Twins - Astros,2023-10-10T20:05:00Z,False,twins-astros-m3002056608,16,3164950684.0,Vencedor do jogo,MIN Twins,1,1.72,101.0,72.0
+3002056608,Twins - Astros,2023-10-10T20:05:00Z,False,twins-astros-m3002056608,16,3164950684.0,Vencedor do jogo,HOU Astros,2,2.1,301.0,28.0
+3002056564,Rangers - Orioles,2023-10-11T00:05:00Z,False,rangers-orioles-m3002056564,16,3164942179.0,Vencedor do jogo,TEX Rangers,1,1.68,101.0,86.0
+3002056564,Rangers - Orioles,2023-10-11T00:05:00Z,False,rangers-orioles-m3002056564,16,3164942179.0,Vencedor do jogo,BAL Orioles,2,2.15,301.0,14.0
+3002056693,Phillies - Braves,2023-10-11T21:05:00Z,False,phillies-braves-m3002056693,16,3164970181.0,Vencedor do jogo,PHI Phillies,1,1.8,101.0,88.0
+3002056693,Phillies - Braves,2023-10-11T21:05:00Z,False,phillies-braves-m3002056693,16,3164970181.0,Vencedor do jogo,ATL Braves,2,2.0,301.0,12.0
+3002056692,Diamondbacks - Dodgers,2023-10-12T01:05:00Z,False,diamondbacks-dodgers-m3002056692,16,3164969761.0,Vencedor do jogo,ARI Diamondbacks,1,2.2,101.0,100.0
+3002056692,Diamondbacks - Dodgers,2023-10-12T01:05:00Z,False,diamondbacks-dodgers-m3002056692,16,3164969761.0,Vencedor do jogo,LA Dodgers,2,1.65,301.0,0.0
+3001590281,MLB 2023,2023-10-15T23:00:00Z,False,mlb-2023-m3001590281,1,,,,,,,
+3001590281,MLB 2023,2023-10-15T23:00:00Z,False,mlb-2023-m3001590281,1,,,,,,,
