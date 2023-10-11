@@ -1,0 +1,11 @@
+id_x,name_x,date,isLive_x,relativeDesktopUrl,openMarketCount,id_y,name_y,name,lx,odds,line,betTrend
+3002056693,Phillies - Braves,2023-10-11T21:05:00Z,False,phillies-braves-m3002056693,16,3164970181,Vencedor do jogo,PHI Phillies,1,1.78,101,73
+3002056693,Phillies - Braves,2023-10-11T21:05:00Z,False,phillies-braves-m3002056693,16,3164970181,Vencedor do jogo,ATL Braves,2,2.0,301,27
+3002059517,Twins - Astros,2023-10-11T23:05:00Z,False,twins-astros-m3002059517,16,3165163886,Vencedor do jogo,MIN Twins,1,1.78,101,45
+3002059517,Twins - Astros,2023-10-11T23:05:00Z,False,twins-astros-m3002059517,16,3165163886,Vencedor do jogo,HOU Astros,2,2.0,301,55
+3002056692,Diamondbacks - Dodgers,2023-10-12T01:05:00Z,False,diamondbacks-dodgers-m3002056692,16,3164969761,Vencedor do jogo,ARI Diamondbacks,1,2.05,101,10
+3002056692,Diamondbacks - Dodgers,2023-10-12T01:05:00Z,False,diamondbacks-dodgers-m3002056692,16,3164969761,Vencedor do jogo,LA Dodgers,2,1.75,301,90
+3002061819,KIA Tigers - Lotte Giants,2023-10-12T09:30:00Z,False,kia-tigers-lotte-giants-m3002061819,14,3165415273,Vencedor do jogo,KIA Tigers,1,1.35,101,92
+3002061819,KIA Tigers - Lotte Giants,2023-10-12T09:30:00Z,False,kia-tigers-lotte-giants-m3002061819,14,3165415273,Vencedor do jogo,Lotte Giants,2,3.05,301,8
+3002061818,Doosan Bears - NC Dinos,2023-10-12T09:30:00Z,False,doosan-bears-nc-dinos-m3002061818,14,3165415490,Vencedor do jogo,Doosan Bears,1,1.82,101,40
+3002061818,Doosan Bears - NC Dinos,2023-10-12T09:30:00Z,False,doosan-bears-nc-dinos-m3002061818,14,3165415490,Vencedor do jogo,NC Dinos,2,1.9,301,60
