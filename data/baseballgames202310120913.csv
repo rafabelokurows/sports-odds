@@ -1,0 +1,11 @@
+id_x,name_x,date,isLive_x,relativeDesktopUrl,openMarketCount,id_y,name_y,name,lx,odds,line,betTrend
+3002061819,KIA Tigers - Lotte Giants,2023-10-12T09:30:00Z,False,kia-tigers-lotte-giants-m3002061819,8,3165415273.0,Vencedor do jogo,KIA Tigers,1,1.35,101.0,96.0
+3002061819,KIA Tigers - Lotte Giants,2023-10-12T09:30:00Z,False,kia-tigers-lotte-giants-m3002061819,8,3165415273.0,Vencedor do jogo,Lotte Giants,2,2.9,301.0,4.0
+3002061818,Doosan Bears - NC Dinos,2023-10-12T09:30:00Z,False,doosan-bears-nc-dinos-m3002061818,8,3165415490.0,Vencedor do jogo,Doosan Bears,1,1.9,101.0,45.0
+3002061818,Doosan Bears - NC Dinos,2023-10-12T09:30:00Z,False,doosan-bears-nc-dinos-m3002061818,8,3165415490.0,Vencedor do jogo,NC Dinos,2,1.85,301.0,55.0
+3002061581,Phillies - Braves,2023-10-13T00:05:00Z,False,phillies-braves-m3002061581,16,3165386192.0,Vencedor do jogo,PHI Phillies,1,2.25,101.0,50.0
+3002061581,Phillies - Braves,2023-10-13T00:05:00Z,False,phillies-braves-m3002061581,16,3165386192.0,Vencedor do jogo,ATL Braves,2,1.62,301.0,50.0
+3002069532,Astros - Rangers,2023-10-15T22:05:00Z,False,astros-rangers-m3002069532,16,3166526112.0,Vencedor do jogo,HOU Astros,1,1.68,101.0,100.0
+3002069532,Astros - Rangers,2023-10-15T22:05:00Z,False,astros-rangers-m3002069532,16,3166526112.0,Vencedor do jogo,TEX Rangers,2,2.15,301.0,0.0
+3001590281,MLB 2023,2023-10-23T23:00:00Z,False,mlb-2023-m3001590281,1,,,,,,,
+3001590281,MLB 2023,2023-10-23T23:00:00Z,False,mlb-2023-m3001590281,1,,,,,,,
