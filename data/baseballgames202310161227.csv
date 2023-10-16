@@ -1,0 +1,13 @@
+id_x,name_x,date,isLive_x,relativeDesktopUrl,openMarketCount,id_y,name_y,name,lx,odds,line,betTrend
+3002062194,KIA Tigers - NC Dinos,2023-10-16T09:30:00Z,True,kia-tigers-nc-dinos-m3002062194,2,3165427197.0,Vencedor do jogo,KIA Tigers,1,1.04,101.0,
+3002062194,KIA Tigers - NC Dinos,2023-10-16T09:30:00Z,True,kia-tigers-nc-dinos-m3002062194,2,3165427197.0,Vencedor do jogo,NC Dinos,2,10.0,301.0,
+3002062195,Hanwha Eagles - Lotte Giants,2023-10-16T09:30:00Z,True,hanwha-eagles-lotte-giants-m3002062195,2,3165427262.0,Vencedor do jogo,Hanwha Eagles,1,6.25,101.0,
+3002062195,Hanwha Eagles - Lotte Giants,2023-10-16T09:30:00Z,True,hanwha-eagles-lotte-giants-m3002062195,2,3165427262.0,Vencedor do jogo,Lotte Giants,2,1.12,301.0,
+3002077403,Chiba Lotte Marines - Fukuoka SoftBank Hawks,2023-10-16T09:00:00Z,True,chiba-lotte-marines-fukuoka-softbank-hawks-m3002077403,0,3167290996.0,Vencedor do jogo,Chiba Lotte Marines,1,2.0,101.0,
+3002077403,Chiba Lotte Marines - Fukuoka SoftBank Hawks,2023-10-16T09:00:00Z,True,chiba-lotte-marines-fukuoka-softbank-hawks-m3002077403,0,3167290996.0,Vencedor do jogo,Fukuoka SoftBank Hawks,2,1.75,301.0,
+3002069533,Astros - Rangers,2023-10-16T20:35:00Z,False,astros-rangers-m3002069533,16,3166526143.0,Vencedor do jogo,HOU Astros,1,1.8,101.0,91.0
+3002069533,Astros - Rangers,2023-10-16T20:35:00Z,False,astros-rangers-m3002069533,16,3166526143.0,Vencedor do jogo,TEX Rangers,2,2.0,301.0,9.0
+3002071399,Phillies - Diamondbacks,2023-10-17T00:05:00Z,False,phillies-diamondbacks-m3002071399,16,3166694680.0,Vencedor do jogo,PHI Phillies,1,1.58,101.0,97.0
+3002071399,Phillies - Diamondbacks,2023-10-17T00:05:00Z,False,phillies-diamondbacks-m3002071399,16,3166694680.0,Vencedor do jogo,ARI Diamondbacks,2,2.35,301.0,3.0
+3001590281,MLB 2023,2023-10-23T23:00:00Z,False,mlb-2023-m3001590281,1,,,,,,,
+3001590281,MLB 2023,2023-10-23T23:00:00Z,False,mlb-2023-m3001590281,1,,,,,,,
