@@ -1,0 +1,11 @@
+id_x,name_x,date,isLive_x,relativeDesktopUrl,openMarketCount,id_y,name_y,name,lx,odds,line,betTrend
+3002071399,Phillies - Diamondbacks,2023-10-17T00:05:00Z,True,phillies-diamondbacks-m3002071399,5,3166694680.0,Vencedor do jogo,Phillies,1,1.04,101.0,
+3002071399,Phillies - Diamondbacks,2023-10-17T00:05:00Z,True,phillies-diamondbacks-m3002071399,5,3166694680.0,Vencedor do jogo,Diamondbacks,2,10.0,301.0,
+3002062196,SSG Landers - Doosan Bears,2023-10-17T09:30:00Z,False,ssg-landers-doosan-bears-m3002062196,14,3165427294.0,Vencedor do jogo,SSG Landers,1,1.25,101.0,100.0
+3002062196,SSG Landers - Doosan Bears,2023-10-17T09:30:00Z,False,ssg-landers-doosan-bears-m3002062196,14,3165427294.0,Vencedor do jogo,Doosan Bears,2,3.6,301.0,0.0
+3002062197,KIA Tigers - NC Dinos,2023-10-17T09:30:00Z,False,kia-tigers-nc-dinos-m3002062197,14,3165427231.0,Vencedor do jogo,KIA Tigers,1,1.55,101.0,100.0
+3002062197,KIA Tigers - NC Dinos,2023-10-17T09:30:00Z,False,kia-tigers-nc-dinos-m3002062197,14,3165427231.0,Vencedor do jogo,NC Dinos,2,2.35,301.0,0.0
+3002069534,Rangers - Astros,2023-10-19T00:05:00Z,False,rangers-astros-m3002069534,16,3166526174.0,Vencedor do jogo,TEX Rangers,1,1.75,101.0,
+3002069534,Rangers - Astros,2023-10-19T00:05:00Z,False,rangers-astros-m3002069534,16,3166526174.0,Vencedor do jogo,HOU Astros,2,2.05,301.0,
+3001771238,KBO 2023,2023-10-24T09:00:00Z,False,kbo-2023-m3001771238,1,,,,,,,
+3001771238,KBO 2023,2023-10-24T09:00:00Z,False,kbo-2023-m3001771238,1,,,,,,,
