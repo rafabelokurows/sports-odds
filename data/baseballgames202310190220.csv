@@ -1,0 +1,13 @@
+id_x,name_x,date,isLive_x,relativeDesktopUrl,openMarketCount,id_y,name_y,name,lx,odds,line,betTrend
+3002069534,Rangers - Astros,2023-10-19T00:05:00Z,True,rangers-astros-m3002069534,5,3166526174.0,Vencedor do jogo,Rangers,1,14.5,101.0,
+3002069534,Rangers - Astros,2023-10-19T00:05:00Z,True,rangers-astros-m3002069534,5,3166526174.0,Vencedor do jogo,Astros,2,1.01,301.0,
+3002080279,Hanshin Tigers - Hiroshima Toyo Carp,2023-10-19T09:00:00Z,False,hanshin-tigers-hiroshima-toyo-carp-m3002080279,14,3167597449.0,Vencedor do jogo,Hanshin Tigers,1,1.45,101.0,100.0
+3002080279,Hanshin Tigers - Hiroshima Toyo Carp,2023-10-19T09:00:00Z,False,hanshin-tigers-hiroshima-toyo-carp-m3002080279,14,3167597449.0,Vencedor do jogo,Hiroshima Toyo Carp,2,2.65,301.0,0.0
+3002080280,Orix Buffaloes - Chiba Lotte Marines,2023-10-19T09:00:00Z,False,orix-buffaloes-chiba-lotte-marines-m3002080280,14,3167597543.0,Vencedor do jogo,Orix Buffaloes,1,1.55,101.0,100.0
+3002080280,Orix Buffaloes - Chiba Lotte Marines,2023-10-19T09:00:00Z,False,orix-buffaloes-chiba-lotte-marines-m3002080280,14,3167597543.0,Vencedor do jogo,Chiba Lotte Marines,2,2.35,301.0,0.0
+3002081456,NC Dinos - Doosan Bears,2023-10-19T09:30:00Z,False,nc-dinos-doosan-bears-m3002081456,14,3167746747.0,Vencedor do jogo,NC Dinos,1,1.72,101.0,45.0
+3002081456,NC Dinos - Doosan Bears,2023-10-19T09:30:00Z,False,nc-dinos-doosan-bears-m3002081456,14,3167746747.0,Vencedor do jogo,Doosan Bears,2,2.05,301.0,55.0
+3002071401,Diamondbacks - Phillies,2023-10-19T21:05:00Z,False,diamondbacks-phillies-m3002071401,16,3166694742.0,Vencedor do jogo,ARI Diamondbacks,1,2.1,101.0,6.0
+3002071401,Diamondbacks - Phillies,2023-10-19T21:05:00Z,False,diamondbacks-phillies-m3002071401,16,3166694742.0,Vencedor do jogo,PHI Phillies,2,1.72,301.0,94.0
+3001771238,KBO 2023,2023-10-24T09:00:00Z,False,kbo-2023-m3001771238,1,,,,,,,
+3001771238,KBO 2023,2023-10-24T09:00:00Z,False,kbo-2023-m3001771238,1,,,,,,,
