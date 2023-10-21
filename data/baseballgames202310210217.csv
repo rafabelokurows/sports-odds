@@ -1,0 +1,9 @@
+id_x,name_x,date,isLive_x,relativeDesktopUrl,openMarketCount,id_y,name_y,name,lx,odds,line,betTrend
+3002071402,Diamondbacks - Phillies,2023-10-21T00:05:00Z,True,diamondbacks-phillies-m3002071402,5,3166694773.0,Vencedor do jogo,Diamondbacks,1,4.5,101.0,
+3002071402,Diamondbacks - Phillies,2023-10-21T00:05:00Z,True,diamondbacks-phillies-m3002071402,5,3166694773.0,Vencedor do jogo,Phillies,2,1.2,301.0,
+3002080276,Orix Buffaloes - Chiba Lotte Marines,2023-10-21T09:00:00Z,False,orix-buffaloes-chiba-lotte-marines-m3002080276,14,3167597481.0,Vencedor do jogo,Orix Buffaloes,1,1.55,101.0,100.0
+3002080276,Orix Buffaloes - Chiba Lotte Marines,2023-10-21T09:00:00Z,False,orix-buffaloes-chiba-lotte-marines-m3002080276,14,3167597481.0,Vencedor do jogo,Chiba Lotte Marines,2,2.4,301.0,0.0
+3002079796,Astros - Rangers,2023-10-23T00:05:00Z,False,astros-rangers-m3002079796,16,3167544842.0,Vencedor do jogo,HOU Astros,1,1.78,101.0,100.0
+3002079796,Astros - Rangers,2023-10-23T00:05:00Z,False,astros-rangers-m3002079796,16,3167544842.0,Vencedor do jogo,TEX Rangers,2,2.0,301.0,0.0
+3001771238,KBO 2023,2023-10-24T09:00:00Z,False,kbo-2023-m3001771238,1,,,,,,,
+3001771238,KBO 2023,2023-10-24T09:00:00Z,False,kbo-2023-m3001771238,1,,,,,,,
