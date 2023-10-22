@@ -1,0 +1,9 @@
+id_x,name_x,date,isLive_x,relativeDesktopUrl,openMarketCount,id_y,name_y,name,lx,odds,line,betTrend
+3002071440,Diamondbacks - Phillies,2023-10-22T00:05:00Z,True,diamondbacks-phillies-m3002071440,5,3166697510.0,Vencedor do jogo,Diamondbacks,1,10.5,101.0,
+3002071440,Diamondbacks - Phillies,2023-10-22T00:05:00Z,True,diamondbacks-phillies-m3002071440,5,3166697510.0,Vencedor do jogo,Phillies,2,1.04,301.0,
+3002085041,SSG Landers - NC Dinos,2023-10-22T05:00:00Z,False,ssg-landers-nc-dinos-m3002085041,14,3168128744.0,Vencedor do jogo,SSG Landers,1,1.7,101.0,100.0
+3002085041,SSG Landers - NC Dinos,2023-10-22T05:00:00Z,False,ssg-landers-nc-dinos-m3002085041,14,3168128744.0,Vencedor do jogo,NC Dinos,2,2.05,301.0,0.0
+3002079796,Astros - Rangers,2023-10-23T00:05:00Z,False,astros-rangers-m3002079796,16,3167544842.0,Vencedor do jogo,HOU Astros,1,1.8,101.0,86.0
+3002079796,Astros - Rangers,2023-10-23T00:05:00Z,False,astros-rangers-m3002079796,16,3167544842.0,Vencedor do jogo,TEX Rangers,2,2.0,301.0,14.0
+3001771238,KBO 2023,2023-10-24T09:00:00Z,False,kbo-2023-m3001771238,1,,,,,,,
+3001771238,KBO 2023,2023-10-24T09:00:00Z,False,kbo-2023-m3001771238,1,,,,,,,
