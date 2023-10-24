@@ -1,0 +1,9 @@
+id_x,name_x,date,isLive_x,relativeDesktopUrl,openMarketCount,id_y,name_y,name,lx,odds,line,betTrend
+3002081318,Astros - Rangers,2023-10-24T00:05:00Z,True,astros-rangers-m3002081318,5,3167732462.0,Vencedor do jogo,Astros,1,10.0,101.0,
+3002081318,Astros - Rangers,2023-10-24T00:05:00Z,True,astros-rangers-m3002081318,5,3167732462.0,Vencedor do jogo,Rangers,2,1.0,301.0,
+3001771238,KBO 2023,2023-10-24T09:00:00Z,False,kbo-2023-m3001771238,1,,,,,,,
+3001771238,KBO 2023,2023-10-24T09:00:00Z,False,kbo-2023-m3001771238,1,,,,,,,
+3002071442,Phillies - Diamondbacks,2023-10-25T00:05:00Z,False,phillies-diamondbacks-m3002071442,16,3166697479.0,Vencedor do jogo,PHI Phillies,1,1.55,101.0,100.0
+3002071442,Phillies - Diamondbacks,2023-10-25T00:05:00Z,False,phillies-diamondbacks-m3002071442,16,3166697479.0,Vencedor do jogo,ARI Diamondbacks,2,2.2,301.0,0.0
+3001771182,NPB 2023,2023-11-05T10:00:00Z,False,npb-2023-m3001771182,1,,,,,,,
+3001771182,NPB 2023,2023-11-05T10:00:00Z,False,npb-2023-m3001771182,1,,,,,,,
