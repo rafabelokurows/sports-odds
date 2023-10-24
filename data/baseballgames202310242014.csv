@@ -1,0 +1,11 @@
+id_x,name_x,date,isLive_x,relativeDesktopUrl,openMarketCount,id_y,name_y,name,lx,odds,line,betTrend
+3002071442,Phillies - Diamondbacks,2023-10-25T00:05:00Z,False,phillies-diamondbacks-m3002071442,16,3166697479.0,Vencedor do jogo,PHI Phillies,1,1.52,101.0,97.0
+3002071442,Phillies - Diamondbacks,2023-10-25T00:05:00Z,False,phillies-diamondbacks-m3002071442,16,3166697479.0,Vencedor do jogo,ARI Diamondbacks,2,2.25,301.0,3.0
+3002085043,NC Dinos - SSG Landers,2023-10-25T09:30:00Z,False,nc-dinos-ssg-landers-m3002085043,1,3168129315.0,Vencedor do jogo,NC Dinos,1,1.65,101.0,
+3002085043,NC Dinos - SSG Landers,2023-10-25T09:30:00Z,False,nc-dinos-ssg-landers-m3002085043,1,3168129315.0,Vencedor do jogo,SSG Landers,2,1.95,301.0,
+3001590281,MLB 2023,2023-10-31T00:00:00Z,False,mlb-2023-m3001590281,1,,,,,,,
+3001590281,MLB 2023,2023-10-31T00:00:00Z,False,mlb-2023-m3001590281,1,,,,,,,
+3001771238,KBO 2023,2023-10-31T10:00:00Z,False,kbo-2023-m3001771238,1,,,,,,,
+3001771238,KBO 2023,2023-10-31T10:00:00Z,False,kbo-2023-m3001771238,1,,,,,,,
+3001771182,NPB 2023,2023-11-05T10:00:00Z,False,npb-2023-m3001771182,1,,,,,,,
+3001771182,NPB 2023,2023-11-05T10:00:00Z,False,npb-2023-m3001771182,1,,,,,,,
