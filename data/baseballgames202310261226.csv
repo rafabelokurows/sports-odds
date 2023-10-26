@@ -1,0 +1,9 @@
+id_x,name_x,date,isLive_x,relativeDesktopUrl,openMarketCount,id_y,name_y,name,lx,odds,line,betTrend
+3002092039,Rangers - Diamondbacks,2023-10-28T00:05:00Z,False,rangers-diamondbacks-m3002092039,16,3169389306.0,Vencedor do jogo,TEX Rangers,1,1.52,101.0,94.0
+3002092039,Rangers - Diamondbacks,2023-10-28T00:05:00Z,False,rangers-diamondbacks-m3002092039,16,3169389306.0,Vencedor do jogo,ARI Diamondbacks,2,2.25,301.0,6.0
+3002089538,Orix Buffaloes - Hanshin Tigers,2023-10-28T09:30:00Z,False,orix-buffaloes-hanshin-tigers-m3002089538,1,3169121636.0,Vencedor do jogo,Orix Buffaloes,1,2.1,101.0,14.0
+3002089538,Orix Buffaloes - Hanshin Tigers,2023-10-28T09:30:00Z,False,orix-buffaloes-hanshin-tigers-m3002089538,1,3169121636.0,Vencedor do jogo,Hanshin Tigers,2,1.58,301.0,86.0
+3001771238,KBO 2023,2023-10-31T10:00:00Z,False,kbo-2023-m3001771238,1,,,,,,,
+3001771238,KBO 2023,2023-10-31T10:00:00Z,False,kbo-2023-m3001771238,1,,,,,,,
+3001771182,NPB 2023,2023-11-05T10:00:00Z,False,npb-2023-m3001771182,1,,,,,,,
+3001771182,NPB 2023,2023-11-05T10:00:00Z,False,npb-2023-m3001771182,1,,,,,,,
