@@ -1,0 +1,7 @@
+id_x,name_x,date,isLive_x,relativeDesktopUrl,openMarketCount,id_y,name_y,name,lx,odds,line,betTrend
+3002092739,KT Wiz - NC Dinos,2023-10-30T09:30:00Z,True,kt-wiz-nc-dinos-m3002092739,1,3169480201.0,Vencedor do jogo,KT Wiz,1,10.0,101.0,
+3002092739,KT Wiz - NC Dinos,2023-10-30T09:30:00Z,True,kt-wiz-nc-dinos-m3002092739,1,3169480201.0,Vencedor do jogo,NC Dinos,2,1.0,301.0,
+3002092041,Diamondbacks - Rangers,2023-10-31T00:05:00Z,False,diamondbacks-rangers-m3002092041,16,3169389368.0,Vencedor do jogo,ARI Diamondbacks,1,1.82,101.0,34.0
+3002092041,Diamondbacks - Rangers,2023-10-31T00:05:00Z,False,diamondbacks-rangers-m3002092041,16,3169389368.0,Vencedor do jogo,TEX Rangers,2,1.82,301.0,66.0
+3001771182,NPB 2023,2023-11-05T10:00:00Z,False,npb-2023-m3001771182,1,,,,,,,
+3001771182,NPB 2023,2023-11-05T10:00:00Z,False,npb-2023-m3001771182,1,,,,,,,
