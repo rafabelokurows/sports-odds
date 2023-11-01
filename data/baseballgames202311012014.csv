@@ -1,0 +1,11 @@
+id_x,name_x,date,isLive_x,relativeDesktopUrl,openMarketCount,id_y,name_y,name,lx,odds,line,betTrend
+3002098037,Diamondbacks - Rangers,2023-11-02T00:05:00Z,False,diamondbacks-rangers-m3002098037,16,3170389629.0,Vencedor do jogo,ARI Diamondbacks,1,1.75,101.0,31.0
+3002098037,Diamondbacks - Rangers,2023-11-02T00:05:00Z,False,diamondbacks-rangers-m3002098037,16,3170389629.0,Vencedor do jogo,TEX Rangers,2,1.75,301.0,69.0
+3001590281,MLB 2023,2023-11-02T00:05:00Z,False,mlb-2023-m3001590281,1,,,,,,,
+3001590281,MLB 2023,2023-11-02T00:05:00Z,False,mlb-2023-m3001590281,1,,,,,,,
+3002106314,Hanshin Tigers - Orix Buffaloes,2023-11-02T09:00:00Z,False,hanshin-tigers-orix-buffaloes-m3002106314,14,3171153893.0,Vencedor do jogo,Hanshin Tigers,1,1.5,101.0,83.0
+3002106314,Hanshin Tigers - Orix Buffaloes,2023-11-02T09:00:00Z,False,hanshin-tigers-orix-buffaloes-m3002106314,14,3171153893.0,Vencedor do jogo,Orix Buffaloes,2,2.15,301.0,17.0
+3002092741,NC Dinos - KT Wiz,2023-11-02T09:30:00Z,False,nc-dinos-kt-wiz-m3002092741,14,3169480264.0,Vencedor do jogo,NC Dinos,1,1.8,101.0,56.0
+3002092741,NC Dinos - KT Wiz,2023-11-02T09:30:00Z,False,nc-dinos-kt-wiz-m3002092741,14,3169480264.0,Vencedor do jogo,KT Wiz,2,1.7,301.0,44.0
+3001771182,NPB 2023,2023-11-05T10:00:00Z,False,npb-2023-m3001771182,1,,,,,,,
+3001771182,NPB 2023,2023-11-05T10:00:00Z,False,npb-2023-m3001771182,1,,,,,,,
