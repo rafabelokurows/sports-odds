@@ -70,5 +70,5 @@ for id in game_ids['id']:
 # Concatenate the resulting DataFrames into a single DataFrame
 run_odds = pd.concat(result_dfs, ignore_index=True)
 
-run_odds.to_csv("data/baseballrunodds"+strftime("%Y%m%d%H%M", gmtime())+".csv",index=False)
-games.to_csv("data/baseballgames"+strftime("%Y%m%d%H%M", gmtime())+".csv",index=False)
+run_odds.to_csv("data/2024/baseballrunodds"+strftime("%Y%m%d%H%M", gmtime())+".csv",index=False)
+games.to_csv("data/2024/baseballgames"+strftime("%Y%m%d%H%M", gmtime())+".csv",index=False)
