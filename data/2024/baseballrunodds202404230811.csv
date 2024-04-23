@@ -1,0 +1,226 @@
+gameid,date,home,away,competition,name,odds,is_cashoutable
+3002201344,2024-04-23T08:30:00Z,Yokohama BayStars,Hanshin Tigers,Japão - NPB,Acima de 3.5,1.25,False
+3002201344,2024-04-23T08:30:00Z,Yokohama BayStars,Hanshin Tigers,Japão - NPB,Abaixo de 3.5,3.25,False
+3002201344,2024-04-23T08:30:00Z,Yokohama BayStars,Hanshin Tigers,Japão - NPB,Acima de 4.5,1.42,False
+3002201344,2024-04-23T08:30:00Z,Yokohama BayStars,Hanshin Tigers,Japão - NPB,Abaixo de 4.5,2.5,False
+3002201344,2024-04-23T08:30:00Z,Yokohama BayStars,Hanshin Tigers,Japão - NPB,Acima de 5.5,1.72,False
+3002201344,2024-04-23T08:30:00Z,Yokohama BayStars,Hanshin Tigers,Japão - NPB,Abaixo de 5.5,1.88,False
+3002201344,2024-04-23T08:30:00Z,Yokohama BayStars,Hanshin Tigers,Japão - NPB,Acima de 6.5,2.05,False
+3002201344,2024-04-23T08:30:00Z,Yokohama BayStars,Hanshin Tigers,Japão - NPB,Abaixo de 6.5,1.6,False
+3002201344,2024-04-23T08:30:00Z,Yokohama BayStars,Hanshin Tigers,Japão - NPB,Acima de 7.5,2.65,False
+3002201344,2024-04-23T08:30:00Z,Yokohama BayStars,Hanshin Tigers,Japão - NPB,Abaixo de 7.5,1.38,False
+3002201347,2024-04-23T09:00:00Z,Tokyo Yakult Swallows,Hiroshima Toyo Carp,Japão - NPB,Acima de 4.5,1.25,False
+3002201347,2024-04-23T09:00:00Z,Tokyo Yakult Swallows,Hiroshima Toyo Carp,Japão - NPB,Abaixo de 4.5,3.25,False
+3002201347,2024-04-23T09:00:00Z,Tokyo Yakult Swallows,Hiroshima Toyo Carp,Japão - NPB,Acima de 5.5,1.48,False
+3002201347,2024-04-23T09:00:00Z,Tokyo Yakult Swallows,Hiroshima Toyo Carp,Japão - NPB,Abaixo de 5.5,2.3,False
+3002201347,2024-04-23T09:00:00Z,Tokyo Yakult Swallows,Hiroshima Toyo Carp,Japão - NPB,Acima de 6.5,1.7,False
+3002201347,2024-04-23T09:00:00Z,Tokyo Yakult Swallows,Hiroshima Toyo Carp,Japão - NPB,Abaixo de 6.5,1.9,False
+3002201347,2024-04-23T09:00:00Z,Tokyo Yakult Swallows,Hiroshima Toyo Carp,Japão - NPB,Acima de 7.5,2.1,False
+3002201347,2024-04-23T09:00:00Z,Tokyo Yakult Swallows,Hiroshima Toyo Carp,Japão - NPB,Abaixo de 7.5,1.58,False
+3002201347,2024-04-23T09:00:00Z,Tokyo Yakult Swallows,Hiroshima Toyo Carp,Japão - NPB,Acima de 8.5,2.55,False
+3002201347,2024-04-23T09:00:00Z,Tokyo Yakult Swallows,Hiroshima Toyo Carp,Japão - NPB,Abaixo de 8.5,1.4,False
+3002201349,2024-04-23T09:00:00Z,Yomiuri Giants,Chunichi Dragons,Japão - NPB,Acima de 3.5,1.32,False
+3002201349,2024-04-23T09:00:00Z,Yomiuri Giants,Chunichi Dragons,Japão - NPB,Abaixo de 3.5,2.85,False
+3002201349,2024-04-23T09:00:00Z,Yomiuri Giants,Chunichi Dragons,Japão - NPB,Acima de 4.5,1.52,False
+3002201349,2024-04-23T09:00:00Z,Yomiuri Giants,Chunichi Dragons,Japão - NPB,Abaixo de 4.5,2.2,False
+3002201349,2024-04-23T09:00:00Z,Yomiuri Giants,Chunichi Dragons,Japão - NPB,Acima de 5.5,1.88,False
+3002201349,2024-04-23T09:00:00Z,Yomiuri Giants,Chunichi Dragons,Japão - NPB,Abaixo de 5.5,1.72,False
+3002201349,2024-04-23T09:00:00Z,Yomiuri Giants,Chunichi Dragons,Japão - NPB,Acima de 6.5,2.35,False
+3002201349,2024-04-23T09:00:00Z,Yomiuri Giants,Chunichi Dragons,Japão - NPB,Abaixo de 6.5,1.45,False
+3002201349,2024-04-23T09:00:00Z,Yomiuri Giants,Chunichi Dragons,Japão - NPB,Acima de 7.5,3.1,False
+3002201349,2024-04-23T09:00:00Z,Yomiuri Giants,Chunichi Dragons,Japão - NPB,Abaixo de 7.5,1.27,False
+3002201460,2024-04-23T09:00:00Z,Orix Buffaloes,Saitama Seibu Lions,Japão - NPB,Acima de 3.5,1.27,False
+3002201460,2024-04-23T09:00:00Z,Orix Buffaloes,Saitama Seibu Lions,Japão - NPB,Abaixo de 3.5,3.1,False
+3002201460,2024-04-23T09:00:00Z,Orix Buffaloes,Saitama Seibu Lions,Japão - NPB,Acima de 4.5,1.45,False
+3002201460,2024-04-23T09:00:00Z,Orix Buffaloes,Saitama Seibu Lions,Japão - NPB,Abaixo de 4.5,2.35,False
+3002201460,2024-04-23T09:00:00Z,Orix Buffaloes,Saitama Seibu Lions,Japão - NPB,Acima de 5.5,1.8,False
+3002201460,2024-04-23T09:00:00Z,Orix Buffaloes,Saitama Seibu Lions,Japão - NPB,Abaixo de 5.5,1.8,False
+3002201460,2024-04-23T09:00:00Z,Orix Buffaloes,Saitama Seibu Lions,Japão - NPB,Acima de 6.5,2.15,False
+3002201460,2024-04-23T09:00:00Z,Orix Buffaloes,Saitama Seibu Lions,Japão - NPB,Abaixo de 6.5,1.55,False
+3002201460,2024-04-23T09:00:00Z,Orix Buffaloes,Saitama Seibu Lions,Japão - NPB,Acima de 7.5,2.8,False
+3002201460,2024-04-23T09:00:00Z,Orix Buffaloes,Saitama Seibu Lions,Japão - NPB,Abaixo de 7.5,1.32,False
+3002201462,2024-04-23T09:00:00Z,Chiba Lotte Marines,Fukuoka SoftBank Hawks,Japão - NPB,Acima de 3.5,1.3,False
+3002201462,2024-04-23T09:00:00Z,Chiba Lotte Marines,Fukuoka SoftBank Hawks,Japão - NPB,Abaixo de 3.5,2.95,False
+3002201462,2024-04-23T09:00:00Z,Chiba Lotte Marines,Fukuoka SoftBank Hawks,Japão - NPB,Acima de 4.5,1.48,False
+3002201462,2024-04-23T09:00:00Z,Chiba Lotte Marines,Fukuoka SoftBank Hawks,Japão - NPB,Abaixo de 4.5,2.3,False
+3002201462,2024-04-23T09:00:00Z,Chiba Lotte Marines,Fukuoka SoftBank Hawks,Japão - NPB,Acima de 5.5,1.88,False
+3002201462,2024-04-23T09:00:00Z,Chiba Lotte Marines,Fukuoka SoftBank Hawks,Japão - NPB,Abaixo de 5.5,1.75,False
+3002201462,2024-04-23T09:00:00Z,Chiba Lotte Marines,Fukuoka SoftBank Hawks,Japão - NPB,Acima de 6.5,2.25,False
+3002201462,2024-04-23T09:00:00Z,Chiba Lotte Marines,Fukuoka SoftBank Hawks,Japão - NPB,Abaixo de 6.5,1.5,False
+3002201462,2024-04-23T09:00:00Z,Chiba Lotte Marines,Fukuoka SoftBank Hawks,Japão - NPB,Acima de 7.5,2.95,False
+3002201462,2024-04-23T09:00:00Z,Chiba Lotte Marines,Fukuoka SoftBank Hawks,Japão - NPB,Abaixo de 7.5,1.3,False
+3002201466,2024-04-23T09:00:00Z,Tohoku Rakuten Golden Eagles,Hokkaido Nippon Ham Fighters,Japão - NPB,Acima de 3.5,1.24,False
+3002201466,2024-04-23T09:00:00Z,Tohoku Rakuten Golden Eagles,Hokkaido Nippon Ham Fighters,Japão - NPB,Abaixo de 3.5,3.25,False
+3002201466,2024-04-23T09:00:00Z,Tohoku Rakuten Golden Eagles,Hokkaido Nippon Ham Fighters,Japão - NPB,Acima de 4.5,1.4,False
+3002201466,2024-04-23T09:00:00Z,Tohoku Rakuten Golden Eagles,Hokkaido Nippon Ham Fighters,Japão - NPB,Abaixo de 4.5,2.5,False
+3002201466,2024-04-23T09:00:00Z,Tohoku Rakuten Golden Eagles,Hokkaido Nippon Ham Fighters,Japão - NPB,Acima de 5.5,1.72,False
+3002201466,2024-04-23T09:00:00Z,Tohoku Rakuten Golden Eagles,Hokkaido Nippon Ham Fighters,Japão - NPB,Abaixo de 5.5,1.88,False
+3002201466,2024-04-23T09:00:00Z,Tohoku Rakuten Golden Eagles,Hokkaido Nippon Ham Fighters,Japão - NPB,Acima de 6.5,2.05,False
+3002201466,2024-04-23T09:00:00Z,Tohoku Rakuten Golden Eagles,Hokkaido Nippon Ham Fighters,Japão - NPB,Abaixo de 6.5,1.6,False
+3002201466,2024-04-23T09:00:00Z,Tohoku Rakuten Golden Eagles,Hokkaido Nippon Ham Fighters,Japão - NPB,Acima de 7.5,2.65,False
+3002201466,2024-04-23T09:00:00Z,Tohoku Rakuten Golden Eagles,Hokkaido Nippon Ham Fighters,Japão - NPB,Abaixo de 7.5,1.35,False
+3002300269,2024-04-23T09:30:00Z,Kiwoon Heroes,KIA Tigers,Coreia do Sul - KBO,Kiwoon Heroes,2.55,False
+3002300269,2024-04-23T09:30:00Z,Kiwoon Heroes,KIA Tigers,Coreia do Sul - KBO,Empate,10.0,False
+3002300269,2024-04-23T09:30:00Z,Kiwoon Heroes,KIA Tigers,Coreia do Sul - KBO,KIA Tigers,1.5,False
+3002300265,2024-04-23T09:30:00Z,Doosan Bears,NC Dinos,Coreia do Sul - KBO,Doosan Bears,2.5,False
+3002300265,2024-04-23T09:30:00Z,Doosan Bears,NC Dinos,Coreia do Sul - KBO,Empate,9.75,False
+3002300265,2024-04-23T09:30:00Z,Doosan Bears,NC Dinos,Coreia do Sul - KBO,NC Dinos,1.52,False
+3002300266,2024-04-23T09:30:00Z,Lotte Giants,SSG Landers,Coreia do Sul - KBO,Lotte Giants,2.4,False
+3002300266,2024-04-23T09:30:00Z,Lotte Giants,SSG Landers,Coreia do Sul - KBO,Empate,9.5,False
+3002300266,2024-04-23T09:30:00Z,Lotte Giants,SSG Landers,Coreia do Sul - KBO,SSG Landers,1.55,False
+3002300268,2024-04-23T09:30:00Z,KT Wiz,Hanwha Eagles,Coreia do Sul - KBO,KT Wiz,2.2,False
+3002300268,2024-04-23T09:30:00Z,KT Wiz,Hanwha Eagles,Coreia do Sul - KBO,Empate,10.0,False
+3002300268,2024-04-23T09:30:00Z,KT Wiz,Hanwha Eagles,Coreia do Sul - KBO,Hanwha Eagles,1.65,False
+3002300267,2024-04-23T09:30:00Z,Samsung Lions,LG Twins,Coreia do Sul - KBO,Samsung Lions,2.05,False
+3002300267,2024-04-23T09:30:00Z,Samsung Lions,LG Twins,Coreia do Sul - KBO,Empate,10.5,False
+3002300267,2024-04-23T09:30:00Z,Samsung Lions,LG Twins,Coreia do Sul - KBO,LG Twins,1.72,False
+3002182243,2024-04-23T22:10:00Z,Cleveland Guardians,BOS Red Sox,EUA - MLB,Acima de 6.5,1.38,False
+3002182243,2024-04-23T22:10:00Z,Cleveland Guardians,BOS Red Sox,EUA - MLB,Abaixo de 6.5,2.8,False
+3002182243,2024-04-23T22:10:00Z,Cleveland Guardians,BOS Red Sox,EUA - MLB,Acima de 7.5,1.65,False
+3002182243,2024-04-23T22:10:00Z,Cleveland Guardians,BOS Red Sox,EUA - MLB,Abaixo de 7.5,2.1,False
+3002182243,2024-04-23T22:10:00Z,Cleveland Guardians,BOS Red Sox,EUA - MLB,Acima de 8.5,1.88,False
+3002182243,2024-04-23T22:10:00Z,Cleveland Guardians,BOS Red Sox,EUA - MLB,Abaixo de 8.5,1.82,False
+3002182243,2024-04-23T22:10:00Z,Cleveland Guardians,BOS Red Sox,EUA - MLB,Acima de 9.5,2.3,False
+3002182243,2024-04-23T22:10:00Z,Cleveland Guardians,BOS Red Sox,EUA - MLB,Abaixo de 9.5,1.55,False
+3002182243,2024-04-23T22:10:00Z,Cleveland Guardians,BOS Red Sox,EUA - MLB,Acima de 10.5,2.75,False
+3002182243,2024-04-23T22:10:00Z,Cleveland Guardians,BOS Red Sox,EUA - MLB,Abaixo de 10.5,1.4,False
+3002182256,2024-04-23T22:40:00Z,CIN Reds,PHI Phillies,EUA - MLB,Acima de 6.5,1.35,False
+3002182256,2024-04-23T22:40:00Z,CIN Reds,PHI Phillies,EUA - MLB,Abaixo de 6.5,3.0,False
+3002182256,2024-04-23T22:40:00Z,CIN Reds,PHI Phillies,EUA - MLB,Acima de 7.5,1.58,False
+3002182256,2024-04-23T22:40:00Z,CIN Reds,PHI Phillies,EUA - MLB,Abaixo de 7.5,2.25,False
+3002182256,2024-04-23T22:40:00Z,CIN Reds,PHI Phillies,EUA - MLB,Acima de 8.5,1.78,False
+3002182256,2024-04-23T22:40:00Z,CIN Reds,PHI Phillies,EUA - MLB,Abaixo de 8.5,1.9,False
+3002182256,2024-04-23T22:40:00Z,CIN Reds,PHI Phillies,EUA - MLB,Acima de 9.5,2.2,False
+3002182256,2024-04-23T22:40:00Z,CIN Reds,PHI Phillies,EUA - MLB,Abaixo de 9.5,1.6,False
+3002182256,2024-04-23T22:40:00Z,CIN Reds,PHI Phillies,EUA - MLB,Acima de 10.5,2.55,False
+3002182256,2024-04-23T22:40:00Z,CIN Reds,PHI Phillies,EUA - MLB,Abaixo de 10.5,1.45,False
+3002182250,2024-04-23T22:40:00Z,PIT Pirates,MIL Brewers,EUA - MLB,Acima de 6.5,1.4,False
+3002182250,2024-04-23T22:40:00Z,PIT Pirates,MIL Brewers,EUA - MLB,Abaixo de 6.5,2.75,False
+3002182250,2024-04-23T22:40:00Z,PIT Pirates,MIL Brewers,EUA - MLB,Acima de 7.5,1.68,False
+3002182250,2024-04-23T22:40:00Z,PIT Pirates,MIL Brewers,EUA - MLB,Abaixo de 7.5,2.1,False
+3002182250,2024-04-23T22:40:00Z,PIT Pirates,MIL Brewers,EUA - MLB,Acima de 8.5,1.9,False
+3002182250,2024-04-23T22:40:00Z,PIT Pirates,MIL Brewers,EUA - MLB,Abaixo de 8.5,1.8,False
+3002182250,2024-04-23T22:40:00Z,PIT Pirates,MIL Brewers,EUA - MLB,Acima de 9.5,2.4,False
+3002182250,2024-04-23T22:40:00Z,PIT Pirates,MIL Brewers,EUA - MLB,Abaixo de 9.5,1.52,False
+3002182250,2024-04-23T22:40:00Z,PIT Pirates,MIL Brewers,EUA - MLB,Acima de 10.5,2.8,False
+3002182250,2024-04-23T22:40:00Z,PIT Pirates,MIL Brewers,EUA - MLB,Abaixo de 10.5,1.38,False
+3002182211,2024-04-23T22:45:00Z,WAS Nationals,LA Dodgers,EUA - MLB,Acima de 7.5,1.35,False
+3002182211,2024-04-23T22:45:00Z,WAS Nationals,LA Dodgers,EUA - MLB,Abaixo de 7.5,2.9,False
+3002182211,2024-04-23T22:45:00Z,WAS Nationals,LA Dodgers,EUA - MLB,Acima de 8.5,1.5,False
+3002182211,2024-04-23T22:45:00Z,WAS Nationals,LA Dodgers,EUA - MLB,Abaixo de 8.5,2.4,False
+3002182211,2024-04-23T22:45:00Z,WAS Nationals,LA Dodgers,EUA - MLB,Acima de 9.5,1.78,False
+3002182211,2024-04-23T22:45:00Z,WAS Nationals,LA Dodgers,EUA - MLB,Abaixo de 9.5,1.95,False
+3002182211,2024-04-23T22:45:00Z,WAS Nationals,LA Dodgers,EUA - MLB,Acima de 10.5,2.05,False
+3002182211,2024-04-23T22:45:00Z,WAS Nationals,LA Dodgers,EUA - MLB,Abaixo de 10.5,1.7,False
+3002182211,2024-04-23T22:45:00Z,WAS Nationals,LA Dodgers,EUA - MLB,Acima de 11.5,2.45,False
+3002182211,2024-04-23T22:45:00Z,WAS Nationals,LA Dodgers,EUA - MLB,Abaixo de 11.5,1.48,False
+3002182238,2024-04-23T22:50:00Z,TB Rays,DET Tigers,EUA - MLB,Acima de 5.5,1.3,False
+3002182238,2024-04-23T22:50:00Z,TB Rays,DET Tigers,EUA - MLB,Abaixo de 5.5,3.2,False
+3002182238,2024-04-23T22:50:00Z,TB Rays,DET Tigers,EUA - MLB,Acima de 6.5,1.45,False
+3002182238,2024-04-23T22:50:00Z,TB Rays,DET Tigers,EUA - MLB,Abaixo de 6.5,2.55,False
+3002182238,2024-04-23T22:50:00Z,TB Rays,DET Tigers,EUA - MLB,Acima de 7.5,1.75,False
+3002182238,2024-04-23T22:50:00Z,TB Rays,DET Tigers,EUA - MLB,Abaixo de 7.5,1.95,False
+3002182238,2024-04-23T22:50:00Z,TB Rays,DET Tigers,EUA - MLB,Acima de 8.5,2.05,False
+3002182238,2024-04-23T22:50:00Z,TB Rays,DET Tigers,EUA - MLB,Abaixo de 8.5,1.7,False
+3002182238,2024-04-23T22:50:00Z,TB Rays,DET Tigers,EUA - MLB,Acima de 9.5,2.55,False
+3002182238,2024-04-23T22:50:00Z,TB Rays,DET Tigers,EUA - MLB,Abaixo de 9.5,1.45,False
+3002182230,2024-04-23T23:05:00Z,NY Yankees,OAK Athletics,EUA - MLB,Acima de 5.5,1.3,False
+3002182230,2024-04-23T23:05:00Z,NY Yankees,OAK Athletics,EUA - MLB,Abaixo de 5.5,3.25,False
+3002182230,2024-04-23T23:05:00Z,NY Yankees,OAK Athletics,EUA - MLB,Acima de 6.5,1.45,False
+3002182230,2024-04-23T23:05:00Z,NY Yankees,OAK Athletics,EUA - MLB,Abaixo de 6.5,2.6,False
+3002182230,2024-04-23T23:05:00Z,NY Yankees,OAK Athletics,EUA - MLB,Acima de 7.5,1.72,False
+3002182230,2024-04-23T23:05:00Z,NY Yankees,OAK Athletics,EUA - MLB,Abaixo de 7.5,2.0,False
+3002182230,2024-04-23T23:05:00Z,NY Yankees,OAK Athletics,EUA - MLB,Acima de 8.5,2.0,False
+3002182230,2024-04-23T23:05:00Z,NY Yankees,OAK Athletics,EUA - MLB,Abaixo de 8.5,1.72,False
+3002182230,2024-04-23T23:05:00Z,NY Yankees,OAK Athletics,EUA - MLB,Acima de 9.5,2.55,False
+3002182230,2024-04-23T23:05:00Z,NY Yankees,OAK Athletics,EUA - MLB,Abaixo de 9.5,1.45,False
+3002182274,2024-04-23T23:20:00Z,ATL Braves,MIA Marlins,EUA - MLB,Acima de 6.5,1.32,False
+3002182274,2024-04-23T23:20:00Z,ATL Braves,MIA Marlins,EUA - MLB,Abaixo de 6.5,3.15,False
+3002182274,2024-04-23T23:20:00Z,ATL Braves,MIA Marlins,EUA - MLB,Acima de 7.5,1.52,False
+3002182274,2024-04-23T23:20:00Z,ATL Braves,MIA Marlins,EUA - MLB,Abaixo de 7.5,2.35,False
+3002182274,2024-04-23T23:20:00Z,ATL Braves,MIA Marlins,EUA - MLB,Acima de 8.5,1.75,False
+3002182274,2024-04-23T23:20:00Z,ATL Braves,MIA Marlins,EUA - MLB,Abaixo de 8.5,2.0,False
+3002182274,2024-04-23T23:20:00Z,ATL Braves,MIA Marlins,EUA - MLB,Acima de 9.5,2.15,False
+3002182274,2024-04-23T23:20:00Z,ATL Braves,MIA Marlins,EUA - MLB,Abaixo de 9.5,1.65,False
+3002182274,2024-04-23T23:20:00Z,ATL Braves,MIA Marlins,EUA - MLB,Acima de 10.5,2.5,False
+3002182274,2024-04-23T23:20:00Z,ATL Braves,MIA Marlins,EUA - MLB,Abaixo de 10.5,1.48,False
+3002182213,2024-04-23T23:40:00Z,MIN Twins,CHI White Sox,EUA - MLB,Acima de 5.5,1.4,False
+3002182213,2024-04-23T23:40:00Z,MIN Twins,CHI White Sox,EUA - MLB,Abaixo de 5.5,2.75,False
+3002182213,2024-04-23T23:40:00Z,MIN Twins,CHI White Sox,EUA - MLB,Acima de 6.5,1.58,False
+3002182213,2024-04-23T23:40:00Z,MIN Twins,CHI White Sox,EUA - MLB,Abaixo de 6.5,2.25,False
+3002182213,2024-04-23T23:40:00Z,MIN Twins,CHI White Sox,EUA - MLB,Acima de 7.5,1.95,False
+3002182213,2024-04-23T23:40:00Z,MIN Twins,CHI White Sox,EUA - MLB,Abaixo de 7.5,1.78,False
+3002182213,2024-04-23T23:40:00Z,MIN Twins,CHI White Sox,EUA - MLB,Acima de 8.5,2.3,False
+3002182213,2024-04-23T23:40:00Z,MIN Twins,CHI White Sox,EUA - MLB,Abaixo de 8.5,1.55,False
+3002182213,2024-04-23T23:40:00Z,MIN Twins,CHI White Sox,EUA - MLB,Acima de 9.5,2.95,False
+3002182213,2024-04-23T23:40:00Z,MIN Twins,CHI White Sox,EUA - MLB,Abaixo de 9.5,1.35,False
+3002182280,2024-04-23T23:40:00Z,KC Royals,TOR Blue Jays,EUA - MLB,Acima de 6.5,1.4,False
+3002182280,2024-04-23T23:40:00Z,KC Royals,TOR Blue Jays,EUA - MLB,Abaixo de 6.5,2.75,False
+3002182280,2024-04-23T23:40:00Z,KC Royals,TOR Blue Jays,EUA - MLB,Acima de 7.5,1.68,False
+3002182280,2024-04-23T23:40:00Z,KC Royals,TOR Blue Jays,EUA - MLB,Abaixo de 7.5,2.1,False
+3002182280,2024-04-23T23:40:00Z,KC Royals,TOR Blue Jays,EUA - MLB,Acima de 8.5,1.9,False
+3002182280,2024-04-23T23:40:00Z,KC Royals,TOR Blue Jays,EUA - MLB,Abaixo de 8.5,1.8,False
+3002182280,2024-04-23T23:40:00Z,KC Royals,TOR Blue Jays,EUA - MLB,Acima de 9.5,2.4,False
+3002182280,2024-04-23T23:40:00Z,KC Royals,TOR Blue Jays,EUA - MLB,Abaixo de 9.5,1.52,False
+3002182280,2024-04-23T23:40:00Z,KC Royals,TOR Blue Jays,EUA - MLB,Acima de 10.5,2.85,False
+3002182280,2024-04-23T23:40:00Z,KC Royals,TOR Blue Jays,EUA - MLB,Abaixo de 10.5,1.38,False
+3002182245,2024-04-23T23:40:00Z,CHI Cubs,HOU Astros,EUA - MLB,Acima de 8.5,1.48,False
+3002182245,2024-04-23T23:40:00Z,CHI Cubs,HOU Astros,EUA - MLB,Abaixo de 8.5,2.5,False
+3002182245,2024-04-23T23:40:00Z,CHI Cubs,HOU Astros,EUA - MLB,Acima de 9.5,1.75,False
+3002182245,2024-04-23T23:40:00Z,CHI Cubs,HOU Astros,EUA - MLB,Abaixo de 9.5,2.0,False
+3002182245,2024-04-23T23:40:00Z,CHI Cubs,HOU Astros,EUA - MLB,Acima de 10.5,1.95,False
+3002182245,2024-04-23T23:40:00Z,CHI Cubs,HOU Astros,EUA - MLB,Abaixo de 10.5,1.75,False
+3002182245,2024-04-23T23:40:00Z,CHI Cubs,HOU Astros,EUA - MLB,Acima de 11.5,2.4,False
+3002182245,2024-04-23T23:40:00Z,CHI Cubs,HOU Astros,EUA - MLB,Abaixo de 11.5,1.5,False
+3002182245,2024-04-23T23:40:00Z,CHI Cubs,HOU Astros,EUA - MLB,Acima de 12.5,2.8,False
+3002182245,2024-04-23T23:40:00Z,CHI Cubs,HOU Astros,EUA - MLB,Abaixo de 12.5,1.38,False
+3002182226,2024-04-23T23:45:00Z,SL Cardinals,ARI Diamondbacks,EUA - MLB,Acima de 6.5,1.4,False
+3002182226,2024-04-23T23:45:00Z,SL Cardinals,ARI Diamondbacks,EUA - MLB,Abaixo de 6.5,2.7,False
+3002182226,2024-04-23T23:45:00Z,SL Cardinals,ARI Diamondbacks,EUA - MLB,Acima de 7.5,1.68,False
+3002182226,2024-04-23T23:45:00Z,SL Cardinals,ARI Diamondbacks,EUA - MLB,Abaixo de 7.5,2.05,False
+3002182226,2024-04-23T23:45:00Z,SL Cardinals,ARI Diamondbacks,EUA - MLB,Acima de 8.5,1.95,False
+3002182226,2024-04-23T23:45:00Z,SL Cardinals,ARI Diamondbacks,EUA - MLB,Abaixo de 8.5,1.78,False
+3002182226,2024-04-23T23:45:00Z,SL Cardinals,ARI Diamondbacks,EUA - MLB,Acima de 9.5,2.4,False
+3002182226,2024-04-23T23:45:00Z,SL Cardinals,ARI Diamondbacks,EUA - MLB,Abaixo de 9.5,1.5,False
+3002182226,2024-04-23T23:45:00Z,SL Cardinals,ARI Diamondbacks,EUA - MLB,Acima de 10.5,2.85,False
+3002182226,2024-04-23T23:45:00Z,SL Cardinals,ARI Diamondbacks,EUA - MLB,Abaixo de 10.5,1.38,False
+3002182237,2024-04-24T00:05:00Z,TEX Rangers,SEA Mariners,EUA - MLB,Acima de 6.5,1.3,False
+3002182237,2024-04-24T00:05:00Z,TEX Rangers,SEA Mariners,EUA - MLB,Abaixo de 6.5,3.2,False
+3002182237,2024-04-24T00:05:00Z,TEX Rangers,SEA Mariners,EUA - MLB,Acima de 7.5,1.52,False
+3002182237,2024-04-24T00:05:00Z,TEX Rangers,SEA Mariners,EUA - MLB,Abaixo de 7.5,2.35,False
+3002182237,2024-04-24T00:05:00Z,TEX Rangers,SEA Mariners,EUA - MLB,Acima de 8.5,1.72,False
+3002182237,2024-04-24T00:05:00Z,TEX Rangers,SEA Mariners,EUA - MLB,Abaixo de 8.5,2.0,False
+3002182237,2024-04-24T00:05:00Z,TEX Rangers,SEA Mariners,EUA - MLB,Acima de 9.5,2.1,False
+3002182237,2024-04-24T00:05:00Z,TEX Rangers,SEA Mariners,EUA - MLB,Abaixo de 9.5,1.65,False
+3002182237,2024-04-24T00:05:00Z,TEX Rangers,SEA Mariners,EUA - MLB,Acima de 10.5,2.45,False
+3002182237,2024-04-24T00:05:00Z,TEX Rangers,SEA Mariners,EUA - MLB,Abaixo de 10.5,1.5,False
+3002182194,2024-04-24T00:40:00Z,COL Rockies,SD Padres,EUA - MLB,Acima de 8.5,1.45,False
+3002182194,2024-04-24T00:40:00Z,COL Rockies,SD Padres,EUA - MLB,Abaixo de 8.5,2.55,False
+3002182194,2024-04-24T00:40:00Z,COL Rockies,SD Padres,EUA - MLB,Acima de 9.5,1.7,False
+3002182194,2024-04-24T00:40:00Z,COL Rockies,SD Padres,EUA - MLB,Abaixo de 9.5,2.05,False
+3002182194,2024-04-24T00:40:00Z,COL Rockies,SD Padres,EUA - MLB,Acima de 10.5,1.95,False
+3002182194,2024-04-24T00:40:00Z,COL Rockies,SD Padres,EUA - MLB,Abaixo de 10.5,1.78,False
+3002182194,2024-04-24T00:40:00Z,COL Rockies,SD Padres,EUA - MLB,Acima de 11.5,2.35,False
+3002182194,2024-04-24T00:40:00Z,COL Rockies,SD Padres,EUA - MLB,Abaixo de 11.5,1.52,False
+3002182194,2024-04-24T00:40:00Z,COL Rockies,SD Padres,EUA - MLB,Acima de 12.5,2.75,False
+3002182194,2024-04-24T00:40:00Z,COL Rockies,SD Padres,EUA - MLB,Abaixo de 12.5,1.4,False
+3002182249,2024-04-24T01:40:00Z,LA Angels,BAL Orioles,EUA - MLB,Acima de 6.5,1.35,False
+3002182249,2024-04-24T01:40:00Z,LA Angels,BAL Orioles,EUA - MLB,Abaixo de 6.5,3.0,False
+3002182249,2024-04-24T01:40:00Z,LA Angels,BAL Orioles,EUA - MLB,Acima de 7.5,1.58,False
+3002182249,2024-04-24T01:40:00Z,LA Angels,BAL Orioles,EUA - MLB,Abaixo de 7.5,2.25,False
+3002182249,2024-04-24T01:40:00Z,LA Angels,BAL Orioles,EUA - MLB,Acima de 8.5,1.78,False
+3002182249,2024-04-24T01:40:00Z,LA Angels,BAL Orioles,EUA - MLB,Abaixo de 8.5,1.95,False
+3002182249,2024-04-24T01:40:00Z,LA Angels,BAL Orioles,EUA - MLB,Acima de 9.5,2.2,False
+3002182249,2024-04-24T01:40:00Z,LA Angels,BAL Orioles,EUA - MLB,Abaixo de 9.5,1.6,False
+3002182249,2024-04-24T01:40:00Z,LA Angels,BAL Orioles,EUA - MLB,Acima de 10.5,2.55,False
+3002182249,2024-04-24T01:40:00Z,LA Angels,BAL Orioles,EUA - MLB,Abaixo de 10.5,1.45,False
+3002182197,2024-04-24T01:45:00Z,SF Giants,NY Mets,EUA - MLB,Acima de 5.5,1.38,False
+3002182197,2024-04-24T01:45:00Z,SF Giants,NY Mets,EUA - MLB,Abaixo de 5.5,2.85,False
+3002182197,2024-04-24T01:45:00Z,SF Giants,NY Mets,EUA - MLB,Acima de 6.5,1.55,False
+3002182197,2024-04-24T01:45:00Z,SF Giants,NY Mets,EUA - MLB,Abaixo de 6.5,2.35,False
+3002182197,2024-04-24T01:45:00Z,SF Giants,NY Mets,EUA - MLB,Acima de 7.5,1.88,False
+3002182197,2024-04-24T01:45:00Z,SF Giants,NY Mets,EUA - MLB,Abaixo de 7.5,1.82,False
+3002182197,2024-04-24T01:45:00Z,SF Giants,NY Mets,EUA - MLB,Acima de 8.5,2.2,False
+3002182197,2024-04-24T01:45:00Z,SF Giants,NY Mets,EUA - MLB,Abaixo de 8.5,1.6,False
+3002182197,2024-04-24T01:45:00Z,SF Giants,NY Mets,EUA - MLB,Acima de 9.5,2.85,False
+3002182197,2024-04-24T01:45:00Z,SF Giants,NY Mets,EUA - MLB,Abaixo de 9.5,1.38,False
