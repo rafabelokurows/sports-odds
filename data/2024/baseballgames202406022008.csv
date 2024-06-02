@@ -1,0 +1,91 @@
+id_x,name_x,date,isLive_x,relativeDesktopUrl,openMarketCount,id_y,name_y,name,lx,odds,line,betTrend
+3002359211,Brewers - White Sox,2024-06-02T18:10:00Z,True,brewers-white-sox-m3002359211,5,3210169020.0,Vencedor do jogo,Brewers,1,1.1,101.0,
+3002359211,Brewers - White Sox,2024-06-02T18:10:00Z,True,brewers-white-sox-m3002359211,5,3210169020.0,Vencedor do jogo,White Sox,2,5.7,301.0,
+3002359211,Brewers - White Sox,2024-06-02T18:10:00Z,True,brewers-white-sox-m3002359211,5,3210169020.0,Vencedor do jogo,,,,,
+3002359211,Brewers - White Sox,2024-06-02T18:10:00Z,True,brewers-white-sox-m3002359211,5,,,Brewers,1,1.1,101.0,
+3002359211,Brewers - White Sox,2024-06-02T18:10:00Z,True,brewers-white-sox-m3002359211,5,,,White Sox,2,5.7,301.0,
+3002359211,Brewers - White Sox,2024-06-02T18:10:00Z,True,brewers-white-sox-m3002359211,5,,,,,,,
+3002359205,Orioles - Rays,2024-06-02T17:35:00Z,True,orioles-rays-m3002359205,4,3210168858.0,Vencedor do jogo,Orioles,1,4.65,101.0,
+3002359205,Orioles - Rays,2024-06-02T17:35:00Z,True,orioles-rays-m3002359205,4,3210168858.0,Vencedor do jogo,Rays,2,1.16,301.0,
+3002359205,Orioles - Rays,2024-06-02T17:35:00Z,True,orioles-rays-m3002359205,4,3210168858.0,Vencedor do jogo,,,,,
+3002359205,Orioles - Rays,2024-06-02T17:35:00Z,True,orioles-rays-m3002359205,4,,,Orioles,1,4.65,101.0,
+3002359205,Orioles - Rays,2024-06-02T17:35:00Z,True,orioles-rays-m3002359205,4,,,Rays,2,1.16,301.0,
+3002359205,Orioles - Rays,2024-06-02T17:35:00Z,True,orioles-rays-m3002359205,4,,,,,,,
+3002359209,Red Sox - Tigers,2024-06-02T17:35:00Z,True,red-sox-tigers-m3002359209,1,3210168989.0,Vencedor do jogo,Red Sox,1,1.57,101.0,
+3002359209,Red Sox - Tigers,2024-06-02T17:35:00Z,True,red-sox-tigers-m3002359209,1,3210168989.0,Vencedor do jogo,Tigers,2,2.3,301.0,
+3002359209,Red Sox - Tigers,2024-06-02T17:35:00Z,True,red-sox-tigers-m3002359209,1,3210168989.0,Vencedor do jogo,,,,,
+3002359209,Red Sox - Tigers,2024-06-02T17:35:00Z,True,red-sox-tigers-m3002359209,1,,,Red Sox,1,1.57,101.0,
+3002359209,Red Sox - Tigers,2024-06-02T17:35:00Z,True,red-sox-tigers-m3002359209,1,,,Tigers,2,2.3,301.0,
+3002359209,Red Sox - Tigers,2024-06-02T17:35:00Z,True,red-sox-tigers-m3002359209,1,,,,,,,
+3002359214,Blue Jays - Pirates,2024-06-02T17:35:00Z,True,blue-jays-pirates-m3002359214,5,3210169082.0,Vencedor do jogo,Blue Jays,1,1.06,101.0,
+3002359214,Blue Jays - Pirates,2024-06-02T17:35:00Z,True,blue-jays-pirates-m3002359214,5,3210169082.0,Vencedor do jogo,Pirates,2,7.25,301.0,
+3002359214,Blue Jays - Pirates,2024-06-02T17:35:00Z,True,blue-jays-pirates-m3002359214,5,3210169082.0,Vencedor do jogo,,,,,
+3002359214,Blue Jays - Pirates,2024-06-02T17:35:00Z,True,blue-jays-pirates-m3002359214,5,,,Blue Jays,1,1.06,101.0,
+3002359214,Blue Jays - Pirates,2024-06-02T17:35:00Z,True,blue-jays-pirates-m3002359214,5,,,Pirates,2,7.25,301.0,
+3002359214,Blue Jays - Pirates,2024-06-02T17:35:00Z,True,blue-jays-pirates-m3002359214,5,,,,,,,
+3002359215,Mets - Diamondbacks,2024-06-02T17:40:00Z,True,mets-diamondbacks-m3002359215,1,3210169144.0,Vencedor do jogo,Mets,1,5.2,101.0,
+3002359215,Mets - Diamondbacks,2024-06-02T17:40:00Z,True,mets-diamondbacks-m3002359215,1,3210169144.0,Vencedor do jogo,Diamondbacks,2,1.12,301.0,
+3002359215,Mets - Diamondbacks,2024-06-02T17:40:00Z,True,mets-diamondbacks-m3002359215,1,3210169144.0,Vencedor do jogo,,,,,
+3002359215,Mets - Diamondbacks,2024-06-02T17:40:00Z,True,mets-diamondbacks-m3002359215,1,,,Mets,1,5.2,101.0,
+3002359215,Mets - Diamondbacks,2024-06-02T17:40:00Z,True,mets-diamondbacks-m3002359215,1,,,Diamondbacks,2,1.12,301.0,
+3002359215,Mets - Diamondbacks,2024-06-02T17:40:00Z,True,mets-diamondbacks-m3002359215,1,,,,,,,
+3002359210,Cubs - Reds,2024-06-02T18:20:00Z,True,cubs-reds-m3002359210,5,3210168958.0,Vencedor do jogo,Cubs,1,5.8,101.0,
+3002359210,Cubs - Reds,2024-06-02T18:20:00Z,True,cubs-reds-m3002359210,5,3210168958.0,Vencedor do jogo,Reds,2,1.1,301.0,
+3002359210,Cubs - Reds,2024-06-02T18:20:00Z,True,cubs-reds-m3002359210,5,3210168958.0,Vencedor do jogo,,,,,
+3002359210,Cubs - Reds,2024-06-02T18:20:00Z,True,cubs-reds-m3002359210,5,,,Cubs,1,5.8,101.0,
+3002359210,Cubs - Reds,2024-06-02T18:20:00Z,True,cubs-reds-m3002359210,5,,,Reds,2,1.1,301.0,
+3002359210,Cubs - Reds,2024-06-02T18:20:00Z,True,cubs-reds-m3002359210,5,,,,,,,
+3002359343,Giants - Yankees,2024-06-02T20:05:00Z,True,giants-yankees-m3002359343,6,3210184162.0,Vencedor do jogo,Giants,1,1.9,101.0,
+3002359343,Giants - Yankees,2024-06-02T20:05:00Z,True,giants-yankees-m3002359343,6,3210184162.0,Vencedor do jogo,Yankees,2,1.8,301.0,
+3002359343,Giants - Yankees,2024-06-02T20:05:00Z,True,giants-yankees-m3002359343,6,3210184162.0,Vencedor do jogo,,,,,
+3002359343,Giants - Yankees,2024-06-02T20:05:00Z,True,giants-yankees-m3002359343,6,3210184159.0,Resultado do 1.º inning,Giants,1,1.9,101.0,
+3002359343,Giants - Yankees,2024-06-02T20:05:00Z,True,giants-yankees-m3002359343,6,3210184159.0,Resultado do 1.º inning,Yankees,2,1.8,301.0,
+3002359343,Giants - Yankees,2024-06-02T20:05:00Z,True,giants-yankees-m3002359343,6,3210184159.0,Resultado do 1.º inning,,,,,
+3002359206,Royals - Padres,2024-06-02T18:10:00Z,True,royals-padres-m3002359206,5,3210168927.0,Vencedor do jogo,Royals,1,1.85,101.0,
+3002359206,Royals - Padres,2024-06-02T18:10:00Z,True,royals-padres-m3002359206,5,3210168927.0,Vencedor do jogo,Padres,2,1.85,301.0,
+3002359206,Royals - Padres,2024-06-02T18:10:00Z,True,royals-padres-m3002359206,5,3210168927.0,Vencedor do jogo,,,,,
+3002359206,Royals - Padres,2024-06-02T18:10:00Z,True,royals-padres-m3002359206,5,,,Royals,1,1.85,101.0,
+3002359206,Royals - Padres,2024-06-02T18:10:00Z,True,royals-padres-m3002359206,5,,,Padres,2,1.85,301.0,
+3002359206,Royals - Padres,2024-06-02T18:10:00Z,True,royals-padres-m3002359206,5,,,,,,,
+3002359342,Mariners - Angels,2024-06-02T20:10:00Z,False,mariners-angels-m3002359342,26,3210184131.0,Vencedor do jogo,SEA Mariners,1,1.42,101.0,92.0
+3002359342,Mariners - Angels,2024-06-02T20:10:00Z,False,mariners-angels-m3002359342,26,3210184131.0,Vencedor do jogo,LA Angels,2,2.55,301.0,8.0
+3002359342,Mariners - Angels,2024-06-02T20:10:00Z,False,mariners-angels-m3002359342,26,3210184131.0,Vencedor do jogo,,,,,
+3002359342,Mariners - Angels,2024-06-02T20:10:00Z,False,mariners-angels-m3002359342,26,3210184128.0,Resultado do 1.º inning,SEA Mariners,1,1.42,101.0,92.0
+3002359342,Mariners - Angels,2024-06-02T20:10:00Z,False,mariners-angels-m3002359342,26,3210184128.0,Resultado do 1.º inning,LA Angels,2,2.55,301.0,8.0
+3002359342,Mariners - Angels,2024-06-02T20:10:00Z,False,mariners-angels-m3002359342,26,3210184128.0,Resultado do 1.º inning,,,,,
+3002359344,Dodgers - Rockies,2024-06-02T20:10:00Z,False,dodgers-rockies-m3002359344,28,3210184193.0,Vencedor do jogo,LA Dodgers,1,1.35,101.0,99.0
+3002359344,Dodgers - Rockies,2024-06-02T20:10:00Z,False,dodgers-rockies-m3002359344,28,3210184193.0,Vencedor do jogo,COL Rockies,2,2.8,301.0,1.0
+3002359344,Dodgers - Rockies,2024-06-02T20:10:00Z,False,dodgers-rockies-m3002359344,28,3210184193.0,Vencedor do jogo,,,,,
+3002359344,Dodgers - Rockies,2024-06-02T20:10:00Z,False,dodgers-rockies-m3002359344,28,3210184190.0,Resultado do 1.º inning,LA Dodgers,1,1.35,101.0,99.0
+3002359344,Dodgers - Rockies,2024-06-02T20:10:00Z,False,dodgers-rockies-m3002359344,28,3210184190.0,Resultado do 1.º inning,COL Rockies,2,2.8,301.0,1.0
+3002359344,Dodgers - Rockies,2024-06-02T20:10:00Z,False,dodgers-rockies-m3002359344,28,3210184190.0,Resultado do 1.º inning,,,,,
+3002359208,Phillies - Cardinals,2024-06-02T23:10:00Z,False,phillies-cardinals-m3002359208,28,3210169175.0,Vencedor do jogo,PHI Phillies,1,1.65,101.0,82.0
+3002359208,Phillies - Cardinals,2024-06-02T23:10:00Z,False,phillies-cardinals-m3002359208,28,3210169175.0,Vencedor do jogo,SL Cardinals,2,2.1,301.0,18.0
+3002359208,Phillies - Cardinals,2024-06-02T23:10:00Z,False,phillies-cardinals-m3002359208,28,3210169175.0,Vencedor do jogo,,,,,
+3002359208,Phillies - Cardinals,2024-06-02T23:10:00Z,False,phillies-cardinals-m3002359208,28,3210169172.0,Resultado do 1.º inning,PHI Phillies,1,1.65,101.0,82.0
+3002359208,Phillies - Cardinals,2024-06-02T23:10:00Z,False,phillies-cardinals-m3002359208,28,3210169172.0,Resultado do 1.º inning,SL Cardinals,2,2.1,301.0,18.0
+3002359208,Phillies - Cardinals,2024-06-02T23:10:00Z,False,phillies-cardinals-m3002359208,28,3210169172.0,Resultado do 1.º inning,,,,,
+3002360536,Nationals - Mets,2024-06-03T22:45:00Z,False,nationals-mets-m3002360536,28,3210330002.0,Vencedor do jogo,WAS Nationals,1,1.75,101.0,100.0
+3002360536,Nationals - Mets,2024-06-03T22:45:00Z,False,nationals-mets-m3002360536,28,3210330002.0,Vencedor do jogo,NY Mets,2,1.95,301.0,0.0
+3002360536,Nationals - Mets,2024-06-03T22:45:00Z,False,nationals-mets-m3002360536,28,3210330002.0,Vencedor do jogo,,,,,
+3002360536,Nationals - Mets,2024-06-03T22:45:00Z,False,nationals-mets-m3002360536,28,3210329999.0,Resultado do 1.º inning,WAS Nationals,1,1.75,101.0,100.0
+3002360536,Nationals - Mets,2024-06-03T22:45:00Z,False,nationals-mets-m3002360536,28,3210329999.0,Resultado do 1.º inning,NY Mets,2,1.95,301.0,0.0
+3002360536,Nationals - Mets,2024-06-03T22:45:00Z,False,nationals-mets-m3002360536,28,3210329999.0,Resultado do 1.º inning,,,,,
+3002360538,Blue Jays - Orioles,2024-06-03T23:05:00Z,False,blue-jays-orioles-m3002360538,28,3210330065.0,Vencedor do jogo,TOR Blue Jays,1,1.95,101.0,0.0
+3002360538,Blue Jays - Orioles,2024-06-03T23:05:00Z,False,blue-jays-orioles-m3002360538,28,3210330065.0,Vencedor do jogo,BAL Orioles,2,1.75,301.0,100.0
+3002360538,Blue Jays - Orioles,2024-06-03T23:05:00Z,False,blue-jays-orioles-m3002360538,28,3210330065.0,Vencedor do jogo,,,,,
+3002360538,Blue Jays - Orioles,2024-06-03T23:05:00Z,False,blue-jays-orioles-m3002360538,28,3210330062.0,Resultado do 1.º inning,TOR Blue Jays,1,1.95,101.0,0.0
+3002360538,Blue Jays - Orioles,2024-06-03T23:05:00Z,False,blue-jays-orioles-m3002360538,28,3210330062.0,Resultado do 1.º inning,BAL Orioles,2,1.75,301.0,100.0
+3002360538,Blue Jays - Orioles,2024-06-03T23:05:00Z,False,blue-jays-orioles-m3002360538,28,3210330062.0,Resultado do 1.º inning,,,,,
+3002360661,Astros - Cardinals,2024-06-04T00:10:00Z,False,astros-cardinals-m3002360661,1,3210344383.0,Vencedor do jogo,HOU Astros,1,1.55,101.0,
+3002360661,Astros - Cardinals,2024-06-04T00:10:00Z,False,astros-cardinals-m3002360661,1,3210344383.0,Vencedor do jogo,SL Cardinals,2,2.3,301.0,
+3002360661,Astros - Cardinals,2024-06-04T00:10:00Z,False,astros-cardinals-m3002360661,1,3210344383.0,Vencedor do jogo,,,,,
+3002360661,Astros - Cardinals,2024-06-04T00:10:00Z,False,astros-cardinals-m3002360661,1,,,HOU Astros,1,1.55,101.0,
+3002360661,Astros - Cardinals,2024-06-04T00:10:00Z,False,astros-cardinals-m3002360661,1,,,SL Cardinals,2,2.3,301.0,
+3002360661,Astros - Cardinals,2024-06-04T00:10:00Z,False,astros-cardinals-m3002360661,1,,,,,,,
+3002360663,Rockies - Reds,2024-06-04T00:40:00Z,False,rockies-reds-m3002360663,28,3210344445.0,Vencedor do jogo,COL Rockies,1,2.05,101.0,
+3002360663,Rockies - Reds,2024-06-04T00:40:00Z,False,rockies-reds-m3002360663,28,3210344445.0,Vencedor do jogo,CIN Reds,2,1.68,301.0,
+3002360663,Rockies - Reds,2024-06-04T00:40:00Z,False,rockies-reds-m3002360663,28,3210344445.0,Vencedor do jogo,,,,,
+3002360663,Rockies - Reds,2024-06-04T00:40:00Z,False,rockies-reds-m3002360663,28,3210344442.0,Resultado do 1.º inning,COL Rockies,1,2.05,101.0,
+3002360663,Rockies - Reds,2024-06-04T00:40:00Z,False,rockies-reds-m3002360663,28,3210344442.0,Resultado do 1.º inning,CIN Reds,2,1.68,301.0,
+3002360663,Rockies - Reds,2024-06-04T00:40:00Z,False,rockies-reds-m3002360663,28,3210344442.0,Resultado do 1.º inning,,,,,
