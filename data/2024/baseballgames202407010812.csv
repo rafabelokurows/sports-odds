@@ -1,0 +1,19 @@
+id_x,name_x,date,isLive_x,relativeDesktopUrl,openMarketCount,id_y,name_y,name,lx,odds,line,betTrend
+3002396579,Blue Jays - Astros,2024-07-01T19:05:00Z,False,blue-jays-astros-m3002396579,28,3215143007,Vencedor do jogo,TOR Blue Jays,1,2.2,101.0,29.0
+3002396579,Blue Jays - Astros,2024-07-01T19:05:00Z,False,blue-jays-astros-m3002396579,28,3215143007,Vencedor do jogo,HOU Astros,2,1.62,301.0,71.0
+3002396579,Blue Jays - Astros,2024-07-01T19:05:00Z,False,blue-jays-astros-m3002396579,28,3215143007,Vencedor do jogo,,,,,
+3002396579,Blue Jays - Astros,2024-07-01T19:05:00Z,False,blue-jays-astros-m3002396579,28,3215143004,Resultado do 1.º inning,TOR Blue Jays,1,2.2,101.0,29.0
+3002396579,Blue Jays - Astros,2024-07-01T19:05:00Z,False,blue-jays-astros-m3002396579,28,3215143004,Resultado do 1.º inning,HOU Astros,2,1.62,301.0,71.0
+3002396579,Blue Jays - Astros,2024-07-01T19:05:00Z,False,blue-jays-astros-m3002396579,28,3215143004,Resultado do 1.º inning,,,,,
+3002396713,Nationals - Mets,2024-07-01T22:45:00Z,False,nationals-mets-m3002396713,28,3215153908,Vencedor do jogo,WAS Nationals,1,1.88,101.0,46.0
+3002396713,Nationals - Mets,2024-07-01T22:45:00Z,False,nationals-mets-m3002396713,28,3215153908,Vencedor do jogo,NY Mets,2,1.82,301.0,54.0
+3002396713,Nationals - Mets,2024-07-01T22:45:00Z,False,nationals-mets-m3002396713,28,3215153908,Vencedor do jogo,,,,,
+3002396713,Nationals - Mets,2024-07-01T22:45:00Z,False,nationals-mets-m3002396713,28,3215153905,Resultado do 1.º inning,WAS Nationals,1,1.88,101.0,46.0
+3002396713,Nationals - Mets,2024-07-01T22:45:00Z,False,nationals-mets-m3002396713,28,3215153905,Resultado do 1.º inning,NY Mets,2,1.82,301.0,54.0
+3002396713,Nationals - Mets,2024-07-01T22:45:00Z,False,nationals-mets-m3002396713,28,3215153905,Resultado do 1.º inning,,,,,
+3002396780,Rockies - Brewers,2024-07-02T00:40:00Z,False,rockies-brewers-m3002396780,28,3215165159,Vencedor do jogo,COL Rockies,1,2.25,101.0,18.0
+3002396780,Rockies - Brewers,2024-07-02T00:40:00Z,False,rockies-brewers-m3002396780,28,3215165159,Vencedor do jogo,MIL Brewers,2,1.58,301.0,82.0
+3002396780,Rockies - Brewers,2024-07-02T00:40:00Z,False,rockies-brewers-m3002396780,28,3215165159,Vencedor do jogo,,,,,
+3002396780,Rockies - Brewers,2024-07-02T00:40:00Z,False,rockies-brewers-m3002396780,28,3215165156,Resultado do 1.º inning,COL Rockies,1,2.25,101.0,18.0
+3002396780,Rockies - Brewers,2024-07-02T00:40:00Z,False,rockies-brewers-m3002396780,28,3215165156,Resultado do 1.º inning,MIL Brewers,2,1.58,301.0,82.0
+3002396780,Rockies - Brewers,2024-07-02T00:40:00Z,False,rockies-brewers-m3002396780,28,3215165156,Resultado do 1.º inning,,,,,
