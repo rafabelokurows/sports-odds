@@ -1,0 +1,43 @@
+id_x,name_x,date,isLive_x,relativeDesktopUrl,openMarketCount,id_y,name_y,name,lx,odds,line,betTrend
+3002405716,Pirates - Mets,2024-07-08T16:35:00Z,False,pirates-mets-m3002405716,28,3216144183,Vencedor do jogo,PIT Pirates,1,1.8,101.0,49.0
+3002405716,Pirates - Mets,2024-07-08T16:35:00Z,False,pirates-mets-m3002405716,28,3216144183,Vencedor do jogo,NY Mets,2,1.9,301.0,51.0
+3002405716,Pirates - Mets,2024-07-08T16:35:00Z,False,pirates-mets-m3002405716,28,3216144183,Vencedor do jogo,,,,,
+3002405716,Pirates - Mets,2024-07-08T16:35:00Z,False,pirates-mets-m3002405716,28,3216144180,Resultado do 1.º inning,PIT Pirates,1,1.8,101.0,49.0
+3002405716,Pirates - Mets,2024-07-08T16:35:00Z,False,pirates-mets-m3002405716,28,3216144180,Resultado do 1.º inning,NY Mets,2,1.9,301.0,51.0
+3002405716,Pirates - Mets,2024-07-08T16:35:00Z,False,pirates-mets-m3002405716,28,3216144180,Resultado do 1.º inning,,,,,
+3002405991,Nationals - Cardinals,2024-07-08T20:05:00Z,False,nationals-cardinals-m3002405991,28,3216164681,Vencedor do jogo,WAS Nationals,1,1.82,101.0,63.0
+3002405991,Nationals - Cardinals,2024-07-08T20:05:00Z,False,nationals-cardinals-m3002405991,28,3216164681,Vencedor do jogo,SL Cardinals,2,1.9,301.0,37.0
+3002405991,Nationals - Cardinals,2024-07-08T20:05:00Z,False,nationals-cardinals-m3002405991,28,3216164681,Vencedor do jogo,,,,,
+3002405991,Nationals - Cardinals,2024-07-08T20:05:00Z,False,nationals-cardinals-m3002405991,28,3216164678,Resultado do 1.º inning,WAS Nationals,1,1.82,101.0,63.0
+3002405991,Nationals - Cardinals,2024-07-08T20:05:00Z,False,nationals-cardinals-m3002405991,28,3216164678,Resultado do 1.º inning,SL Cardinals,2,1.9,301.0,37.0
+3002405991,Nationals - Cardinals,2024-07-08T20:05:00Z,False,nationals-cardinals-m3002405991,28,3216164678,Resultado do 1.º inning,,,,,
+3002406136,Tigers - Cleveland Guardians,2024-07-08T22:40:00Z,False,tigers-cleveland-guardians-m3002406136,25,3216172787,Vencedor do jogo,DET Tigers,1,2.15,101.0,14.0
+3002406136,Tigers - Cleveland Guardians,2024-07-08T22:40:00Z,False,tigers-cleveland-guardians-m3002406136,25,3216172787,Vencedor do jogo,Cleveland Guardians,2,1.62,301.0,86.0
+3002406136,Tigers - Cleveland Guardians,2024-07-08T22:40:00Z,False,tigers-cleveland-guardians-m3002406136,25,3216172787,Vencedor do jogo,,,,,
+3002406136,Tigers - Cleveland Guardians,2024-07-08T22:40:00Z,False,tigers-cleveland-guardians-m3002406136,25,3216172784,Resultado do 1.º inning,DET Tigers,1,2.15,101.0,14.0
+3002406136,Tigers - Cleveland Guardians,2024-07-08T22:40:00Z,False,tigers-cleveland-guardians-m3002406136,25,3216172784,Resultado do 1.º inning,Cleveland Guardians,2,1.62,301.0,86.0
+3002406136,Tigers - Cleveland Guardians,2024-07-08T22:40:00Z,False,tigers-cleveland-guardians-m3002406136,25,3216172784,Resultado do 1.º inning,,,,,
+3002406137,Reds - Rockies,2024-07-08T23:10:00Z,False,reds-rockies-m3002406137,28,3216172818,Vencedor do jogo,CIN Reds,1,1.48,101.0,96.0
+3002406137,Reds - Rockies,2024-07-08T23:10:00Z,False,reds-rockies-m3002406137,28,3216172818,Vencedor do jogo,COL Rockies,2,2.45,301.0,4.0
+3002406137,Reds - Rockies,2024-07-08T23:10:00Z,False,reds-rockies-m3002406137,28,3216172818,Vencedor do jogo,,,,,
+3002406137,Reds - Rockies,2024-07-08T23:10:00Z,False,reds-rockies-m3002406137,28,3216172815,Resultado do 1.º inning,CIN Reds,1,1.48,101.0,96.0
+3002406137,Reds - Rockies,2024-07-08T23:10:00Z,False,reds-rockies-m3002406137,28,3216172815,Resultado do 1.º inning,COL Rockies,2,2.45,301.0,4.0
+3002406137,Reds - Rockies,2024-07-08T23:10:00Z,False,reds-rockies-m3002406137,28,3216172815,Resultado do 1.º inning,,,,,
+3002406200,White Sox - Twins,2024-07-09T00:10:00Z,False,white-sox-twins-m3002406200,28,3216184339,Vencedor do jogo,CHI White Sox,1,2.45,101.0,4.0
+3002406200,White Sox - Twins,2024-07-09T00:10:00Z,False,white-sox-twins-m3002406200,28,3216184339,Vencedor do jogo,MIN Twins,2,1.48,301.0,96.0
+3002406200,White Sox - Twins,2024-07-09T00:10:00Z,False,white-sox-twins-m3002406200,28,3216184339,Vencedor do jogo,,,,,
+3002406200,White Sox - Twins,2024-07-09T00:10:00Z,False,white-sox-twins-m3002406200,28,3216184336,Resultado do 1.º inning,CHI White Sox,1,2.45,101.0,4.0
+3002406200,White Sox - Twins,2024-07-09T00:10:00Z,False,white-sox-twins-m3002406200,28,3216184336,Resultado do 1.º inning,MIN Twins,2,1.48,301.0,96.0
+3002406200,White Sox - Twins,2024-07-09T00:10:00Z,False,white-sox-twins-m3002406200,28,3216184336,Resultado do 1.º inning,,,,,
+3002406201,Angels - Rangers,2024-07-09T01:40:00Z,False,angels-rangers-m3002406201,28,3216184370,Vencedor do jogo,LA Angels,1,2.15,101.0,6.0
+3002406201,Angels - Rangers,2024-07-09T01:40:00Z,False,angels-rangers-m3002406201,28,3216184370,Vencedor do jogo,TEX Rangers,2,1.62,301.0,94.0
+3002406201,Angels - Rangers,2024-07-09T01:40:00Z,False,angels-rangers-m3002406201,28,3216184370,Vencedor do jogo,,,,,
+3002406201,Angels - Rangers,2024-07-09T01:40:00Z,False,angels-rangers-m3002406201,28,3216184367,Resultado do 1.º inning,LA Angels,1,2.15,101.0,6.0
+3002406201,Angels - Rangers,2024-07-09T01:40:00Z,False,angels-rangers-m3002406201,28,3216184367,Resultado do 1.º inning,TEX Rangers,2,1.62,301.0,94.0
+3002406201,Angels - Rangers,2024-07-09T01:40:00Z,False,angels-rangers-m3002406201,28,3216184367,Resultado do 1.º inning,,,,,
+3002406202,Diamondbacks - Braves,2024-07-09T01:40:00Z,False,diamondbacks-braves-m3002406202,28,3216184403,Vencedor do jogo,ARI Diamondbacks,1,2.5,101.0,7.0
+3002406202,Diamondbacks - Braves,2024-07-09T01:40:00Z,False,diamondbacks-braves-m3002406202,28,3216184403,Vencedor do jogo,ATL Braves,2,1.45,301.0,93.0
+3002406202,Diamondbacks - Braves,2024-07-09T01:40:00Z,False,diamondbacks-braves-m3002406202,28,3216184403,Vencedor do jogo,,,,,
+3002406202,Diamondbacks - Braves,2024-07-09T01:40:00Z,False,diamondbacks-braves-m3002406202,28,3216184400,Resultado do 1.º inning,ARI Diamondbacks,1,2.5,101.0,7.0
+3002406202,Diamondbacks - Braves,2024-07-09T01:40:00Z,False,diamondbacks-braves-m3002406202,28,3216184400,Resultado do 1.º inning,ATL Braves,2,1.45,301.0,93.0
+3002406202,Diamondbacks - Braves,2024-07-09T01:40:00Z,False,diamondbacks-braves-m3002406202,28,3216184400,Resultado do 1.º inning,,,,,
