@@ -1,0 +1,157 @@
+id_x,name_x,date,isLive_x,relativeDesktopUrl,openMarketCount,id_y,name_y,name,lx,odds,line,betTrend
+3002350938,Pirates - Reds,2024-08-23T22:40:00Z,False,pirates-reds-m3002350938,28,3208812362.0,Vencedor do jogo,PIT Pirates,1,1.78,101.0,51.0
+3002350938,Pirates - Reds,2024-08-23T22:40:00Z,False,pirates-reds-m3002350938,28,3208812362.0,Vencedor do jogo,CIN Reds,2,1.9,301.0,49.0
+3002350938,Pirates - Reds,2024-08-23T22:40:00Z,False,pirates-reds-m3002350938,28,3208812362.0,Vencedor do jogo,,,,,
+3002350938,Pirates - Reds,2024-08-23T22:40:00Z,False,pirates-reds-m3002350938,28,3208812359.0,Resultado do 1.º inning,PIT Pirates,1,1.78,101.0,51.0
+3002350938,Pirates - Reds,2024-08-23T22:40:00Z,False,pirates-reds-m3002350938,28,3208812359.0,Resultado do 1.º inning,CIN Reds,2,1.9,301.0,49.0
+3002350938,Pirates - Reds,2024-08-23T22:40:00Z,False,pirates-reds-m3002350938,28,3208812359.0,Resultado do 1.º inning,,,,,
+3002350973,Yankees - Rockies,2024-08-23T23:05:00Z,False,yankees-rockies-m3002350973,28,3208815413.0,Vencedor do jogo,NY Yankees,1,1.28,101.0,97.0
+3002350973,Yankees - Rockies,2024-08-23T23:05:00Z,False,yankees-rockies-m3002350973,28,3208815413.0,Vencedor do jogo,COL Rockies,2,3.3,301.0,3.0
+3002350973,Yankees - Rockies,2024-08-23T23:05:00Z,False,yankees-rockies-m3002350973,28,3208815413.0,Vencedor do jogo,,,,,
+3002350973,Yankees - Rockies,2024-08-23T23:05:00Z,False,yankees-rockies-m3002350973,28,3208815411.0,Resultado do 1.º inning,NY Yankees,1,1.28,101.0,97.0
+3002350973,Yankees - Rockies,2024-08-23T23:05:00Z,False,yankees-rockies-m3002350973,28,3208815411.0,Resultado do 1.º inning,COL Rockies,2,3.3,301.0,3.0
+3002350973,Yankees - Rockies,2024-08-23T23:05:00Z,False,yankees-rockies-m3002350973,28,3208815411.0,Resultado do 1.º inning,,,,,
+3002350970,Orioles - Astros,2024-08-23T23:05:00Z,False,orioles-astros-m3002350970,26,3208815281.0,Vencedor do jogo,BAL Orioles,1,1.95,101.0,26.0
+3002350970,Orioles - Astros,2024-08-23T23:05:00Z,False,orioles-astros-m3002350970,26,3208815281.0,Vencedor do jogo,HOU Astros,2,1.78,301.0,74.0
+3002350970,Orioles - Astros,2024-08-23T23:05:00Z,False,orioles-astros-m3002350970,26,3208815281.0,Vencedor do jogo,,,,,
+3002350970,Orioles - Astros,2024-08-23T23:05:00Z,False,orioles-astros-m3002350970,26,3208815278.0,Resultado do 1.º inning,BAL Orioles,1,1.95,101.0,26.0
+3002350970,Orioles - Astros,2024-08-23T23:05:00Z,False,orioles-astros-m3002350970,26,3208815278.0,Resultado do 1.º inning,HOU Astros,2,1.78,301.0,74.0
+3002350970,Orioles - Astros,2024-08-23T23:05:00Z,False,orioles-astros-m3002350970,26,3208815278.0,Resultado do 1.º inning,,,,,
+3002350966,Blue Jays - Angels,2024-08-23T23:05:00Z,False,blue-jays-angels-m3002350966,23,3208815226.0,Vencedor do jogo,TOR Blue Jays,1,1.48,101.0,95.0
+3002350966,Blue Jays - Angels,2024-08-23T23:05:00Z,False,blue-jays-angels-m3002350966,23,3208815226.0,Vencedor do jogo,LA Angels,2,2.5,301.0,5.0
+3002350966,Blue Jays - Angels,2024-08-23T23:05:00Z,False,blue-jays-angels-m3002350966,23,3208815226.0,Vencedor do jogo,,,,,
+3002350966,Blue Jays - Angels,2024-08-23T23:05:00Z,False,blue-jays-angels-m3002350966,23,3208815224.0,Resultado do 1.º inning,TOR Blue Jays,1,1.48,101.0,95.0
+3002350966,Blue Jays - Angels,2024-08-23T23:05:00Z,False,blue-jays-angels-m3002350966,23,3208815224.0,Resultado do 1.º inning,LA Angels,2,2.5,301.0,5.0
+3002350966,Blue Jays - Angels,2024-08-23T23:05:00Z,False,blue-jays-angels-m3002350966,23,3208815224.0,Resultado do 1.º inning,,,,,
+3002350974,Cleveland Guardians - Rangers,2024-08-23T23:10:00Z,False,cleveland-guardians-rangers-m3002350974,28,3208815395.0,Vencedor do jogo,Cleveland Guardians,1,1.68,101.0,89.0
+3002350974,Cleveland Guardians - Rangers,2024-08-23T23:10:00Z,False,cleveland-guardians-rangers-m3002350974,28,3208815395.0,Vencedor do jogo,TEX Rangers,2,2.05,301.0,11.0
+3002350974,Cleveland Guardians - Rangers,2024-08-23T23:10:00Z,False,cleveland-guardians-rangers-m3002350974,28,3208815395.0,Vencedor do jogo,,,,,
+3002350974,Cleveland Guardians - Rangers,2024-08-23T23:10:00Z,False,cleveland-guardians-rangers-m3002350974,28,3208815392.0,Resultado do 1.º inning,Cleveland Guardians,1,1.68,101.0,89.0
+3002350974,Cleveland Guardians - Rangers,2024-08-23T23:10:00Z,False,cleveland-guardians-rangers-m3002350974,28,3208815392.0,Resultado do 1.º inning,TEX Rangers,2,2.05,301.0,11.0
+3002350974,Cleveland Guardians - Rangers,2024-08-23T23:10:00Z,False,cleveland-guardians-rangers-m3002350974,28,3208815392.0,Resultado do 1.º inning,,,,,
+3002350975,Red Sox - Diamondbacks,2024-08-23T23:10:00Z,False,red-sox-diamondbacks-m3002350975,28,3208815364.0,Vencedor do jogo,BOS Red Sox,1,1.72,101.0,60.0
+3002350975,Red Sox - Diamondbacks,2024-08-23T23:10:00Z,False,red-sox-diamondbacks-m3002350975,28,3208815364.0,Vencedor do jogo,ARI Diamondbacks,2,2.0,301.0,40.0
+3002350975,Red Sox - Diamondbacks,2024-08-23T23:10:00Z,False,red-sox-diamondbacks-m3002350975,28,3208815364.0,Vencedor do jogo,,,,,
+3002350975,Red Sox - Diamondbacks,2024-08-23T23:10:00Z,False,red-sox-diamondbacks-m3002350975,28,3208815361.0,Resultado do 1.º inning,BOS Red Sox,1,1.72,101.0,60.0
+3002350975,Red Sox - Diamondbacks,2024-08-23T23:10:00Z,False,red-sox-diamondbacks-m3002350975,28,3208815361.0,Resultado do 1.º inning,ARI Diamondbacks,2,2.0,301.0,40.0
+3002350975,Red Sox - Diamondbacks,2024-08-23T23:10:00Z,False,red-sox-diamondbacks-m3002350975,28,3208815361.0,Resultado do 1.º inning,,,,,
+3002350971,Marlins - Cubs,2024-08-23T23:10:00Z,False,marlins-cubs-m3002350971,26,3208815250.0,Vencedor do jogo,MIA Marlins,1,2.0,101.0,33.0
+3002350971,Marlins - Cubs,2024-08-23T23:10:00Z,False,marlins-cubs-m3002350971,26,3208815250.0,Vencedor do jogo,CHI Cubs,2,1.75,301.0,67.0
+3002350971,Marlins - Cubs,2024-08-23T23:10:00Z,False,marlins-cubs-m3002350971,26,3208815250.0,Vencedor do jogo,,,,,
+3002350971,Marlins - Cubs,2024-08-23T23:10:00Z,False,marlins-cubs-m3002350971,26,3208815247.0,Resultado do 1.º inning,MIA Marlins,1,2.0,101.0,33.0
+3002350971,Marlins - Cubs,2024-08-23T23:10:00Z,False,marlins-cubs-m3002350971,26,3208815247.0,Resultado do 1.º inning,CHI Cubs,2,1.75,301.0,67.0
+3002350971,Marlins - Cubs,2024-08-23T23:10:00Z,False,marlins-cubs-m3002350971,26,3208815247.0,Resultado do 1.º inning,,,,,
+3002350967,Braves - Nationals,2024-08-23T23:20:00Z,False,braves-nationals-m3002350967,26,3208815312.0,Vencedor do jogo,ATL Braves,1,1.38,101.0,95.0
+3002350967,Braves - Nationals,2024-08-23T23:20:00Z,False,braves-nationals-m3002350967,26,3208815312.0,Vencedor do jogo,WAS Nationals,2,2.85,301.0,5.0
+3002350967,Braves - Nationals,2024-08-23T23:20:00Z,False,braves-nationals-m3002350967,26,3208815312.0,Vencedor do jogo,,,,,
+3002350967,Braves - Nationals,2024-08-23T23:20:00Z,False,braves-nationals-m3002350967,26,3208815309.0,Resultado do 1.º inning,ATL Braves,1,1.38,101.0,95.0
+3002350967,Braves - Nationals,2024-08-23T23:20:00Z,False,braves-nationals-m3002350967,26,3208815309.0,Resultado do 1.º inning,WAS Nationals,2,2.85,301.0,5.0
+3002350967,Braves - Nationals,2024-08-23T23:20:00Z,False,braves-nationals-m3002350967,26,3208815309.0,Resultado do 1.º inning,,,,,
+3002350992,Twins - Cardinals,2024-08-24T00:10:00Z,False,twins-cardinals-m3002350992,26,3208818587.0,Vencedor do jogo,MIN Twins,1,1.62,101.0,92.0
+3002350992,Twins - Cardinals,2024-08-24T00:10:00Z,False,twins-cardinals-m3002350992,26,3208818587.0,Vencedor do jogo,SL Cardinals,2,2.15,301.0,8.0
+3002350992,Twins - Cardinals,2024-08-24T00:10:00Z,False,twins-cardinals-m3002350992,26,3208818587.0,Vencedor do jogo,,,,,
+3002350992,Twins - Cardinals,2024-08-24T00:10:00Z,False,twins-cardinals-m3002350992,26,3208818584.0,Resultado do 1.º inning,MIN Twins,1,1.62,101.0,92.0
+3002350992,Twins - Cardinals,2024-08-24T00:10:00Z,False,twins-cardinals-m3002350992,26,3208818584.0,Resultado do 1.º inning,SL Cardinals,2,2.15,301.0,8.0
+3002350992,Twins - Cardinals,2024-08-24T00:10:00Z,False,twins-cardinals-m3002350992,26,3208818584.0,Resultado do 1.º inning,,,,,
+3002350991,White Sox - Tigers,2024-08-24T00:10:00Z,False,white-sox-tigers-m3002350991,26,3208818556.0,Vencedor do jogo,CHI White Sox,1,2.2,101.0,12.0
+3002350991,White Sox - Tigers,2024-08-24T00:10:00Z,False,white-sox-tigers-m3002350991,26,3208818556.0,Vencedor do jogo,DET Tigers,2,1.6,301.0,88.0
+3002350991,White Sox - Tigers,2024-08-24T00:10:00Z,False,white-sox-tigers-m3002350991,26,3208818556.0,Vencedor do jogo,,,,,
+3002350991,White Sox - Tigers,2024-08-24T00:10:00Z,False,white-sox-tigers-m3002350991,26,3208818553.0,Resultado do 1.º inning,CHI White Sox,1,2.2,101.0,12.0
+3002350991,White Sox - Tigers,2024-08-24T00:10:00Z,False,white-sox-tigers-m3002350991,26,3208818553.0,Resultado do 1.º inning,DET Tigers,2,1.6,301.0,88.0
+3002350991,White Sox - Tigers,2024-08-24T00:10:00Z,False,white-sox-tigers-m3002350991,26,3208818553.0,Resultado do 1.º inning,,,,,
+3002350993,Royals - Phillies,2024-08-24T00:10:00Z,False,royals-phillies-m3002350993,28,3208818618.0,Vencedor do jogo,KC Royals,1,1.65,101.0,84.0
+3002350993,Royals - Phillies,2024-08-24T00:10:00Z,False,royals-phillies-m3002350993,28,3208818618.0,Vencedor do jogo,PHI Phillies,2,2.1,301.0,16.0
+3002350993,Royals - Phillies,2024-08-24T00:10:00Z,False,royals-phillies-m3002350993,28,3208818618.0,Vencedor do jogo,,,,,
+3002350993,Royals - Phillies,2024-08-24T00:10:00Z,False,royals-phillies-m3002350993,28,3208818615.0,Resultado do 1.º inning,KC Royals,1,1.65,101.0,84.0
+3002350993,Royals - Phillies,2024-08-24T00:10:00Z,False,royals-phillies-m3002350993,28,3208818615.0,Resultado do 1.º inning,PHI Phillies,2,2.1,301.0,16.0
+3002350993,Royals - Phillies,2024-08-24T00:10:00Z,False,royals-phillies-m3002350993,28,3208818615.0,Resultado do 1.º inning,,,,,
+3002351012,Athletics - Brewers,2024-08-24T01:40:00Z,False,athletics-brewers-m3002351012,28,3208821561.0,Vencedor do jogo,OAK Athletics,1,1.9,101.0,20.0
+3002351012,Athletics - Brewers,2024-08-24T01:40:00Z,False,athletics-brewers-m3002351012,28,3208821561.0,Vencedor do jogo,MIL Brewers,2,1.8,301.0,80.0
+3002351012,Athletics - Brewers,2024-08-24T01:40:00Z,False,athletics-brewers-m3002351012,28,3208821561.0,Vencedor do jogo,,,,,
+3002351012,Athletics - Brewers,2024-08-24T01:40:00Z,False,athletics-brewers-m3002351012,28,3208821558.0,Resultado do 1.º inning,OAK Athletics,1,1.9,101.0,20.0
+3002351012,Athletics - Brewers,2024-08-24T01:40:00Z,False,athletics-brewers-m3002351012,28,3208821558.0,Resultado do 1.º inning,MIL Brewers,2,1.8,301.0,80.0
+3002351012,Athletics - Brewers,2024-08-24T01:40:00Z,False,athletics-brewers-m3002351012,28,3208821558.0,Resultado do 1.º inning,,,,,
+3002351011,Padres - Mets,2024-08-24T01:40:00Z,False,padres-mets-m3002351011,28,3208821530.0,Vencedor do jogo,SD Padres,1,1.65,101.0,83.0
+3002351011,Padres - Mets,2024-08-24T01:40:00Z,False,padres-mets-m3002351011,28,3208821530.0,Vencedor do jogo,NY Mets,2,2.1,301.0,17.0
+3002351011,Padres - Mets,2024-08-24T01:40:00Z,False,padres-mets-m3002351011,28,3208821530.0,Vencedor do jogo,,,,,
+3002351011,Padres - Mets,2024-08-24T01:40:00Z,False,padres-mets-m3002351011,28,3208821527.0,Resultado do 1.º inning,SD Padres,1,1.65,101.0,83.0
+3002351011,Padres - Mets,2024-08-24T01:40:00Z,False,padres-mets-m3002351011,28,3208821527.0,Resultado do 1.º inning,NY Mets,2,2.1,301.0,17.0
+3002351011,Padres - Mets,2024-08-24T01:40:00Z,False,padres-mets-m3002351011,28,3208821527.0,Resultado do 1.º inning,,,,,
+3002351021,Dodgers - Rays,2024-08-24T02:10:00Z,False,dodgers-rays-m3002351021,28,3208823482.0,Vencedor do jogo,LA Dodgers,1,1.45,101.0,95.0
+3002351021,Dodgers - Rays,2024-08-24T02:10:00Z,False,dodgers-rays-m3002351021,28,3208823482.0,Vencedor do jogo,TB Rays,2,2.55,301.0,5.0
+3002351021,Dodgers - Rays,2024-08-24T02:10:00Z,False,dodgers-rays-m3002351021,28,3208823482.0,Vencedor do jogo,,,,,
+3002351021,Dodgers - Rays,2024-08-24T02:10:00Z,False,dodgers-rays-m3002351021,28,3208823479.0,Resultado do 1.º inning,LA Dodgers,1,1.45,101.0,95.0
+3002351021,Dodgers - Rays,2024-08-24T02:10:00Z,False,dodgers-rays-m3002351021,28,3208823479.0,Resultado do 1.º inning,TB Rays,2,2.55,301.0,5.0
+3002351021,Dodgers - Rays,2024-08-24T02:10:00Z,False,dodgers-rays-m3002351021,28,3208823479.0,Resultado do 1.º inning,,,,,
+3002351022,Mariners - Giants,2024-08-24T02:10:00Z,False,mariners-giants-m3002351022,28,3208823513.0,Vencedor do jogo,SEA Mariners,1,1.62,101.0,88.0
+3002351022,Mariners - Giants,2024-08-24T02:10:00Z,False,mariners-giants-m3002351022,28,3208823513.0,Vencedor do jogo,SF Giants,2,2.15,301.0,12.0
+3002351022,Mariners - Giants,2024-08-24T02:10:00Z,False,mariners-giants-m3002351022,28,3208823513.0,Vencedor do jogo,,,,,
+3002351022,Mariners - Giants,2024-08-24T02:10:00Z,False,mariners-giants-m3002351022,28,3208823510.0,Resultado do 1.º inning,SEA Mariners,1,1.62,101.0,88.0
+3002351022,Mariners - Giants,2024-08-24T02:10:00Z,False,mariners-giants-m3002351022,28,3208823510.0,Resultado do 1.º inning,SF Giants,2,2.15,301.0,12.0
+3002351022,Mariners - Giants,2024-08-24T02:10:00Z,False,mariners-giants-m3002351022,28,3208823510.0,Resultado do 1.º inning,,,,,
+3002351182,Yomiuri Giants - Chunichi Dragons,2024-08-24T05:00:00Z,False,yomiuri-giants-chunichi-dragons-m3002351182,25,3208835796.0,Vencedor do jogo,Yomiuri Giants,1,1.62,101.0,91.0
+3002351182,Yomiuri Giants - Chunichi Dragons,2024-08-24T05:00:00Z,False,yomiuri-giants-chunichi-dragons-m3002351182,25,3208835796.0,Vencedor do jogo,Chunichi Dragons,2,2.1,301.0,9.0
+3002351182,Yomiuri Giants - Chunichi Dragons,2024-08-24T05:00:00Z,False,yomiuri-giants-chunichi-dragons-m3002351182,25,3208835796.0,Vencedor do jogo,,,,,
+3002351182,Yomiuri Giants - Chunichi Dragons,2024-08-24T05:00:00Z,False,yomiuri-giants-chunichi-dragons-m3002351182,25,3208835793.0,Resultado do 1.º inning,Yomiuri Giants,1,1.62,101.0,91.0
+3002351182,Yomiuri Giants - Chunichi Dragons,2024-08-24T05:00:00Z,False,yomiuri-giants-chunichi-dragons-m3002351182,25,3208835793.0,Resultado do 1.º inning,Chunichi Dragons,2,2.1,301.0,9.0
+3002351182,Yomiuri Giants - Chunichi Dragons,2024-08-24T05:00:00Z,False,yomiuri-giants-chunichi-dragons-m3002351182,25,3208835793.0,Resultado do 1.º inning,,,,,
+3002351229,Orix Buffaloes - Chiba Lotte Marines,2024-08-24T06:00:00Z,False,orix-buffaloes-chiba-lotte-marines-m3002351229,25,3208840991.0,Vencedor do jogo,Orix Buffaloes,1,1.58,101.0,75.0
+3002351229,Orix Buffaloes - Chiba Lotte Marines,2024-08-24T06:00:00Z,False,orix-buffaloes-chiba-lotte-marines-m3002351229,25,3208840991.0,Vencedor do jogo,Chiba Lotte Marines,2,2.2,301.0,25.0
+3002351229,Orix Buffaloes - Chiba Lotte Marines,2024-08-24T06:00:00Z,False,orix-buffaloes-chiba-lotte-marines-m3002351229,25,3208840991.0,Vencedor do jogo,,,,,
+3002351229,Orix Buffaloes - Chiba Lotte Marines,2024-08-24T06:00:00Z,False,orix-buffaloes-chiba-lotte-marines-m3002351229,25,3208840988.0,Resultado do 1.º inning,Orix Buffaloes,1,1.58,101.0,75.0
+3002351229,Orix Buffaloes - Chiba Lotte Marines,2024-08-24T06:00:00Z,False,orix-buffaloes-chiba-lotte-marines-m3002351229,25,3208840988.0,Resultado do 1.º inning,Chiba Lotte Marines,2,2.2,301.0,25.0
+3002351229,Orix Buffaloes - Chiba Lotte Marines,2024-08-24T06:00:00Z,False,orix-buffaloes-chiba-lotte-marines-m3002351229,25,3208840988.0,Resultado do 1.º inning,,,,,
+3002351228,Hokkaido Nippon Ham Fighters - Fukuoka SoftBank Hawks,2024-08-24T06:00:00Z,False,hokkaido-nippon-ham-fighters-fukuoka-softbank-hawks-m3002351228,25,3208840960.0,Vencedor do jogo,Hokkaido Nippon Ham Fighters,1,2.2,101.0,26.0
+3002351228,Hokkaido Nippon Ham Fighters - Fukuoka SoftBank Hawks,2024-08-24T06:00:00Z,False,hokkaido-nippon-ham-fighters-fukuoka-softbank-hawks-m3002351228,25,3208840960.0,Vencedor do jogo,Fukuoka SoftBank Hawks,2,1.58,301.0,74.0
+3002351228,Hokkaido Nippon Ham Fighters - Fukuoka SoftBank Hawks,2024-08-24T06:00:00Z,False,hokkaido-nippon-ham-fighters-fukuoka-softbank-hawks-m3002351228,25,3208840960.0,Vencedor do jogo,,,,,
+3002351228,Hokkaido Nippon Ham Fighters - Fukuoka SoftBank Hawks,2024-08-24T06:00:00Z,False,hokkaido-nippon-ham-fighters-fukuoka-softbank-hawks-m3002351228,25,3208840957.0,Resultado do 1.º inning,Hokkaido Nippon Ham Fighters,1,2.2,101.0,26.0
+3002351228,Hokkaido Nippon Ham Fighters - Fukuoka SoftBank Hawks,2024-08-24T06:00:00Z,False,hokkaido-nippon-ham-fighters-fukuoka-softbank-hawks-m3002351228,25,3208840957.0,Resultado do 1.º inning,Fukuoka SoftBank Hawks,2,1.58,301.0,74.0
+3002351228,Hokkaido Nippon Ham Fighters - Fukuoka SoftBank Hawks,2024-08-24T06:00:00Z,False,hokkaido-nippon-ham-fighters-fukuoka-softbank-hawks-m3002351228,25,3208840957.0,Resultado do 1.º inning,,,,,
+3002351402,Saitama Seibu Lions - Tohoku Rakuten Golden Eagles,2024-08-24T08:00:00Z,False,saitama-seibu-lions-tohoku-rakuten-golden-eagles-m3002351402,25,3208863092.0,Vencedor do jogo,Saitama Seibu Lions,1,1.88,101.0,43.0
+3002351402,Saitama Seibu Lions - Tohoku Rakuten Golden Eagles,2024-08-24T08:00:00Z,False,saitama-seibu-lions-tohoku-rakuten-golden-eagles-m3002351402,25,3208863092.0,Vencedor do jogo,Tohoku Rakuten Golden Eagles,2,1.8,301.0,57.0
+3002351402,Saitama Seibu Lions - Tohoku Rakuten Golden Eagles,2024-08-24T08:00:00Z,False,saitama-seibu-lions-tohoku-rakuten-golden-eagles-m3002351402,25,3208863092.0,Vencedor do jogo,,,,,
+3002351402,Saitama Seibu Lions - Tohoku Rakuten Golden Eagles,2024-08-24T08:00:00Z,False,saitama-seibu-lions-tohoku-rakuten-golden-eagles-m3002351402,25,,,Saitama Seibu Lions,1,1.88,101.0,43.0
+3002351402,Saitama Seibu Lions - Tohoku Rakuten Golden Eagles,2024-08-24T08:00:00Z,False,saitama-seibu-lions-tohoku-rakuten-golden-eagles-m3002351402,25,,,Tohoku Rakuten Golden Eagles,2,1.8,301.0,57.0
+3002351402,Saitama Seibu Lions - Tohoku Rakuten Golden Eagles,2024-08-24T08:00:00Z,False,saitama-seibu-lions-tohoku-rakuten-golden-eagles-m3002351402,25,,,,,,,
+3002474174,NC Dinos - KIA Tigers,2024-08-24T09:00:00Z,False,nc-dinos-kia-tigers-m3002474174,26,3222568437.0,Vencedor do jogo,NC Dinos,1,2.35,101.0,7.0
+3002474174,NC Dinos - KIA Tigers,2024-08-24T09:00:00Z,False,nc-dinos-kia-tigers-m3002474174,26,3222568437.0,Vencedor do jogo,KIA Tigers,2,1.5,301.0,93.0
+3002474174,NC Dinos - KIA Tigers,2024-08-24T09:00:00Z,False,nc-dinos-kia-tigers-m3002474174,26,3222568437.0,Vencedor do jogo,,,,,
+3002474174,NC Dinos - KIA Tigers,2024-08-24T09:00:00Z,False,nc-dinos-kia-tigers-m3002474174,26,3222568434.0,Resultado do 1.º inning,NC Dinos,1,2.35,101.0,7.0
+3002474174,NC Dinos - KIA Tigers,2024-08-24T09:00:00Z,False,nc-dinos-kia-tigers-m3002474174,26,3222568434.0,Resultado do 1.º inning,KIA Tigers,2,1.5,301.0,93.0
+3002474174,NC Dinos - KIA Tigers,2024-08-24T09:00:00Z,False,nc-dinos-kia-tigers-m3002474174,26,3222568434.0,Resultado do 1.º inning,,,,,
+3002474175,Kiwoon Heroes - LG Twins,2024-08-24T09:00:00Z,False,kiwoon-heroes-lg-twins-m3002474175,26,3222568406.0,Vencedor do jogo,Kiwoon Heroes,1,3.4,101.0,5.0
+3002474175,Kiwoon Heroes - LG Twins,2024-08-24T09:00:00Z,False,kiwoon-heroes-lg-twins-m3002474175,26,3222568406.0,Vencedor do jogo,LG Twins,2,1.27,301.0,95.0
+3002474175,Kiwoon Heroes - LG Twins,2024-08-24T09:00:00Z,False,kiwoon-heroes-lg-twins-m3002474175,26,3222568406.0,Vencedor do jogo,,,,,
+3002474175,Kiwoon Heroes - LG Twins,2024-08-24T09:00:00Z,False,kiwoon-heroes-lg-twins-m3002474175,26,3222568403.0,Resultado do 1.º inning,Kiwoon Heroes,1,3.4,101.0,5.0
+3002474175,Kiwoon Heroes - LG Twins,2024-08-24T09:00:00Z,False,kiwoon-heroes-lg-twins-m3002474175,26,3222568403.0,Resultado do 1.º inning,LG Twins,2,1.27,301.0,95.0
+3002474175,Kiwoon Heroes - LG Twins,2024-08-24T09:00:00Z,False,kiwoon-heroes-lg-twins-m3002474175,26,3222568403.0,Resultado do 1.º inning,,,,,
+3002474173,Samsung Lions - Lotte Giants,2024-08-24T09:00:00Z,False,samsung-lions-lotte-giants-m3002474173,26,3222568468.0,Vencedor do jogo,Samsung Lions,1,1.55,101.0,87.0
+3002474173,Samsung Lions - Lotte Giants,2024-08-24T09:00:00Z,False,samsung-lions-lotte-giants-m3002474173,26,3222568468.0,Vencedor do jogo,Lotte Giants,2,2.2,301.0,13.0
+3002474173,Samsung Lions - Lotte Giants,2024-08-24T09:00:00Z,False,samsung-lions-lotte-giants-m3002474173,26,3222568468.0,Vencedor do jogo,,,,,
+3002474173,Samsung Lions - Lotte Giants,2024-08-24T09:00:00Z,False,samsung-lions-lotte-giants-m3002474173,26,3222568465.0,Resultado do 1.º inning,Samsung Lions,1,1.55,101.0,87.0
+3002474173,Samsung Lions - Lotte Giants,2024-08-24T09:00:00Z,False,samsung-lions-lotte-giants-m3002474173,26,3222568465.0,Resultado do 1.º inning,Lotte Giants,2,2.2,301.0,13.0
+3002474173,Samsung Lions - Lotte Giants,2024-08-24T09:00:00Z,False,samsung-lions-lotte-giants-m3002474173,26,3222568465.0,Resultado do 1.º inning,,,,,
+3002474171,Doosan Bears - Hanwha Eagles,2024-08-24T09:00:00Z,False,doosan-bears-hanwha-eagles-m3002474171,26,3222568344.0,Vencedor do jogo,Doosan Bears,1,1.68,101.0,85.0
+3002474171,Doosan Bears - Hanwha Eagles,2024-08-24T09:00:00Z,False,doosan-bears-hanwha-eagles-m3002474171,26,3222568344.0,Vencedor do jogo,Hanwha Eagles,2,2.05,301.0,15.0
+3002474171,Doosan Bears - Hanwha Eagles,2024-08-24T09:00:00Z,False,doosan-bears-hanwha-eagles-m3002474171,26,3222568344.0,Vencedor do jogo,,,,,
+3002474171,Doosan Bears - Hanwha Eagles,2024-08-24T09:00:00Z,False,doosan-bears-hanwha-eagles-m3002474171,26,3222568341.0,Resultado do 1.º inning,Doosan Bears,1,1.68,101.0,85.0
+3002474171,Doosan Bears - Hanwha Eagles,2024-08-24T09:00:00Z,False,doosan-bears-hanwha-eagles-m3002474171,26,3222568341.0,Resultado do 1.º inning,Hanwha Eagles,2,2.05,301.0,15.0
+3002474171,Doosan Bears - Hanwha Eagles,2024-08-24T09:00:00Z,False,doosan-bears-hanwha-eagles-m3002474171,26,3222568341.0,Resultado do 1.º inning,,,,,
+3002474172,SSG Landers - KT Wiz,2024-08-24T09:00:00Z,False,ssg-landers-kt-wiz-m3002474172,26,3222568375.0,Vencedor do jogo,SSG Landers,1,2.05,101.0,71.0
+3002474172,SSG Landers - KT Wiz,2024-08-24T09:00:00Z,False,ssg-landers-kt-wiz-m3002474172,26,3222568375.0,Vencedor do jogo,KT Wiz,2,1.65,301.0,29.0
+3002474172,SSG Landers - KT Wiz,2024-08-24T09:00:00Z,False,ssg-landers-kt-wiz-m3002474172,26,3222568375.0,Vencedor do jogo,,,,,
+3002474172,SSG Landers - KT Wiz,2024-08-24T09:00:00Z,False,ssg-landers-kt-wiz-m3002474172,26,3222568372.0,Resultado do 1.º inning,SSG Landers,1,2.05,101.0,71.0
+3002474172,SSG Landers - KT Wiz,2024-08-24T09:00:00Z,False,ssg-landers-kt-wiz-m3002474172,26,3222568372.0,Resultado do 1.º inning,KT Wiz,2,1.65,301.0,29.0
+3002474172,SSG Landers - KT Wiz,2024-08-24T09:00:00Z,False,ssg-landers-kt-wiz-m3002474172,26,3222568372.0,Resultado do 1.º inning,,,,,
+3002351480,Hiroshima Toyo Carp - Hanshin Tigers,2024-08-24T09:00:00Z,False,hiroshima-toyo-carp-hanshin-tigers-m3002351480,25,3208876012.0,Vencedor do jogo,Hiroshima Toyo Carp,1,1.62,101.0,86.0
+3002351480,Hiroshima Toyo Carp - Hanshin Tigers,2024-08-24T09:00:00Z,False,hiroshima-toyo-carp-hanshin-tigers-m3002351480,25,3208876012.0,Vencedor do jogo,Hanshin Tigers,2,2.1,301.0,14.0
+3002351480,Hiroshima Toyo Carp - Hanshin Tigers,2024-08-24T09:00:00Z,False,hiroshima-toyo-carp-hanshin-tigers-m3002351480,25,3208876012.0,Vencedor do jogo,,,,,
+3002351480,Hiroshima Toyo Carp - Hanshin Tigers,2024-08-24T09:00:00Z,False,hiroshima-toyo-carp-hanshin-tigers-m3002351480,25,3208876009.0,Resultado do 1.º inning,Hiroshima Toyo Carp,1,1.62,101.0,86.0
+3002351480,Hiroshima Toyo Carp - Hanshin Tigers,2024-08-24T09:00:00Z,False,hiroshima-toyo-carp-hanshin-tigers-m3002351480,25,3208876009.0,Resultado do 1.º inning,Hanshin Tigers,2,2.1,301.0,14.0
+3002351480,Hiroshima Toyo Carp - Hanshin Tigers,2024-08-24T09:00:00Z,False,hiroshima-toyo-carp-hanshin-tigers-m3002351480,25,3208876009.0,Resultado do 1.º inning,,,,,
+3002351482,Tokyo Yakult Swallows - Yokohama BayStars,2024-08-24T09:00:00Z,False,tokyo-yakult-swallows-yokohama-baystars-m3002351482,25,3208876043.0,Vencedor do jogo,Tokyo Yakult Swallows,1,1.78,101.0,71.0
+3002351482,Tokyo Yakult Swallows - Yokohama BayStars,2024-08-24T09:00:00Z,False,tokyo-yakult-swallows-yokohama-baystars-m3002351482,25,3208876043.0,Vencedor do jogo,Yokohama BayStars,2,1.88,301.0,29.0
+3002351482,Tokyo Yakult Swallows - Yokohama BayStars,2024-08-24T09:00:00Z,False,tokyo-yakult-swallows-yokohama-baystars-m3002351482,25,3208876043.0,Vencedor do jogo,,,,,
+3002351482,Tokyo Yakult Swallows - Yokohama BayStars,2024-08-24T09:00:00Z,False,tokyo-yakult-swallows-yokohama-baystars-m3002351482,25,,,Tokyo Yakult Swallows,1,1.78,101.0,71.0
+3002351482,Tokyo Yakult Swallows - Yokohama BayStars,2024-08-24T09:00:00Z,False,tokyo-yakult-swallows-yokohama-baystars-m3002351482,25,,,Yokohama BayStars,2,1.88,301.0,29.0
+3002351482,Tokyo Yakult Swallows - Yokohama BayStars,2024-08-24T09:00:00Z,False,tokyo-yakult-swallows-yokohama-baystars-m3002351482,25,,,,,,,
