@@ -1,4 +1,4 @@
-# Scraping sports odds from sportsbook
+# Scraping sports (NFL and MLB) odds from sportsbook
 
 Update 2024-09-08: I renamed the repository as I've just added a scraper for NFL game odds to go with the one for MLB games that was already in place. 
 
