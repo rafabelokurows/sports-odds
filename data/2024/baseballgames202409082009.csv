@@ -1,0 +1,79 @@
+id_x,name_x,date,isLive_x,relativeDesktopUrl,openMarketCount,id_y,name_y,name,lx,odds,line,betTrend
+3002371791,Braves - Blue Jays,2024-09-08T17:35:00Z,True,braves-blue-jays-m3002371791,1,3212028167.0,Vencedor do jogo,Braves,1,3.0,101.0,
+3002371791,Braves - Blue Jays,2024-09-08T17:35:00Z,True,braves-blue-jays-m3002371791,1,3212028167.0,Vencedor do jogo,Blue Jays,2,1.35,301.0,
+3002371791,Braves - Blue Jays,2024-09-08T17:35:00Z,True,braves-blue-jays-m3002371791,1,3212028167.0,Vencedor do jogo,,,,,
+3002371791,Braves - Blue Jays,2024-09-08T17:35:00Z,True,braves-blue-jays-m3002371791,1,,,Braves,1,3.0,101.0,
+3002371791,Braves - Blue Jays,2024-09-08T17:35:00Z,True,braves-blue-jays-m3002371791,1,,,Blue Jays,2,1.35,301.0,
+3002371791,Braves - Blue Jays,2024-09-08T17:35:00Z,True,braves-blue-jays-m3002371791,1,,,,,,,
+3002371826,Brewers - Rockies,2024-09-08T18:10:00Z,True,brewers-rockies-m3002371826,5,3212038251.0,Vencedor do jogo,Brewers,1,5.3,101.0,
+3002371826,Brewers - Rockies,2024-09-08T18:10:00Z,True,brewers-rockies-m3002371826,5,3212038251.0,Vencedor do jogo,Rockies,2,1.12,301.0,
+3002371826,Brewers - Rockies,2024-09-08T18:10:00Z,True,brewers-rockies-m3002371826,5,3212038251.0,Vencedor do jogo,,,,,
+3002371826,Brewers - Rockies,2024-09-08T18:10:00Z,True,brewers-rockies-m3002371826,5,,,Brewers,1,5.3,101.0,
+3002371826,Brewers - Rockies,2024-09-08T18:10:00Z,True,brewers-rockies-m3002371826,5,,,Rockies,2,1.12,301.0,
+3002371826,Brewers - Rockies,2024-09-08T18:10:00Z,True,brewers-rockies-m3002371826,5,,,,,,,
+3002371790,Red Sox - White Sox,2024-09-08T17:35:00Z,True,red-sox-white-sox-m3002371790,1,3212028123.0,Vencedor do jogo,Red Sox,1,12.5,101.0,
+3002371790,Red Sox - White Sox,2024-09-08T17:35:00Z,True,red-sox-white-sox-m3002371790,1,3212028123.0,Vencedor do jogo,White Sox,2,1.0,301.0,
+3002371790,Red Sox - White Sox,2024-09-08T17:35:00Z,True,red-sox-white-sox-m3002371790,1,3212028123.0,Vencedor do jogo,,,,,
+3002371790,Red Sox - White Sox,2024-09-08T17:35:00Z,True,red-sox-white-sox-m3002371790,1,,,Red Sox,1,12.5,101.0,
+3002371790,Red Sox - White Sox,2024-09-08T17:35:00Z,True,red-sox-white-sox-m3002371790,1,,,White Sox,2,1.0,301.0,
+3002371790,Red Sox - White Sox,2024-09-08T17:35:00Z,True,red-sox-white-sox-m3002371790,1,,,,,,,
+3002371785,Mets - Reds,2024-09-08T17:40:00Z,True,mets-reds-m3002371785,5,3212028102.0,Vencedor do jogo,Mets,1,1.7,101.0,
+3002371785,Mets - Reds,2024-09-08T17:40:00Z,True,mets-reds-m3002371785,5,3212028102.0,Vencedor do jogo,Reds,2,2.0,301.0,
+3002371785,Mets - Reds,2024-09-08T17:40:00Z,True,mets-reds-m3002371785,5,3212028102.0,Vencedor do jogo,,,,,
+3002371785,Mets - Reds,2024-09-08T17:40:00Z,True,mets-reds-m3002371785,5,,,Mets,1,1.7,101.0,
+3002371785,Mets - Reds,2024-09-08T17:40:00Z,True,mets-reds-m3002371785,5,,,Reds,2,2.0,301.0,
+3002371785,Mets - Reds,2024-09-08T17:40:00Z,True,mets-reds-m3002371785,5,,,,,,,
+3002371828,Cubs - Yankees,2024-09-08T18:20:00Z,True,cubs-yankees-m3002371828,5,3212038277.0,Vencedor do jogo,Cubs,1,1.25,101.0,
+3002371828,Cubs - Yankees,2024-09-08T18:20:00Z,True,cubs-yankees-m3002371828,5,3212038277.0,Vencedor do jogo,Yankees,2,3.55,301.0,
+3002371828,Cubs - Yankees,2024-09-08T18:20:00Z,True,cubs-yankees-m3002371828,5,3212038277.0,Vencedor do jogo,,,,,
+3002371828,Cubs - Yankees,2024-09-08T18:20:00Z,True,cubs-yankees-m3002371828,5,,,Cubs,1,1.25,101.0,
+3002371828,Cubs - Yankees,2024-09-08T18:20:00Z,True,cubs-yankees-m3002371828,5,,,Yankees,2,3.55,301.0,
+3002371828,Cubs - Yankees,2024-09-08T18:20:00Z,True,cubs-yankees-m3002371828,5,,,,,,,
+3002371827,Rangers - Angels,2024-09-08T18:35:00Z,True,rangers-angels-m3002371827,5,3212038370.0,Vencedor do jogo,Rangers,1,1.06,101.0,
+3002371827,Rangers - Angels,2024-09-08T18:35:00Z,True,rangers-angels-m3002371827,5,3212038370.0,Vencedor do jogo,Angels,2,7.5,301.0,
+3002371827,Rangers - Angels,2024-09-08T18:35:00Z,True,rangers-angels-m3002371827,5,3212038370.0,Vencedor do jogo,,,,,
+3002371827,Rangers - Angels,2024-09-08T18:35:00Z,True,rangers-angels-m3002371827,5,,,Rangers,1,1.06,101.0,
+3002371827,Rangers - Angels,2024-09-08T18:35:00Z,True,rangers-angels-m3002371827,5,,,Angels,2,7.5,301.0,
+3002371827,Rangers - Angels,2024-09-08T18:35:00Z,True,rangers-angels-m3002371827,5,,,,,,,
+3002371830,Cardinals - Mariners,2024-09-08T18:15:00Z,True,cardinals-mariners-m3002371830,5,3212038339.0,Vencedor do jogo,Cardinals,1,12.5,101.0,
+3002371830,Cardinals - Mariners,2024-09-08T18:15:00Z,True,cardinals-mariners-m3002371830,5,3212038339.0,Vencedor do jogo,Mariners,2,1.0,301.0,
+3002371830,Cardinals - Mariners,2024-09-08T18:15:00Z,True,cardinals-mariners-m3002371830,5,3212038339.0,Vencedor do jogo,,,,,
+3002371830,Cardinals - Mariners,2024-09-08T18:15:00Z,True,cardinals-mariners-m3002371830,5,,,Cardinals,1,12.5,101.0,
+3002371830,Cardinals - Mariners,2024-09-08T18:15:00Z,True,cardinals-mariners-m3002371830,5,,,Mariners,2,1.0,301.0,
+3002371830,Cardinals - Mariners,2024-09-08T18:15:00Z,True,cardinals-mariners-m3002371830,5,,,,,,,
+3002371831,Royals - Twins,2024-09-08T18:10:00Z,True,royals-twins-m3002371831,0,3212038420.0,Vencedor do jogo,Royals,1,1.03,101.0,
+3002371831,Royals - Twins,2024-09-08T18:10:00Z,True,royals-twins-m3002371831,0,3212038420.0,Vencedor do jogo,Twins,2,9.5,301.0,
+3002371831,Royals - Twins,2024-09-08T18:10:00Z,True,royals-twins-m3002371831,0,3212038420.0,Vencedor do jogo,,,,,
+3002371831,Royals - Twins,2024-09-08T18:10:00Z,True,royals-twins-m3002371831,0,,,Royals,1,1.03,101.0,
+3002371831,Royals - Twins,2024-09-08T18:10:00Z,True,royals-twins-m3002371831,0,,,Twins,2,9.5,301.0,
+3002371831,Royals - Twins,2024-09-08T18:10:00Z,True,royals-twins-m3002371831,0,,,,,,,
+3002371941,Athletics - Tigers,2024-09-08T20:05:00Z,True,athletics-tigers-m3002371941,6,3212054467.0,Vencedor do jogo,Athletics,1,1.75,101.0,
+3002371941,Athletics - Tigers,2024-09-08T20:05:00Z,True,athletics-tigers-m3002371941,6,3212054467.0,Vencedor do jogo,Tigers,2,1.95,301.0,
+3002371941,Athletics - Tigers,2024-09-08T20:05:00Z,True,athletics-tigers-m3002371941,6,3212054467.0,Vencedor do jogo,,,,,
+3002371941,Athletics - Tigers,2024-09-08T20:05:00Z,True,athletics-tigers-m3002371941,6,3212054464.0,Resultado do 1.º inning,Athletics,1,1.75,101.0,
+3002371941,Athletics - Tigers,2024-09-08T20:05:00Z,True,athletics-tigers-m3002371941,6,3212054464.0,Resultado do 1.º inning,Tigers,2,1.95,301.0,
+3002371941,Athletics - Tigers,2024-09-08T20:05:00Z,True,athletics-tigers-m3002371941,6,3212054464.0,Resultado do 1.º inning,,,,,
+3002371942,Dodgers - Cleveland Guardians,2024-09-08T20:10:00Z,False,dodgers-cleveland-guardians-m3002371942,26,3212054498.0,Vencedor do jogo,LA Dodgers,1,1.52,101.0,95.0
+3002371942,Dodgers - Cleveland Guardians,2024-09-08T20:10:00Z,False,dodgers-cleveland-guardians-m3002371942,26,3212054498.0,Vencedor do jogo,Cleveland Guardians,2,2.25,301.0,5.0
+3002371942,Dodgers - Cleveland Guardians,2024-09-08T20:10:00Z,False,dodgers-cleveland-guardians-m3002371942,26,3212054498.0,Vencedor do jogo,,,,,
+3002371942,Dodgers - Cleveland Guardians,2024-09-08T20:10:00Z,False,dodgers-cleveland-guardians-m3002371942,26,3212054495.0,Resultado do 1.º inning,LA Dodgers,1,1.52,101.0,95.0
+3002371942,Dodgers - Cleveland Guardians,2024-09-08T20:10:00Z,False,dodgers-cleveland-guardians-m3002371942,26,3212054495.0,Resultado do 1.º inning,Cleveland Guardians,2,2.25,301.0,5.0
+3002371942,Dodgers - Cleveland Guardians,2024-09-08T20:10:00Z,False,dodgers-cleveland-guardians-m3002371942,26,3212054495.0,Resultado do 1.º inning,,,,,
+3002371940,Padres - Giants,2024-09-08T20:10:00Z,False,padres-giants-m3002371940,26,3212054406.0,Vencedor do jogo,SD Padres,1,1.45,101.0,96.0
+3002371940,Padres - Giants,2024-09-08T20:10:00Z,False,padres-giants-m3002371940,26,3212054406.0,Vencedor do jogo,SF Giants,2,2.45,301.0,4.0
+3002371940,Padres - Giants,2024-09-08T20:10:00Z,False,padres-giants-m3002371940,26,3212054406.0,Vencedor do jogo,,,,,
+3002371940,Padres - Giants,2024-09-08T20:10:00Z,False,padres-giants-m3002371940,26,3212054403.0,Resultado do 1.º inning,SD Padres,1,1.45,101.0,96.0
+3002371940,Padres - Giants,2024-09-08T20:10:00Z,False,padres-giants-m3002371940,26,3212054403.0,Resultado do 1.º inning,SF Giants,2,2.45,301.0,4.0
+3002371940,Padres - Giants,2024-09-08T20:10:00Z,False,padres-giants-m3002371940,26,3212054403.0,Resultado do 1.º inning,,,,,
+3002371829,Astros - Diamondbacks,2024-09-08T23:10:00Z,False,astros-diamondbacks-m3002371829,28,3212038308.0,Vencedor do jogo,HOU Astros,1,1.65,101.0,63.0
+3002371829,Astros - Diamondbacks,2024-09-08T23:10:00Z,False,astros-diamondbacks-m3002371829,28,3212038308.0,Vencedor do jogo,ARI Diamondbacks,2,2.1,301.0,37.0
+3002371829,Astros - Diamondbacks,2024-09-08T23:10:00Z,False,astros-diamondbacks-m3002371829,28,3212038308.0,Vencedor do jogo,,,,,
+3002371829,Astros - Diamondbacks,2024-09-08T23:10:00Z,False,astros-diamondbacks-m3002371829,28,3212038305.0,Resultado do 1.º inning,HOU Astros,1,1.65,101.0,63.0
+3002371829,Astros - Diamondbacks,2024-09-08T23:10:00Z,False,astros-diamondbacks-m3002371829,28,3212038305.0,Resultado do 1.º inning,ARI Diamondbacks,2,2.1,301.0,37.0
+3002371829,Astros - Diamondbacks,2024-09-08T23:10:00Z,False,astros-diamondbacks-m3002371829,28,3212038305.0,Resultado do 1.º inning,,,,,
+3002373115,White Sox - Cleveland Guardians,2024-09-09T23:40:00Z,False,white-sox-cleveland-guardians-m3002373115,1,3212331188.0,Vencedor do jogo,CHI White Sox,1,2.7,101.0,0.0
+3002373115,White Sox - Cleveland Guardians,2024-09-09T23:40:00Z,False,white-sox-cleveland-guardians-m3002373115,1,3212331188.0,Vencedor do jogo,Cleveland Guardians,2,1.4,301.0,100.0
+3002373115,White Sox - Cleveland Guardians,2024-09-09T23:40:00Z,False,white-sox-cleveland-guardians-m3002373115,1,3212331188.0,Vencedor do jogo,,,,,
+3002373115,White Sox - Cleveland Guardians,2024-09-09T23:40:00Z,False,white-sox-cleveland-guardians-m3002373115,1,,,CHI White Sox,1,2.7,101.0,0.0
+3002373115,White Sox - Cleveland Guardians,2024-09-09T23:40:00Z,False,white-sox-cleveland-guardians-m3002373115,1,,,Cleveland Guardians,2,1.4,301.0,100.0
+3002373115,White Sox - Cleveland Guardians,2024-09-09T23:40:00Z,False,white-sox-cleveland-guardians-m3002373115,1,,,,,,,
