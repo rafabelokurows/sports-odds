@@ -1,8 +1,10 @@
-# Scraping baseball odds from sportsbook
+# Scraping sports odds from sportsbook
 
-Short-term Goal: analyzing how the moneyline and odds move over time for a certain game  
+Update 2024-09-08: I renamed the repository as I've just added a scraper for NFL game odds to go with the one for MLB games that was already in place. 
 
-Long-term Goal: seeing if we could make f*cking money with this 🤑
+**Short-term Goal**: analyzing how the moneyline and odds move over time for a certain game  
+
+**Long-term Goal**: seeing if we could make f*cking money with this 🤑
 
 Using Python and Github Actions for now
 
@@ -38,4 +40,3 @@ formas diferentes de agrupar duplas/triplas
 
 Value bets:
 favoritos grande margem com odd 1.8+
-
