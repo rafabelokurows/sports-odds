@@ -44,4 +44,4 @@ def nfl_game_odds():
   return games
   
 games = nfl_game_odds()
-games.to_csv("data/2024/nfl_games_"+strftime("%Y%m%d%H%M", gmtime())+".csv",index=False)
+games.to_csv("data/2024/nfl/nfl_games_"+strftime("%Y%m%d%H%M", gmtime())+".csv",index=False)
