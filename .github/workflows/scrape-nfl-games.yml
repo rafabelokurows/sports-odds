@@ -1,4 +1,4 @@
-name: Scraping baseball games betting odds
+name: Scraping NFL games betting odds
 
 # Controls when the action will run.
 on:
