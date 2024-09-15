@@ -1,0 +1,23 @@
+id_x,name_x,date,isLive_x,relativeDesktopUrl,openMarketCount,id_y,name_y,name,lx,odds,line,betTrend
+3002380729,Ravens - Raiders,2024-09-15T17:00:00Z,True,ravens-raiders-m3002380729,1,3228732715,Vencedor,Ravens,1,3.1,101,
+3002380729,Ravens - Raiders,2024-09-15T17:00:00Z,True,ravens-raiders-m3002380729,1,3228732715,Vencedor,Raiders,2,1.17,301,
+3002380751,Jaguars - Browns,2024-09-15T17:00:00Z,True,jaguars-browns-m3002380751,0,3228744940,Vencedor,Jaguars,1,4.75,101,
+3002380751,Jaguars - Browns,2024-09-15T17:00:00Z,True,jaguars-browns-m3002380751,0,3228744940,Vencedor,Browns,2,1.03,301,
+3002380766,Patriots - Seahawks,2024-09-15T17:00:00Z,True,patriots-seahawks-m3002380766,0,3228746111,Vencedor,Patriots,1,7.0,101,
+3002380766,Patriots - Seahawks,2024-09-15T17:00:00Z,True,patriots-seahawks-m3002380766,0,3228746111,Vencedor,Seahawks,2,1.0,301,
+3002380918,Cardinals - LA Rams,2024-09-15T20:05:00Z,True,cardinals-la-rams-m3002380918,1,3228771809,Vencedor,Cardinals,1,1.55,101,
+3002380918,Cardinals - LA Rams,2024-09-15T20:05:00Z,True,cardinals-la-rams-m3002380918,1,3228771809,Vencedor,LA Rams,2,1.87,301,
+3002377087,Chiefs - Bengals,2024-09-15T20:25:00Z,False,chiefs-bengals-m3002377087,177,3212750608,Vencedor,KC Chiefs,1,1.3,101,99.0
+3002377087,Chiefs - Bengals,2024-09-15T20:25:00Z,False,chiefs-bengals-m3002377087,177,3212750608,Vencedor,CIN Bengals,2,3.0,301,1.0
+3002380920,Broncos - Steelers,2024-09-15T20:25:00Z,False,broncos-steelers-m3002380920,177,3228774145,Vencedor,DEN Broncos,1,2.15,101,13.0
+3002380920,Broncos - Steelers,2024-09-15T20:25:00Z,False,broncos-steelers-m3002380920,177,3228774145,Vencedor,PIT Steelers,2,1.58,301,87.0
+3002381028,Texans - Bears,2024-09-16T00:20:00Z,False,texans-bears-m3002381028,172,3228798630,Vencedor,HOU Texans,1,1.35,101,99.0
+3002381028,Texans - Bears,2024-09-16T00:20:00Z,False,texans-bears-m3002381028,172,3228798630,Vencedor,CHI Bears,2,2.9,301,1.0
+3002382286,Eagles - Falcons,2024-09-17T00:15:00Z,False,eagles-falcons-m3002382286,165,3228924012,Vencedor,PHI Eagles,1,1.38,101,99.0
+3002382286,Eagles - Falcons,2024-09-17T00:15:00Z,False,eagles-falcons-m3002382286,165,3228924012,Vencedor,ATL Falcons,2,2.85,301,1.0
+3002546709,Toronto Argonauts - Hamilton Tiger-Cats,2024-09-20T23:00:00Z,False,toronto-argonauts-hamilton-tiger-cats-m3002546709,6,3230309515,Vencedor,Toronto Argonauts,1,1.38,101,100.0
+3002546709,Toronto Argonauts - Hamilton Tiger-Cats,2024-09-20T23:00:00Z,False,toronto-argonauts-hamilton-tiger-cats-m3002546709,6,3230309515,Vencedor,Hamilton Tiger-Cats,2,2.85,301,0.0
+3002546711,Calgary Stampeders - Saskatchewan Roughriders,2024-09-21T01:30:00Z,False,calgary-stampeders-saskatchewan-roughriders-m3002546711,6,3230309730,Vencedor,Calgary Stampeders,1,2.2,101,0.0
+3002546711,Calgary Stampeders - Saskatchewan Roughriders,2024-09-21T01:30:00Z,False,calgary-stampeders-saskatchewan-roughriders-m3002546711,6,3230309730,Vencedor,Saskatchewan Roughriders,2,1.6,301,100.0
+3002546713,Ottawa RedBlacks - Montreal Alouettes,2024-09-21T19:00:00Z,False,ottawa-redblacks-montreal-alouettes-m3002546713,6,3230309747,Vencedor,Ottawa RedBlacks,1,2.15,101,0.0
+3002546713,Ottawa RedBlacks - Montreal Alouettes,2024-09-21T19:00:00Z,False,ottawa-redblacks-montreal-alouettes-m3002546713,6,3230309747,Vencedor,Montreal Alouettes,2,1.62,301,100.0
