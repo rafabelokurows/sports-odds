@@ -1,0 +1,55 @@
+id_x,name_x,date,isLive_x,relativeDesktopUrl,openMarketCount,id_y,name_y,name,lx,odds,line,betTrend
+3002575995,Astros - Tigers,2024-10-02T18:30:00Z,True,astros-tigers-m3002575995,5,3234637277.0,Vencedor do jogo,Astros,1,2.15,101.0,
+3002575995,Astros - Tigers,2024-10-02T18:30:00Z,True,astros-tigers-m3002575995,5,3234637277.0,Vencedor do jogo,Tigers,2,1.65,301.0,
+3002575995,Astros - Tigers,2024-10-02T18:30:00Z,True,astros-tigers-m3002575995,5,3234637277.0,Vencedor do jogo,,,,,
+3002575995,Astros - Tigers,2024-10-02T18:30:00Z,True,astros-tigers-m3002575995,5,,,Astros,1,2.15,101.0,
+3002575995,Astros - Tigers,2024-10-02T18:30:00Z,True,astros-tigers-m3002575995,5,,,Tigers,2,1.65,301.0,
+3002575995,Astros - Tigers,2024-10-02T18:30:00Z,True,astros-tigers-m3002575995,5,,,,,,,
+3002575997,Orioles - Royals,2024-10-02T20:40:00Z,False,orioles-royals-m3002575997,28,3234640610.0,Vencedor do jogo,BAL Orioles,1,1.62,101.0,88.0
+3002575997,Orioles - Royals,2024-10-02T20:40:00Z,False,orioles-royals-m3002575997,28,3234640610.0,Vencedor do jogo,KC Royals,2,2.1,301.0,12.0
+3002575997,Orioles - Royals,2024-10-02T20:40:00Z,False,orioles-royals-m3002575997,28,3234640610.0,Vencedor do jogo,,,,,
+3002575997,Orioles - Royals,2024-10-02T20:40:00Z,False,orioles-royals-m3002575997,28,3234344497.0,Resultado do 1.º inning,BAL Orioles,1,1.62,101.0,88.0
+3002575997,Orioles - Royals,2024-10-02T20:40:00Z,False,orioles-royals-m3002575997,28,3234344497.0,Resultado do 1.º inning,KC Royals,2,2.1,301.0,12.0
+3002575997,Orioles - Royals,2024-10-02T20:40:00Z,False,orioles-royals-m3002575997,28,3234344497.0,Resultado do 1.º inning,,,,,
+3002577232,Brewers - Mets,2024-10-02T23:40:00Z,False,brewers-mets-m3002577232,28,3234648902.0,Vencedor do jogo,MIL Brewers,1,1.78,101.0,52.0
+3002577232,Brewers - Mets,2024-10-02T23:40:00Z,False,brewers-mets-m3002577232,28,3234648902.0,Vencedor do jogo,NY Mets,2,1.95,301.0,48.0
+3002577232,Brewers - Mets,2024-10-02T23:40:00Z,False,brewers-mets-m3002577232,28,3234648902.0,Vencedor do jogo,,,,,
+3002577232,Brewers - Mets,2024-10-02T23:40:00Z,False,brewers-mets-m3002577232,28,3234486531.0,Resultado do 1.º inning,MIL Brewers,1,1.78,101.0,52.0
+3002577232,Brewers - Mets,2024-10-02T23:40:00Z,False,brewers-mets-m3002577232,28,3234486531.0,Resultado do 1.º inning,NY Mets,2,1.95,301.0,48.0
+3002577232,Brewers - Mets,2024-10-02T23:40:00Z,False,brewers-mets-m3002577232,28,3234486531.0,Resultado do 1.º inning,,,,,
+3002577229,Padres - Braves,2024-10-03T00:40:00Z,False,padres-braves-m3002577229,28,3234659594.0,Vencedor do jogo,SD Padres,1,1.8,101.0,80.0
+3002577229,Padres - Braves,2024-10-03T00:40:00Z,False,padres-braves-m3002577229,28,3234659594.0,Vencedor do jogo,ATL Braves,2,1.9,301.0,20.0
+3002577229,Padres - Braves,2024-10-03T00:40:00Z,False,padres-braves-m3002577229,28,3234659594.0,Vencedor do jogo,,,,,
+3002577229,Padres - Braves,2024-10-03T00:40:00Z,False,padres-braves-m3002577229,28,3234486470.0,Resultado do 1.º inning,SD Padres,1,1.8,101.0,80.0
+3002577229,Padres - Braves,2024-10-03T00:40:00Z,False,padres-braves-m3002577229,28,3234486470.0,Resultado do 1.º inning,ATL Braves,2,1.9,301.0,20.0
+3002577229,Padres - Braves,2024-10-03T00:40:00Z,False,padres-braves-m3002577229,28,3234486470.0,Resultado do 1.º inning,,,,,
+3002579459,Doosan Bears - KT Wiz,2024-10-03T05:00:00Z,False,doosan-bears-kt-wiz-m3002579459,26,3234784913.0,Vencedor do jogo,Doosan Bears,1,2.3,101.0,0.0
+3002579459,Doosan Bears - KT Wiz,2024-10-03T05:00:00Z,False,doosan-bears-kt-wiz-m3002579459,26,3234784913.0,Vencedor do jogo,KT Wiz,2,1.52,301.0,100.0
+3002579459,Doosan Bears - KT Wiz,2024-10-03T05:00:00Z,False,doosan-bears-kt-wiz-m3002579459,26,3234784913.0,Vencedor do jogo,,,,,
+3002579459,Doosan Bears - KT Wiz,2024-10-03T05:00:00Z,False,doosan-bears-kt-wiz-m3002579459,26,3234726676.0,Resultado do 1.º inning,Doosan Bears,1,2.3,101.0,0.0
+3002579459,Doosan Bears - KT Wiz,2024-10-03T05:00:00Z,False,doosan-bears-kt-wiz-m3002579459,26,3234726676.0,Resultado do 1.º inning,KT Wiz,2,1.52,301.0,100.0
+3002579459,Doosan Bears - KT Wiz,2024-10-03T05:00:00Z,False,doosan-bears-kt-wiz-m3002579459,26,3234726676.0,Resultado do 1.º inning,,,,,
+3002403635,Fukuoka SoftBank Hawks - Tohoku Rakuten Golden Eagles,2024-10-03T09:00:00Z,False,fukuoka-softbank-hawks-tohoku-rakuten-golden-eagles-m3002403635,25,3215963704.0,Vencedor do jogo,Fukuoka SoftBank Hawks,1,1.5,101.0,100.0
+3002403635,Fukuoka SoftBank Hawks - Tohoku Rakuten Golden Eagles,2024-10-03T09:00:00Z,False,fukuoka-softbank-hawks-tohoku-rakuten-golden-eagles-m3002403635,25,3215963704.0,Vencedor do jogo,Tohoku Rakuten Golden Eagles,2,2.4,301.0,0.0
+3002403635,Fukuoka SoftBank Hawks - Tohoku Rakuten Golden Eagles,2024-10-03T09:00:00Z,False,fukuoka-softbank-hawks-tohoku-rakuten-golden-eagles-m3002403635,25,3215963704.0,Vencedor do jogo,,,,,
+3002403635,Fukuoka SoftBank Hawks - Tohoku Rakuten Golden Eagles,2024-10-03T09:00:00Z,False,fukuoka-softbank-hawks-tohoku-rakuten-golden-eagles-m3002403635,25,3215963701.0,Resultado do 1.º inning,Fukuoka SoftBank Hawks,1,1.5,101.0,100.0
+3002403635,Fukuoka SoftBank Hawks - Tohoku Rakuten Golden Eagles,2024-10-03T09:00:00Z,False,fukuoka-softbank-hawks-tohoku-rakuten-golden-eagles-m3002403635,25,3215963701.0,Resultado do 1.º inning,Tohoku Rakuten Golden Eagles,2,2.4,301.0,0.0
+3002403635,Fukuoka SoftBank Hawks - Tohoku Rakuten Golden Eagles,2024-10-03T09:00:00Z,False,fukuoka-softbank-hawks-tohoku-rakuten-golden-eagles-m3002403635,25,3215963701.0,Resultado do 1.º inning,,,,,
+3002579313,Tokyo Yakult Swallows - Hiroshima Toyo Carp,2024-10-03T09:00:00Z,False,tokyo-yakult-swallows-hiroshima-toyo-carp-m3002579313,25,3234724399.0,Vencedor do jogo,Tokyo Yakult Swallows,1,1.78,101.0,83.0
+3002579313,Tokyo Yakult Swallows - Hiroshima Toyo Carp,2024-10-03T09:00:00Z,False,tokyo-yakult-swallows-hiroshima-toyo-carp-m3002579313,25,3234724399.0,Vencedor do jogo,Hiroshima Toyo Carp,2,1.9,301.0,17.0
+3002579313,Tokyo Yakult Swallows - Hiroshima Toyo Carp,2024-10-03T09:00:00Z,False,tokyo-yakult-swallows-hiroshima-toyo-carp-m3002579313,25,3234724399.0,Vencedor do jogo,,,,,
+3002579313,Tokyo Yakult Swallows - Hiroshima Toyo Carp,2024-10-03T09:00:00Z,False,tokyo-yakult-swallows-hiroshima-toyo-carp-m3002579313,25,3234714235.0,Resultado do 1.º inning,Tokyo Yakult Swallows,1,1.78,101.0,83.0
+3002579313,Tokyo Yakult Swallows - Hiroshima Toyo Carp,2024-10-03T09:00:00Z,False,tokyo-yakult-swallows-hiroshima-toyo-carp-m3002579313,25,3234714235.0,Resultado do 1.º inning,Hiroshima Toyo Carp,2,1.9,301.0,17.0
+3002579313,Tokyo Yakult Swallows - Hiroshima Toyo Carp,2024-10-03T09:00:00Z,False,tokyo-yakult-swallows-hiroshima-toyo-carp-m3002579313,25,3234714235.0,Resultado do 1.º inning,,,,,
+3002579311,Yokohama BayStars - Hanshin Tigers,2024-10-03T09:00:00Z,False,yokohama-baystars-hanshin-tigers-m3002579311,25,3234724401.0,Vencedor do jogo,Yokohama BayStars,1,1.78,101.0,67.0
+3002579311,Yokohama BayStars - Hanshin Tigers,2024-10-03T09:00:00Z,False,yokohama-baystars-hanshin-tigers-m3002579311,25,3234724401.0,Vencedor do jogo,Hanshin Tigers,2,1.88,301.0,33.0
+3002579311,Yokohama BayStars - Hanshin Tigers,2024-10-03T09:00:00Z,False,yokohama-baystars-hanshin-tigers-m3002579311,25,3234724401.0,Vencedor do jogo,,,,,
+3002579311,Yokohama BayStars - Hanshin Tigers,2024-10-03T09:00:00Z,False,yokohama-baystars-hanshin-tigers-m3002579311,25,3234714266.0,Resultado do 1.º inning,Yokohama BayStars,1,1.78,101.0,67.0
+3002579311,Yokohama BayStars - Hanshin Tigers,2024-10-03T09:00:00Z,False,yokohama-baystars-hanshin-tigers-m3002579311,25,3234714266.0,Resultado do 1.º inning,Hanshin Tigers,2,1.88,301.0,33.0
+3002579311,Yokohama BayStars - Hanshin Tigers,2024-10-03T09:00:00Z,False,yokohama-baystars-hanshin-tigers-m3002579311,25,3234714266.0,Resultado do 1.º inning,,,,,
+3002403634,Chiba Lotte Marines - Hokkaido Nippon Ham Fighters,2024-10-03T09:00:00Z,False,chiba-lotte-marines-hokkaido-nippon-ham-fighters-m3002403634,25,3215963673.0,Vencedor do jogo,Chiba Lotte Marines,1,1.75,101.0,75.0
+3002403634,Chiba Lotte Marines - Hokkaido Nippon Ham Fighters,2024-10-03T09:00:00Z,False,chiba-lotte-marines-hokkaido-nippon-ham-fighters-m3002403634,25,3215963673.0,Vencedor do jogo,Hokkaido Nippon Ham Fighters,2,1.95,301.0,25.0
+3002403634,Chiba Lotte Marines - Hokkaido Nippon Ham Fighters,2024-10-03T09:00:00Z,False,chiba-lotte-marines-hokkaido-nippon-ham-fighters-m3002403634,25,3215963673.0,Vencedor do jogo,,,,,
+3002403634,Chiba Lotte Marines - Hokkaido Nippon Ham Fighters,2024-10-03T09:00:00Z,False,chiba-lotte-marines-hokkaido-nippon-ham-fighters-m3002403634,25,,,Chiba Lotte Marines,1,1.75,101.0,75.0
+3002403634,Chiba Lotte Marines - Hokkaido Nippon Ham Fighters,2024-10-03T09:00:00Z,False,chiba-lotte-marines-hokkaido-nippon-ham-fighters-m3002403634,25,,,Hokkaido Nippon Ham Fighters,2,1.95,301.0,25.0
+3002403634,Chiba Lotte Marines - Hokkaido Nippon Ham Fighters,2024-10-03T09:00:00Z,False,chiba-lotte-marines-hokkaido-nippon-ham-fighters-m3002403634,25,,,,,,,
