@@ -1,0 +1,63 @@
+id_x,name_x,date,isLive_x,relativeDesktopUrl,openMarketCount,id_y,name_y,name,lx,odds,line,betTrend
+3002569207,Hamilton Tiger-Cats - Winnipeg Blue Bombers,2024-10-04T23:00:00Z,False,hamilton-tiger-cats-winnipeg-blue-bombers-m3002569207,66,3233234804,Vencedor,Hamilton Tiger-Cats,1,2.5,101,7.0
+3002569207,Hamilton Tiger-Cats - Winnipeg Blue Bombers,2024-10-04T23:00:00Z,False,hamilton-tiger-cats-winnipeg-blue-bombers-m3002569207,66,3233234804,Vencedor,Winnipeg Blue Bombers,2,1.48,301,93.0
+3002569206,Lions - Calgary Stampeders,2024-10-05T02:00:00Z,False,lions-calgary-stampeders-m3002569206,66,3233234801,Vencedor,BC Lions,1,1.3,101,99.0
+3002569206,Lions - Calgary Stampeders,2024-10-05T02:00:00Z,False,lions-calgary-stampeders-m3002569206,66,3233234801,Vencedor,Calgary Stampeders,2,3.7,301,1.0
+3002569205,Edmonton Eskimos - Saskatchewan Roughriders,2024-10-05T23:00:00Z,False,edmonton-eskimos-saskatchewan-roughriders-m3002569205,66,3233234797,Vencedor,Edmonton Eskimos,1,2.05,101,12.0
+3002569205,Edmonton Eskimos - Saskatchewan Roughriders,2024-10-05T23:00:00Z,False,edmonton-eskimos-saskatchewan-roughriders-m3002569205,66,3233234797,Vencedor,Saskatchewan Roughriders,2,1.68,301,88.0
+3002377089,Vikings - Jets,2024-10-06T13:30:00Z,False,vikings-jets-m3002377089,148,3212750687,Vencedor,MIN Vikings,1,1.65,101,84.0
+3002377089,Vikings - Jets,2024-10-06T13:30:00Z,False,vikings-jets-m3002377089,148,3212750687,Vencedor,NY Jets,2,2.1,301,16.0
+3002408580,Bengals - Ravens,2024-10-06T17:00:00Z,False,bengals-ravens-m3002408580,156,3233039336,Vencedor,CIN Bengals,1,2.05,101,16.0
+3002408580,Bengals - Ravens,2024-10-06T17:00:00Z,False,bengals-ravens-m3002408580,156,3233039336,Vencedor,BAL Ravens,2,1.68,301,84.0
+3002408562,WAS Commanders - Browns,2024-10-06T17:00:00Z,False,was-commanders-browns-m3002408562,152,3233040778,Vencedor,Washington Commanders,1,1.55,101,90.0
+3002408562,WAS Commanders - Browns,2024-10-06T17:00:00Z,False,was-commanders-browns-m3002408562,152,3233040778,Vencedor,CLE Browns,2,2.35,301,10.0
+3002408577,Texans - Bills,2024-10-06T17:00:00Z,False,texans-bills-m3002408577,156,3233039454,Vencedor,HOU Texans,1,1.9,101,28.0
+3002408577,Texans - Bills,2024-10-06T17:00:00Z,False,texans-bills-m3002408577,156,3233039454,Vencedor,BUF Bills,2,1.82,301,72.0
+3002408589,Bears - Panthers,2024-10-06T17:00:00Z,False,bears-panthers-m3002408589,152,3233039125,Vencedor,CHI Bears,1,1.45,101,84.0
+3002408589,Bears - Panthers,2024-10-06T17:00:00Z,False,bears-panthers-m3002408589,152,3233039125,Vencedor,CAR Panthers,2,2.55,301,16.0
+3002408561,Jaguars - Colts,2024-10-06T17:00:00Z,False,jaguars-colts-m3002408561,148,3233039447,Vencedor,JAC Jaguars,1,1.62,101,58.0
+3002408561,Jaguars - Colts,2024-10-06T17:00:00Z,False,jaguars-colts-m3002408561,148,3233039447,Vencedor,IND Colts,2,2.15,301,42.0
+3002408578,Patriots - Dolphins,2024-10-06T17:00:00Z,False,patriots-dolphins-m3002408578,156,3233040784,Vencedor,NE Patriots,1,1.85,101,62.0
+3002408578,Patriots - Dolphins,2024-10-06T17:00:00Z,False,patriots-dolphins-m3002408578,156,3233040784,Vencedor,MIA Dolphins,2,1.85,301,38.0
+3002408762,49ers - Cardinals,2024-10-06T20:05:00Z,False,49ers-cardinals-m3002408762,155,3233041011,Vencedor,SF 49ers,1,1.27,101,95.0
+3002408762,49ers - Cardinals,2024-10-06T20:05:00Z,False,49ers-cardinals-m3002408762,155,3233041011,Vencedor,ARI Cardinals,2,3.4,301,5.0
+3002408760,Broncos - Raiders,2024-10-06T20:05:00Z,False,broncos-raiders-m3002408760,156,3233040843,Vencedor,DEN Broncos,1,1.62,101,67.0
+3002408760,Broncos - Raiders,2024-10-06T20:05:00Z,False,broncos-raiders-m3002408760,156,3233040843,Vencedor,LV Raiders,2,2.15,301,33.0
+3002408761,Seahawks - Giants,2024-10-06T20:25:00Z,False,seahawks-giants-m3002408761,156,3233042344,Vencedor,SEA Seahawks,1,1.3,101,99.0
+3002408761,Seahawks - Giants,2024-10-06T20:25:00Z,False,seahawks-giants-m3002408761,156,3233042344,Vencedor,NY Giants,2,3.2,301,1.0
+3002408763,LA Rams - Packers,2024-10-06T20:25:00Z,False,la-rams-packers-m3002408763,154,3233042351,Vencedor,Los Angeles Rams,1,2.25,101,14.0
+3002408763,LA Rams - Packers,2024-10-06T20:25:00Z,False,la-rams-packers-m3002408763,154,3233042351,Vencedor,GB Packers,2,1.55,301,86.0
+3002408907,Steelers - Cowboys,2024-10-07T00:20:00Z,False,steelers-cowboys-m3002408907,156,3233042334,Vencedor,PIT Steelers,1,1.65,101,56.0
+3002408907,Steelers - Cowboys,2024-10-07T00:20:00Z,False,steelers-cowboys-m3002408907,156,3233042334,Vencedor,DAL Cowboys,2,2.1,301,44.0
+3002409961,Chiefs - Saints,2024-10-08T00:15:00Z,False,chiefs-saints-m3002409961,156,3233042358,Vencedor,KC Chiefs,1,1.4,101,90.0
+3002409961,Chiefs - Saints,2024-10-08T00:15:00Z,False,chiefs-saints-m3002409961,156,3233042358,Vencedor,NO Saints,2,2.75,301,10.0
+3002414714,Seahawks - 49ers,2024-10-11T00:15:00Z,False,seahawks-49ers-m3002414714,53,3234626741,Vencedor,SEA Seahawks,1,2.2,101,0.0
+3002414714,Seahawks - 49ers,2024-10-11T00:15:00Z,False,seahawks-49ers-m3002414714,53,3234626741,Vencedor,SF 49ers,2,1.6,301,100.0
+3002580250,Winnipeg Blue Bombers - Toronto Argonauts,2024-10-12T00:30:00Z,False,winnipeg-blue-bombers-toronto-argonauts-m3002580250,66,3234835159,Vencedor,Winnipeg Blue Bombers,1,1.52,101,
+3002580250,Winnipeg Blue Bombers - Toronto Argonauts,2024-10-12T00:30:00Z,False,winnipeg-blue-bombers-toronto-argonauts-m3002580250,66,3234835159,Vencedor,Toronto Argonauts,2,2.4,301,
+3002580207,Calgary Stampeders - Edmonton Eskimos,2024-10-12T19:00:00Z,False,calgary-stampeders-edmonton-eskimos-m3002580207,66,3234824530,Vencedor,Calgary Stampeders,1,1.85,101,
+3002580207,Calgary Stampeders - Edmonton Eskimos,2024-10-12T19:00:00Z,False,calgary-stampeders-edmonton-eskimos-m3002580207,66,3234824530,Vencedor,Edmonton Eskimos,2,1.85,301,
+3002580252,Saskatchewan Roughriders - Lions,2024-10-12T23:00:00Z,False,saskatchewan-roughriders-lions-m3002580252,66,3234835094,Vencedor,Saskatchewan Roughriders,1,1.88,101,
+3002580252,Saskatchewan Roughriders - Lions,2024-10-12T23:00:00Z,False,saskatchewan-roughriders-lions-m3002580252,66,3234835094,Vencedor,BC Lions,2,1.82,301,
+3002377090,Bears - Jaguars,2024-10-13T13:30:00Z,False,bears-jaguars-m3002377090,134,3212750918,Vencedor,CHI Bears,1,1.85,101,100.0
+3002377090,Bears - Jaguars,2024-10-13T13:30:00Z,False,bears-jaguars-m3002377090,134,3212750918,Vencedor,JAC Jaguars,2,1.85,301,0.0
+3002418648,Packers - Cardinals,2024-10-13T17:00:00Z,False,packers-cardinals-m3002418648,53,3234628486,Vencedor,GB Packers,1,1.4,101,100.0
+3002418648,Packers - Cardinals,2024-10-13T17:00:00Z,False,packers-cardinals-m3002418648,53,3234628486,Vencedor,ARI Cardinals,2,2.75,301,0.0
+3002418649,Patriots - Texans,2024-10-13T17:00:00Z,False,patriots-texans-m3002418649,53,3234628480,Vencedor,NE Patriots,1,3.25,101,0.0
+3002418649,Patriots - Texans,2024-10-13T17:00:00Z,False,patriots-texans-m3002418649,53,3234628480,Vencedor,HOU Texans,2,1.3,301,100.0
+3002418650,Ravens - WAS Commanders,2024-10-13T17:00:00Z,False,ravens-was-commanders-m3002418650,53,3234627571,Vencedor,BAL Ravens,1,1.3,101,100.0
+3002418650,Ravens - WAS Commanders,2024-10-13T17:00:00Z,False,ravens-was-commanders-m3002418650,53,3234627571,Vencedor,Washington Commanders,2,3.25,301,0.0
+3002418651,Titans - Colts,2024-10-13T17:00:00Z,False,titans-colts-m3002418651,53,3234628607,Vencedor,TEN Titans,1,1.9,101,100.0
+3002418651,Titans - Colts,2024-10-13T17:00:00Z,False,titans-colts-m3002418651,53,3234628607,Vencedor,IND Colts,2,1.8,301,0.0
+3002418653,Eagles - Browns,2024-10-13T17:00:00Z,False,eagles-browns-m3002418653,53,3234628620,Vencedor,PHI Eagles,1,1.3,101,100.0
+3002418653,Eagles - Browns,2024-10-13T17:00:00Z,False,eagles-browns-m3002418653,53,3234628620,Vencedor,CLE Browns,2,3.2,301,0.0
+3002418740,Raiders - Steelers,2024-10-13T20:05:00Z,False,raiders-steelers-m3002418740,53,3234627699,Vencedor,LV Raiders,1,2.2,101,
+3002418740,Raiders - Steelers,2024-10-13T20:05:00Z,False,raiders-steelers-m3002418740,53,3234627699,Vencedor,PIT Steelers,2,1.58,301,
+3002418741,Broncos - Chargers,2024-10-13T20:05:00Z,False,broncos-chargers-m3002418741,53,3234628614,Vencedor,DEN Broncos,1,2.05,101,0.0
+3002418741,Broncos - Chargers,2024-10-13T20:05:00Z,False,broncos-chargers-m3002418741,53,3234628614,Vencedor,LA Chargers,2,1.68,301,100.0
+3002418739,Cowboys - Lions,2024-10-13T20:25:00Z,False,cowboys-lions-m3002418739,53,3234626807,Vencedor,DAL Cowboys,1,2.2,101,0.0
+3002418739,Cowboys - Lions,2024-10-13T20:25:00Z,False,cowboys-lions-m3002418739,53,3234626807,Vencedor,DET Lions,2,1.6,301,100.0
+3002418852,Giants - Bengals,2024-10-14T00:20:00Z,False,giants-bengals-m3002418852,53,3234627588,Vencedor,NY Giants,1,2.6,101,
+3002418852,Giants - Bengals,2024-10-14T00:20:00Z,False,giants-bengals-m3002418852,53,3234627588,Vencedor,CIN Bengals,2,1.45,301,
+3002419985,Jets - Bills,2024-10-15T00:15:00Z,False,jets-bills-m3002419985,53,3234626733,Vencedor,NY Jets,1,2.0,101,0.0
+3002419985,Jets - Bills,2024-10-15T00:15:00Z,False,jets-bills-m3002419985,53,3234626733,Vencedor,BUF Bills,2,1.75,301,100.0
