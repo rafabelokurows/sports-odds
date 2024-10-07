@@ -1,0 +1,31 @@
+id_x,name_x,date,isLive_x,relativeDesktopUrl,openMarketCount,id_y,name_y,name,lx,odds,line,betTrend
+3002580168,Cleveland Guardians - Tigers,2024-10-07T20:10:00Z,True,cleveland-guardians-tigers-m3002580168,6,3235540061,Vencedor do jogo,Cleveland Guardians,1,1.9,101.0,
+3002580168,Cleveland Guardians - Tigers,2024-10-07T20:10:00Z,True,cleveland-guardians-tigers-m3002580168,6,3235540061,Vencedor do jogo,Tigers,2,1.85,301.0,
+3002580168,Cleveland Guardians - Tigers,2024-10-07T20:10:00Z,True,cleveland-guardians-tigers-m3002580168,6,3235540061,Vencedor do jogo,,,,,
+3002580168,Cleveland Guardians - Tigers,2024-10-07T20:10:00Z,True,cleveland-guardians-tigers-m3002580168,6,3234821791,Resultado do 1.º inning,Cleveland Guardians,1,1.9,101.0,
+3002580168,Cleveland Guardians - Tigers,2024-10-07T20:10:00Z,True,cleveland-guardians-tigers-m3002580168,6,3234821791,Resultado do 1.º inning,Tigers,2,1.85,301.0,
+3002580168,Cleveland Guardians - Tigers,2024-10-07T20:10:00Z,True,cleveland-guardians-tigers-m3002580168,6,3234821791,Resultado do 1.º inning,,,,,
+3002580229,Yankees - Royals,2024-10-07T23:40:00Z,False,yankees-royals-m3002580229,28,3235589489,Vencedor do jogo,NY Yankees,1,1.62,101.0,96.0
+3002580229,Yankees - Royals,2024-10-07T23:40:00Z,False,yankees-royals-m3002580229,28,3235589489,Vencedor do jogo,KC Royals,2,2.15,301.0,4.0
+3002580229,Yankees - Royals,2024-10-07T23:40:00Z,False,yankees-royals-m3002580229,28,3235589489,Vencedor do jogo,,,,,
+3002580229,Yankees - Royals,2024-10-07T23:40:00Z,False,yankees-royals-m3002580229,28,3234832231,Resultado do 1.º inning,NY Yankees,1,1.62,101.0,96.0
+3002580229,Yankees - Royals,2024-10-07T23:40:00Z,False,yankees-royals-m3002580229,28,3234832231,Resultado do 1.º inning,KC Royals,2,2.15,301.0,4.0
+3002580229,Yankees - Royals,2024-10-07T23:40:00Z,False,yankees-royals-m3002580229,28,3234832231,Resultado do 1.º inning,,,,,
+3002580872,KT Wiz - LG Twins,2024-10-08T09:30:00Z,False,kt-wiz-lg-twins-m3002580872,26,3235910541,Vencedor do jogo,KT Wiz,1,1.6,101.0,90.0
+3002580872,KT Wiz - LG Twins,2024-10-08T09:30:00Z,False,kt-wiz-lg-twins-m3002580872,26,3235910541,Vencedor do jogo,LG Twins,2,2.15,301.0,10.0
+3002580872,KT Wiz - LG Twins,2024-10-08T09:30:00Z,False,kt-wiz-lg-twins-m3002580872,26,3235910541,Vencedor do jogo,,,,,
+3002580872,KT Wiz - LG Twins,2024-10-08T09:30:00Z,False,kt-wiz-lg-twins-m3002580872,26,3234915758,Resultado do 1.º inning,KT Wiz,1,1.6,101.0,90.0
+3002580872,KT Wiz - LG Twins,2024-10-08T09:30:00Z,False,kt-wiz-lg-twins-m3002580872,26,3234915758,Resultado do 1.º inning,LG Twins,2,2.15,301.0,10.0
+3002580872,KT Wiz - LG Twins,2024-10-08T09:30:00Z,False,kt-wiz-lg-twins-m3002580872,26,3234915758,Resultado do 1.º inning,,,,,
+3002581969,Mets - Phillies,2024-10-08T21:10:00Z,False,mets-phillies-m3002581969,28,3235849825,Vencedor do jogo,NY Mets,1,1.85,101.0,59.0
+3002581969,Mets - Phillies,2024-10-08T21:10:00Z,False,mets-phillies-m3002581969,28,3235849825,Vencedor do jogo,PHI Phillies,2,1.85,301.0,41.0
+3002581969,Mets - Phillies,2024-10-08T21:10:00Z,False,mets-phillies-m3002581969,28,3235849825,Vencedor do jogo,,,,,
+3002581969,Mets - Phillies,2024-10-08T21:10:00Z,False,mets-phillies-m3002581969,28,3235024494,Resultado do 1.º inning,NY Mets,1,1.85,101.0,59.0
+3002581969,Mets - Phillies,2024-10-08T21:10:00Z,False,mets-phillies-m3002581969,28,3235024494,Resultado do 1.º inning,PHI Phillies,2,1.85,301.0,41.0
+3002581969,Mets - Phillies,2024-10-08T21:10:00Z,False,mets-phillies-m3002581969,28,3235024494,Resultado do 1.º inning,,,,,
+3002580371,Padres - Dodgers,2024-10-09T01:10:00Z,False,padres-dodgers-m3002580371,26,3235860287,Vencedor do jogo,SD Padres,1,1.62,101.0,71.0
+3002580371,Padres - Dodgers,2024-10-09T01:10:00Z,False,padres-dodgers-m3002580371,26,3235860287,Vencedor do jogo,LA Dodgers,2,2.15,301.0,29.0
+3002580371,Padres - Dodgers,2024-10-09T01:10:00Z,False,padres-dodgers-m3002580371,26,3235860287,Vencedor do jogo,,,,,
+3002580371,Padres - Dodgers,2024-10-09T01:10:00Z,False,padres-dodgers-m3002580371,26,3234858480,Resultado do 1.º inning,SD Padres,1,1.62,101.0,71.0
+3002580371,Padres - Dodgers,2024-10-09T01:10:00Z,False,padres-dodgers-m3002580371,26,3234858480,Resultado do 1.º inning,LA Dodgers,2,2.15,301.0,29.0
+3002580371,Padres - Dodgers,2024-10-09T01:10:00Z,False,padres-dodgers-m3002580371,26,3234858480,Resultado do 1.º inning,,,,,
