@@ -1,0 +1,25 @@
+id_x,name_x,date,isLive_x,relativeDesktopUrl,openMarketCount,id_y,name_y,name,lx,odds,line,betTrend
+3002580169,Tigers - Cleveland Guardians,2024-10-09T19:10:00Z,True,tigers-cleveland-guardians-m3002580169,5,3235967576.0,Vencedor do jogo,Tigers,1,1.15,101.0,
+3002580169,Tigers - Cleveland Guardians,2024-10-09T19:10:00Z,True,tigers-cleveland-guardians-m3002580169,5,3235967576.0,Vencedor do jogo,Cleveland Guardians,2,4.75,301.0,
+3002580169,Tigers - Cleveland Guardians,2024-10-09T19:10:00Z,True,tigers-cleveland-guardians-m3002580169,5,3235967576.0,Vencedor do jogo,,,,,
+3002580169,Tigers - Cleveland Guardians,2024-10-09T19:10:00Z,True,tigers-cleveland-guardians-m3002580169,5,,,Tigers,1,1.15,101.0,
+3002580169,Tigers - Cleveland Guardians,2024-10-09T19:10:00Z,True,tigers-cleveland-guardians-m3002580169,5,,,Cleveland Guardians,2,4.75,301.0,
+3002580169,Tigers - Cleveland Guardians,2024-10-09T19:10:00Z,True,tigers-cleveland-guardians-m3002580169,5,,,,,,,
+3002586126,Mets - Phillies,2024-10-09T21:10:00Z,False,mets-phillies-m3002586126,28,3236111065.0,Vencedor do jogo,NY Mets,1,1.72,101.0,66.0
+3002586126,Mets - Phillies,2024-10-09T21:10:00Z,False,mets-phillies-m3002586126,28,3236111065.0,Vencedor do jogo,PHI Phillies,2,1.9,301.0,34.0
+3002586126,Mets - Phillies,2024-10-09T21:10:00Z,False,mets-phillies-m3002586126,28,3236111065.0,Vencedor do jogo,,,,,
+3002586126,Mets - Phillies,2024-10-09T21:10:00Z,False,mets-phillies-m3002586126,28,3235849740.0,Resultado do 1.º inning,NY Mets,1,1.72,101.0,66.0
+3002586126,Mets - Phillies,2024-10-09T21:10:00Z,False,mets-phillies-m3002586126,28,3235849740.0,Resultado do 1.º inning,PHI Phillies,2,1.9,301.0,34.0
+3002586126,Mets - Phillies,2024-10-09T21:10:00Z,False,mets-phillies-m3002586126,28,3235849740.0,Resultado do 1.º inning,,,,,
+3002580230,Royals - Yankees,2024-10-09T23:10:00Z,False,royals-yankees-m3002580230,28,3235978039.0,Vencedor do jogo,KC Royals,1,1.9,101.0,28.0
+3002580230,Royals - Yankees,2024-10-09T23:10:00Z,False,royals-yankees-m3002580230,28,3235978039.0,Vencedor do jogo,NY Yankees,2,1.8,301.0,72.0
+3002580230,Royals - Yankees,2024-10-09T23:10:00Z,False,royals-yankees-m3002580230,28,3235978039.0,Vencedor do jogo,,,,,
+3002580230,Royals - Yankees,2024-10-09T23:10:00Z,False,royals-yankees-m3002580230,28,3234832261.0,Resultado do 1.º inning,KC Royals,1,1.9,101.0,28.0
+3002580230,Royals - Yankees,2024-10-09T23:10:00Z,False,royals-yankees-m3002580230,28,3234832261.0,Resultado do 1.º inning,NY Yankees,2,1.8,301.0,72.0
+3002580230,Royals - Yankees,2024-10-09T23:10:00Z,False,royals-yankees-m3002580230,28,3234832261.0,Resultado do 1.º inning,,,,,
+3002586246,Padres - Dodgers,2024-10-10T01:10:00Z,False,padres-dodgers-m3002586246,28,3236125613.0,Vencedor do jogo,SD Padres,1,1.68,101.0,69.0
+3002586246,Padres - Dodgers,2024-10-10T01:10:00Z,False,padres-dodgers-m3002586246,28,3236125613.0,Vencedor do jogo,LA Dodgers,2,2.05,301.0,31.0
+3002586246,Padres - Dodgers,2024-10-10T01:10:00Z,False,padres-dodgers-m3002586246,28,3236125613.0,Vencedor do jogo,,,,,
+3002586246,Padres - Dodgers,2024-10-10T01:10:00Z,False,padres-dodgers-m3002586246,28,3235860610.0,Resultado do 1.º inning,SD Padres,1,1.68,101.0,69.0
+3002586246,Padres - Dodgers,2024-10-10T01:10:00Z,False,padres-dodgers-m3002586246,28,3235860610.0,Resultado do 1.º inning,LA Dodgers,2,2.05,301.0,31.0
+3002586246,Padres - Dodgers,2024-10-10T01:10:00Z,False,padres-dodgers-m3002586246,28,3235860610.0,Resultado do 1.º inning,,,,,
