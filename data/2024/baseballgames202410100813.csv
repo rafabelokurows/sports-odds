@@ -1,0 +1,25 @@
+id_x,name_x,date,isLive_x,relativeDesktopUrl,openMarketCount,id_y,name_y,name,lx,odds,line,betTrend
+3002587318,Tigers - Cleveland Guardians,2024-10-10T22:10:00Z,False,tigers-cleveland-guardians-m3002587318,28,3236274681,Vencedor do jogo,DET Tigers,1,1.95,101.0,21.0
+3002587318,Tigers - Cleveland Guardians,2024-10-10T22:10:00Z,False,tigers-cleveland-guardians-m3002587318,28,3236274681,Vencedor do jogo,Cleveland Guardians,2,1.78,301.0,79.0
+3002587318,Tigers - Cleveland Guardians,2024-10-10T22:10:00Z,False,tigers-cleveland-guardians-m3002587318,28,3236274681,Vencedor do jogo,,,,,
+3002587318,Tigers - Cleveland Guardians,2024-10-10T22:10:00Z,False,tigers-cleveland-guardians-m3002587318,28,3235968389,Resultado do 1.º inning,DET Tigers,1,1.95,101.0,21.0
+3002587318,Tigers - Cleveland Guardians,2024-10-10T22:10:00Z,False,tigers-cleveland-guardians-m3002587318,28,3235968389,Resultado do 1.º inning,Cleveland Guardians,2,1.78,301.0,79.0
+3002587318,Tigers - Cleveland Guardians,2024-10-10T22:10:00Z,False,tigers-cleveland-guardians-m3002587318,28,3235968389,Resultado do 1.º inning,,,,,
+3002587550,Royals - Yankees,2024-10-11T00:10:00Z,False,royals-yankees-m3002587550,28,3236292175,Vencedor do jogo,KC Royals,1,2.2,101.0,7.0
+3002587550,Royals - Yankees,2024-10-11T00:10:00Z,False,royals-yankees-m3002587550,28,3236292175,Vencedor do jogo,NY Yankees,2,1.6,301.0,93.0
+3002587550,Royals - Yankees,2024-10-11T00:10:00Z,False,royals-yankees-m3002587550,28,3236292175,Vencedor do jogo,,,,,
+3002587550,Royals - Yankees,2024-10-11T00:10:00Z,False,royals-yankees-m3002587550,28,3235977752,Resultado do 1.º inning,KC Royals,1,2.2,101.0,7.0
+3002587550,Royals - Yankees,2024-10-11T00:10:00Z,False,royals-yankees-m3002587550,28,3235977752,Resultado do 1.º inning,NY Yankees,2,1.6,301.0,93.0
+3002587550,Royals - Yankees,2024-10-11T00:10:00Z,False,royals-yankees-m3002587550,28,3235977752,Resultado do 1.º inning,,,,,
+3002589042,LG Twins - KT Wiz,2024-10-11T09:30:00Z,False,lg-twins-kt-wiz-m3002589042,26,3236309539,Vencedor do jogo,LG Twins,1,1.82,101.0,
+3002589042,LG Twins - KT Wiz,2024-10-11T09:30:00Z,False,lg-twins-kt-wiz-m3002589042,26,3236309539,Vencedor do jogo,KT Wiz,2,1.85,301.0,
+3002589042,LG Twins - KT Wiz,2024-10-11T09:30:00Z,False,lg-twins-kt-wiz-m3002589042,26,3236309539,Vencedor do jogo,,,,,
+3002589042,LG Twins - KT Wiz,2024-10-11T09:30:00Z,False,lg-twins-kt-wiz-m3002589042,26,3236163137,Resultado do 1.º inning,LG Twins,1,1.82,101.0,
+3002589042,LG Twins - KT Wiz,2024-10-11T09:30:00Z,False,lg-twins-kt-wiz-m3002589042,26,3236163137,Resultado do 1.º inning,KT Wiz,2,1.85,301.0,
+3002589042,LG Twins - KT Wiz,2024-10-11T09:30:00Z,False,lg-twins-kt-wiz-m3002589042,26,3236163137,Resultado do 1.º inning,,,,,
+3002590195,Dodgers - Padres,2024-10-12T00:10:00Z,False,dodgers-padres-m3002590195,28,3236302463,Vencedor do jogo,LA Dodgers,1,1.68,101.0,
+3002590195,Dodgers - Padres,2024-10-12T00:10:00Z,False,dodgers-padres-m3002590195,28,3236302463,Vencedor do jogo,SD Padres,2,2.05,301.0,
+3002590195,Dodgers - Padres,2024-10-12T00:10:00Z,False,dodgers-padres-m3002590195,28,3236302463,Vencedor do jogo,,,,,
+3002590195,Dodgers - Padres,2024-10-12T00:10:00Z,False,dodgers-padres-m3002590195,28,3236301560,Resultado do 1.º inning,LA Dodgers,1,1.68,101.0,
+3002590195,Dodgers - Padres,2024-10-12T00:10:00Z,False,dodgers-padres-m3002590195,28,3236301560,Resultado do 1.º inning,SD Padres,2,2.05,301.0,
+3002590195,Dodgers - Padres,2024-10-12T00:10:00Z,False,dodgers-padres-m3002590195,28,3236301560,Resultado do 1.º inning,,,,,
