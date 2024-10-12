@@ -1,0 +1,19 @@
+id_x,name_x,date,isLive_x,relativeDesktopUrl,openMarketCount,id_y,name_y,name,lx,odds,line,betTrend
+3002582263,Hanshin Tigers - Yokohama BayStars,2024-10-12T05:00:00Z,True,hanshin-tigers-yokohama-baystars-m3002582263,1,3236508250.0,Vencedor do jogo,Hanshin Tigers,1,11.5,101.0,
+3002582263,Hanshin Tigers - Yokohama BayStars,2024-10-12T05:00:00Z,True,hanshin-tigers-yokohama-baystars-m3002582263,1,3236508250.0,Vencedor do jogo,Yokohama BayStars,2,1.01,301.0,
+3002582263,Hanshin Tigers - Yokohama BayStars,2024-10-12T05:00:00Z,True,hanshin-tigers-yokohama-baystars-m3002582263,1,3236508250.0,Vencedor do jogo,,,,,
+3002582263,Hanshin Tigers - Yokohama BayStars,2024-10-12T05:00:00Z,True,hanshin-tigers-yokohama-baystars-m3002582263,1,,,Hanshin Tigers,1,11.5,101.0,
+3002582263,Hanshin Tigers - Yokohama BayStars,2024-10-12T05:00:00Z,True,hanshin-tigers-yokohama-baystars-m3002582263,1,,,Yokohama BayStars,2,1.01,301.0,
+3002582263,Hanshin Tigers - Yokohama BayStars,2024-10-12T05:00:00Z,True,hanshin-tigers-yokohama-baystars-m3002582263,1,,,,,,,
+3002591779,Cleveland Guardians - Tigers,2024-10-12T17:10:00Z,False,cleveland-guardians-tigers-m3002591779,28,3236442247.0,Vencedor do jogo,Cleveland Guardians,1,1.9,101.0,63.0
+3002591779,Cleveland Guardians - Tigers,2024-10-12T17:10:00Z,False,cleveland-guardians-tigers-m3002591779,28,3236442247.0,Vencedor do jogo,DET Tigers,2,1.78,301.0,37.0
+3002591779,Cleveland Guardians - Tigers,2024-10-12T17:10:00Z,False,cleveland-guardians-tigers-m3002591779,28,3236442247.0,Vencedor do jogo,,,,,
+3002591779,Cleveland Guardians - Tigers,2024-10-12T17:10:00Z,False,cleveland-guardians-tigers-m3002591779,28,3236441599.0,Resultado do 1.º inning,Cleveland Guardians,1,1.9,101.0,63.0
+3002591779,Cleveland Guardians - Tigers,2024-10-12T17:10:00Z,False,cleveland-guardians-tigers-m3002591779,28,3236441599.0,Resultado do 1.º inning,DET Tigers,2,1.78,301.0,37.0
+3002591779,Cleveland Guardians - Tigers,2024-10-12T17:10:00Z,False,cleveland-guardians-tigers-m3002591779,28,3236441599.0,Resultado do 1.º inning,,,,,
+3002593592,Dodgers - Mets,2024-10-14T00:15:00Z,False,dodgers-mets-m3002593592,28,3236634718.0,Vencedor do jogo,LA Dodgers,1,1.55,101.0,100.0
+3002593592,Dodgers - Mets,2024-10-14T00:15:00Z,False,dodgers-mets-m3002593592,28,3236634718.0,Vencedor do jogo,NY Mets,2,2.3,301.0,0.0
+3002593592,Dodgers - Mets,2024-10-14T00:15:00Z,False,dodgers-mets-m3002593592,28,3236634718.0,Vencedor do jogo,,,,,
+3002593592,Dodgers - Mets,2024-10-14T00:15:00Z,False,dodgers-mets-m3002593592,28,3236634435.0,Resultado do 1.º inning,LA Dodgers,1,1.55,101.0,100.0
+3002593592,Dodgers - Mets,2024-10-14T00:15:00Z,False,dodgers-mets-m3002593592,28,3236634435.0,Resultado do 1.º inning,NY Mets,2,2.3,301.0,0.0
+3002593592,Dodgers - Mets,2024-10-14T00:15:00Z,False,dodgers-mets-m3002593592,28,3236634435.0,Resultado do 1.º inning,,,,,
