@@ -1,0 +1,34 @@
+gameid,date,home,away,competition,name,odds,is_cashoutable
+3002593592,2024-10-14T00:15:00Z,LA Dodgers,NY Mets,EUA - MLB,Acima de 6.5,1.42,False
+3002593592,2024-10-14T00:15:00Z,LA Dodgers,NY Mets,EUA - MLB,Abaixo de 6.5,2.65,False
+3002593592,2024-10-14T00:15:00Z,LA Dodgers,NY Mets,EUA - MLB,Acima de 7.5,1.7,False
+3002593592,2024-10-14T00:15:00Z,LA Dodgers,NY Mets,EUA - MLB,Abaixo de 7.5,2.05,False
+3002593592,2024-10-14T00:15:00Z,LA Dodgers,NY Mets,EUA - MLB,Acima de 8.5,1.95,False
+3002593592,2024-10-14T00:15:00Z,LA Dodgers,NY Mets,EUA - MLB,Abaixo de 8.5,1.75,False
+3002593592,2024-10-14T00:15:00Z,LA Dodgers,NY Mets,EUA - MLB,Acima de 9.5,2.45,False
+3002593592,2024-10-14T00:15:00Z,LA Dodgers,NY Mets,EUA - MLB,Abaixo de 9.5,1.48,False
+3002593592,2024-10-14T00:15:00Z,LA Dodgers,NY Mets,EUA - MLB,Acima de 10.5,2.95,False
+3002593592,2024-10-14T00:15:00Z,LA Dodgers,NY Mets,EUA - MLB,Abaixo de 10.5,1.35,False
+3002595514,2024-10-14T05:00:00Z,Hokkaido Nippon Ham Fighters,Chiba Lotte Marines,Japão - NPB,Acima de 3.5,1.25,False
+3002595514,2024-10-14T05:00:00Z,Hokkaido Nippon Ham Fighters,Chiba Lotte Marines,Japão - NPB,Abaixo de 3.5,3.4,False
+3002595514,2024-10-14T05:00:00Z,Hokkaido Nippon Ham Fighters,Chiba Lotte Marines,Japão - NPB,Acima de 4.5,1.4,False
+3002595514,2024-10-14T05:00:00Z,Hokkaido Nippon Ham Fighters,Chiba Lotte Marines,Japão - NPB,Abaixo de 4.5,2.65,False
+3002595514,2024-10-14T05:00:00Z,Hokkaido Nippon Ham Fighters,Chiba Lotte Marines,Japão - NPB,Acima de 5.5,1.78,False
+3002595514,2024-10-14T05:00:00Z,Hokkaido Nippon Ham Fighters,Chiba Lotte Marines,Japão - NPB,Abaixo de 5.5,1.9,False
+3002595514,2024-10-14T05:00:00Z,Hokkaido Nippon Ham Fighters,Chiba Lotte Marines,Japão - NPB,Acima de 6.5,2.1,False
+3002595514,2024-10-14T05:00:00Z,Hokkaido Nippon Ham Fighters,Chiba Lotte Marines,Japão - NPB,Abaixo de 6.5,1.65,False
+3002595514,2024-10-14T05:00:00Z,Hokkaido Nippon Ham Fighters,Chiba Lotte Marines,Japão - NPB,Acima de 7.5,2.75,False
+3002595514,2024-10-14T05:00:00Z,Hokkaido Nippon Ham Fighters,Chiba Lotte Marines,Japão - NPB,Abaixo de 7.5,1.38,False
+3002592439,2024-10-14T09:30:00Z,Samsung Lions,LG Twins,Coreia do Sul - KBO,Samsung Lions,2.0,False
+3002592439,2024-10-14T09:30:00Z,Samsung Lions,LG Twins,Coreia do Sul - KBO,Empate,9.25,False
+3002592439,2024-10-14T09:30:00Z,Samsung Lions,LG Twins,Coreia do Sul - KBO,LG Twins,1.82,False
+3002594832,2024-10-14T23:40:00Z,NY Yankees,Cleveland Guardians,EUA - MLB,Acima de 5.5,1.38,False
+3002594832,2024-10-14T23:40:00Z,NY Yankees,Cleveland Guardians,EUA - MLB,Abaixo de 5.5,2.85,False
+3002594832,2024-10-14T23:40:00Z,NY Yankees,Cleveland Guardians,EUA - MLB,Acima de 6.5,1.55,False
+3002594832,2024-10-14T23:40:00Z,NY Yankees,Cleveland Guardians,EUA - MLB,Abaixo de 6.5,2.35,False
+3002594832,2024-10-14T23:40:00Z,NY Yankees,Cleveland Guardians,EUA - MLB,Acima de 7.5,1.88,False
+3002594832,2024-10-14T23:40:00Z,NY Yankees,Cleveland Guardians,EUA - MLB,Abaixo de 7.5,1.82,False
+3002594832,2024-10-14T23:40:00Z,NY Yankees,Cleveland Guardians,EUA - MLB,Acima de 8.5,2.2,False
+3002594832,2024-10-14T23:40:00Z,NY Yankees,Cleveland Guardians,EUA - MLB,Abaixo de 8.5,1.6,False
+3002594832,2024-10-14T23:40:00Z,NY Yankees,Cleveland Guardians,EUA - MLB,Acima de 9.5,2.8,False
+3002594832,2024-10-14T23:40:00Z,NY Yankees,Cleveland Guardians,EUA - MLB,Abaixo de 9.5,1.38,False
