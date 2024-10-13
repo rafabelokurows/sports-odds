@@ -1,0 +1,17 @@
+id_x,name_x,date,isLive_x,relativeDesktopUrl,openMarketCount,id_y,name_y,name,lx,odds,line,betTrend
+3002418652,Saints - Buccaneers,2024-10-13T17:00:00Z,True,saints-buccaneers-m3002418652,0,3234628633,Vencedor,Saints,1,12.5,101,
+3002418652,Saints - Buccaneers,2024-10-13T17:00:00Z,True,saints-buccaneers-m3002418652,0,3234628633,Vencedor,Buccaneers,2,1.0,301,
+3002418740,Raiders - Steelers,2024-10-13T20:05:00Z,True,raiders-steelers-m3002418740,1,3234627699,Vencedor,Raiders,1,2.65,101,
+3002418740,Raiders - Steelers,2024-10-13T20:05:00Z,True,raiders-steelers-m3002418740,1,3234627699,Vencedor,Steelers,2,1.42,301,
+3002418741,Broncos - Chargers,2024-10-13T20:05:00Z,True,broncos-chargers-m3002418741,1,3234628614,Vencedor,Broncos,1,3.05,101,
+3002418741,Broncos - Chargers,2024-10-13T20:05:00Z,True,broncos-chargers-m3002418741,1,3234628614,Vencedor,Chargers,2,1.33,301,
+3002418738,Panthers - Falcons,2024-10-13T20:25:00Z,False,panthers-falcons-m3002418738,156,3234628311,Vencedor,CAR Panthers,1,2.8,101,2.0
+3002418738,Panthers - Falcons,2024-10-13T20:25:00Z,False,panthers-falcons-m3002418738,156,3234628311,Vencedor,ATL Falcons,2,1.35,301,98.0
+3002418739,Cowboys - Lions,2024-10-13T20:25:00Z,False,cowboys-lions-m3002418739,160,3234626807,Vencedor,DAL Cowboys,1,2.4,101,16.0
+3002418739,Cowboys - Lions,2024-10-13T20:25:00Z,False,cowboys-lions-m3002418739,160,3234626807,Vencedor,DET Lions,2,1.45,301,84.0
+3002418852,Giants - Bengals,2024-10-14T00:20:00Z,False,giants-bengals-m3002418852,160,3234627588,Vencedor,NY Giants,1,2.45,101,6.0
+3002418852,Giants - Bengals,2024-10-14T00:20:00Z,False,giants-bengals-m3002418852,160,3234627588,Vencedor,CIN Bengals,2,1.48,301,94.0
+3002586839,Montreal Alouettes - Ottawa RedBlacks,2024-10-14T17:00:00Z,False,montreal-alouettes-ottawa-redblacks-m3002586839,66,3235927496,Vencedor,Montreal Alouettes,1,1.45,101,99.0
+3002586839,Montreal Alouettes - Ottawa RedBlacks,2024-10-14T17:00:00Z,False,montreal-alouettes-ottawa-redblacks-m3002586839,66,3235927496,Vencedor,Ottawa RedBlacks,2,2.6,301,1.0
+3002419985,Jets - Bills,2024-10-15T00:15:00Z,False,jets-bills-m3002419985,160,3234626733,Vencedor,NY Jets,1,2.0,101,19.0
+3002419985,Jets - Bills,2024-10-15T00:15:00Z,False,jets-bills-m3002419985,160,3234626733,Vencedor,BUF Bills,2,1.72,301,81.0
