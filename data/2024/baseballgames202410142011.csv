@@ -1,0 +1,13 @@
+id_x,name_x,date,isLive_x,relativeDesktopUrl,openMarketCount,id_y,name_y,name,lx,odds,line,betTrend
+3002593593,Dodgers - Mets,2024-10-14T20:10:00Z,True,dodgers-mets-m3002593593,6,3237163398,Vencedor do jogo,Dodgers,1,1.57,101.0,
+3002593593,Dodgers - Mets,2024-10-14T20:10:00Z,True,dodgers-mets-m3002593593,6,3237163398,Vencedor do jogo,Mets,2,2.25,301.0,
+3002593593,Dodgers - Mets,2024-10-14T20:10:00Z,True,dodgers-mets-m3002593593,6,3237163398,Vencedor do jogo,,,,,
+3002593593,Dodgers - Mets,2024-10-14T20:10:00Z,True,dodgers-mets-m3002593593,6,3236634465,Resultado do 1.º inning,Dodgers,1,1.57,101.0,
+3002593593,Dodgers - Mets,2024-10-14T20:10:00Z,True,dodgers-mets-m3002593593,6,3236634465,Resultado do 1.º inning,Mets,2,2.25,301.0,
+3002593593,Dodgers - Mets,2024-10-14T20:10:00Z,True,dodgers-mets-m3002593593,6,3236634465,Resultado do 1.º inning,,,,,
+3002594832,Yankees - Cleveland Guardians,2024-10-14T23:40:00Z,False,yankees-cleveland-guardians-m3002594832,28,3236899155,Vencedor do jogo,NY Yankees,1,1.55,101.0,98.0
+3002594832,Yankees - Cleveland Guardians,2024-10-14T23:40:00Z,False,yankees-cleveland-guardians-m3002594832,28,3236899155,Vencedor do jogo,Cleveland Guardians,2,2.3,301.0,2.0
+3002594832,Yankees - Cleveland Guardians,2024-10-14T23:40:00Z,False,yankees-cleveland-guardians-m3002594832,28,3236899155,Vencedor do jogo,,,,,
+3002594832,Yankees - Cleveland Guardians,2024-10-14T23:40:00Z,False,yankees-cleveland-guardians-m3002594832,28,3236898079,Resultado do 1.º inning,NY Yankees,1,1.55,101.0,98.0
+3002594832,Yankees - Cleveland Guardians,2024-10-14T23:40:00Z,False,yankees-cleveland-guardians-m3002594832,28,3236898079,Resultado do 1.º inning,Cleveland Guardians,2,2.3,301.0,2.0
+3002594832,Yankees - Cleveland Guardians,2024-10-14T23:40:00Z,False,yankees-cleveland-guardians-m3002594832,28,3236898079,Resultado do 1.º inning,,,,,
