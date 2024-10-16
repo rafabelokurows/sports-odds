@@ -1,0 +1,31 @@
+id_x,name_x,date,isLive_x,relativeDesktopUrl,openMarketCount,id_y,name_y,name,lx,odds,line,betTrend
+3002593595,Mets - Dodgers,2024-10-17T00:10:00Z,False,mets-dodgers-m3002593595,28,3237288375,Vencedor do jogo,NY Mets,1,1.88,101.0,31.0
+3002593595,Mets - Dodgers,2024-10-17T00:10:00Z,False,mets-dodgers-m3002593595,28,3237288375,Vencedor do jogo,LA Dodgers,2,1.82,301.0,69.0
+3002593595,Mets - Dodgers,2024-10-17T00:10:00Z,False,mets-dodgers-m3002593595,28,3237288375,Vencedor do jogo,,,,,
+3002593595,Mets - Dodgers,2024-10-17T00:10:00Z,False,mets-dodgers-m3002593595,28,3236634525,Resultado do 1.º inning,NY Mets,1,1.88,101.0,31.0
+3002593595,Mets - Dodgers,2024-10-17T00:10:00Z,False,mets-dodgers-m3002593595,28,3236634525,Resultado do 1.º inning,LA Dodgers,2,1.82,301.0,69.0
+3002593595,Mets - Dodgers,2024-10-17T00:10:00Z,False,mets-dodgers-m3002593595,28,3236634525,Resultado do 1.º inning,,,,,
+3002595534,Yomiuri Giants - Yokohama BayStars,2024-10-17T09:00:00Z,False,yomiuri-giants-yokohama-baystars-m3002595534,26,3237545487,Vencedor do jogo,Yomiuri Giants,1,1.55,101.0,100.0
+3002595534,Yomiuri Giants - Yokohama BayStars,2024-10-17T09:00:00Z,False,yomiuri-giants-yokohama-baystars-m3002595534,26,3237545487,Vencedor do jogo,Yokohama BayStars,2,2.25,301.0,0.0
+3002595534,Yomiuri Giants - Yokohama BayStars,2024-10-17T09:00:00Z,False,yomiuri-giants-yokohama-baystars-m3002595534,26,3237545487,Vencedor do jogo,,,,,
+3002595534,Yomiuri Giants - Yokohama BayStars,2024-10-17T09:00:00Z,False,yomiuri-giants-yokohama-baystars-m3002595534,26,3237066943,Resultado do 1.º inning,Yomiuri Giants,1,1.55,101.0,100.0
+3002595534,Yomiuri Giants - Yokohama BayStars,2024-10-17T09:00:00Z,False,yomiuri-giants-yokohama-baystars-m3002595534,26,3237066943,Resultado do 1.º inning,Yokohama BayStars,2,2.25,301.0,0.0
+3002595534,Yomiuri Giants - Yokohama BayStars,2024-10-17T09:00:00Z,False,yomiuri-giants-yokohama-baystars-m3002595534,26,3237066943,Resultado do 1.º inning,,,,,
+3002597260,Fukuoka SoftBank Hawks - Hokkaido Nippon Ham Fighters,2024-10-17T09:00:00Z,False,fukuoka-softbank-hawks-hokkaido-nippon-ham-fighters-m3002597260,26,3237545486,Vencedor do jogo,Fukuoka SoftBank Hawks,1,1.5,101.0,91.0
+3002597260,Fukuoka SoftBank Hawks - Hokkaido Nippon Ham Fighters,2024-10-17T09:00:00Z,False,fukuoka-softbank-hawks-hokkaido-nippon-ham-fighters-m3002597260,26,3237545486,Vencedor do jogo,Hokkaido Nippon Ham Fighters,2,2.35,301.0,9.0
+3002597260,Fukuoka SoftBank Hawks - Hokkaido Nippon Ham Fighters,2024-10-17T09:00:00Z,False,fukuoka-softbank-hawks-hokkaido-nippon-ham-fighters-m3002597260,26,3237545486,Vencedor do jogo,,,,,
+3002597260,Fukuoka SoftBank Hawks - Hokkaido Nippon Ham Fighters,2024-10-17T09:00:00Z,False,fukuoka-softbank-hawks-hokkaido-nippon-ham-fighters-m3002597260,26,3237208805,Resultado do 1.º inning,Fukuoka SoftBank Hawks,1,1.5,101.0,91.0
+3002597260,Fukuoka SoftBank Hawks - Hokkaido Nippon Ham Fighters,2024-10-17T09:00:00Z,False,fukuoka-softbank-hawks-hokkaido-nippon-ham-fighters-m3002597260,26,3237208805,Resultado do 1.º inning,Hokkaido Nippon Ham Fighters,2,2.35,301.0,9.0
+3002597260,Fukuoka SoftBank Hawks - Hokkaido Nippon Ham Fighters,2024-10-17T09:00:00Z,False,fukuoka-softbank-hawks-hokkaido-nippon-ham-fighters-m3002597260,26,3237208805,Resultado do 1.º inning,,,,,
+3002592518,LG Twins - Samsung Lions,2024-10-17T09:30:00Z,False,lg-twins-samsung-lions-m3002592518,26,3237610675,Vencedor do jogo,LG Twins,1,1.5,101.0,67.0
+3002592518,LG Twins - Samsung Lions,2024-10-17T09:30:00Z,False,lg-twins-samsung-lions-m3002592518,26,3237610675,Vencedor do jogo,Samsung Lions,2,2.35,301.0,33.0
+3002592518,LG Twins - Samsung Lions,2024-10-17T09:30:00Z,False,lg-twins-samsung-lions-m3002592518,26,3237610675,Vencedor do jogo,,,,,
+3002592518,LG Twins - Samsung Lions,2024-10-17T09:30:00Z,False,lg-twins-samsung-lions-m3002592518,26,3236511329,Resultado do 1.º inning,LG Twins,1,1.5,101.0,67.0
+3002592518,LG Twins - Samsung Lions,2024-10-17T09:30:00Z,False,lg-twins-samsung-lions-m3002592518,26,3236511329,Resultado do 1.º inning,Samsung Lions,2,2.35,301.0,33.0
+3002592518,LG Twins - Samsung Lions,2024-10-17T09:30:00Z,False,lg-twins-samsung-lions-m3002592518,26,3236511329,Resultado do 1.º inning,,,,,
+3002594830,Cleveland Guardians - Yankees,2024-10-17T21:10:00Z,False,cleveland-guardians-yankees-m3002594830,28,3237471720,Vencedor do jogo,Cleveland Guardians,1,1.9,101.0,15.0
+3002594830,Cleveland Guardians - Yankees,2024-10-17T21:10:00Z,False,cleveland-guardians-yankees-m3002594830,28,3237471720,Vencedor do jogo,NY Yankees,2,1.82,301.0,85.0
+3002594830,Cleveland Guardians - Yankees,2024-10-17T21:10:00Z,False,cleveland-guardians-yankees-m3002594830,28,3237471720,Vencedor do jogo,,,,,
+3002594830,Cleveland Guardians - Yankees,2024-10-17T21:10:00Z,False,cleveland-guardians-yankees-m3002594830,28,3236898019,Resultado do 1.º inning,Cleveland Guardians,1,1.9,101.0,15.0
+3002594830,Cleveland Guardians - Yankees,2024-10-17T21:10:00Z,False,cleveland-guardians-yankees-m3002594830,28,3236898019,Resultado do 1.º inning,NY Yankees,2,1.82,301.0,85.0
+3002594830,Cleveland Guardians - Yankees,2024-10-17T21:10:00Z,False,cleveland-guardians-yankees-m3002594830,28,3236898019,Resultado do 1.º inning,,,,,
