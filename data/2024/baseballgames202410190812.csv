@@ -1,0 +1,19 @@
+id_x,name_x,date,isLive_x,relativeDesktopUrl,openMarketCount,id_y,name_y,name,lx,odds,line,betTrend
+3002609493,Yomiuri Giants - Yokohama BayStars,2024-10-19T09:00:00Z,False,yomiuri-giants-yokohama-baystars-m3002609493,26,3237934346,Vencedor do jogo,Yomiuri Giants,1,1.72,101.0,45.0
+3002609493,Yomiuri Giants - Yokohama BayStars,2024-10-19T09:00:00Z,False,yomiuri-giants-yokohama-baystars-m3002609493,26,3237934346,Vencedor do jogo,Yokohama BayStars,2,1.88,301.0,55.0
+3002609493,Yomiuri Giants - Yokohama BayStars,2024-10-19T09:00:00Z,False,yomiuri-giants-yokohama-baystars-m3002609493,26,3237934346,Vencedor do jogo,,,,,
+3002609493,Yomiuri Giants - Yokohama BayStars,2024-10-19T09:00:00Z,False,yomiuri-giants-yokohama-baystars-m3002609493,26,3237806100,Resultado do 1.º inning,Yomiuri Giants,1,1.72,101.0,45.0
+3002609493,Yomiuri Giants - Yokohama BayStars,2024-10-19T09:00:00Z,False,yomiuri-giants-yokohama-baystars-m3002609493,26,3237806100,Resultado do 1.º inning,Yokohama BayStars,2,1.88,301.0,55.0
+3002609493,Yomiuri Giants - Yokohama BayStars,2024-10-19T09:00:00Z,False,yomiuri-giants-yokohama-baystars-m3002609493,26,3237806100,Resultado do 1.º inning,,,,,
+3002609974,Cleveland Guardians - Yankees,2024-10-20T00:10:00Z,False,cleveland-guardians-yankees-m3002609974,28,3238109421,Vencedor do jogo,Cleveland Guardians,1,1.95,101.0,0.0
+3002609974,Cleveland Guardians - Yankees,2024-10-20T00:10:00Z,False,cleveland-guardians-yankees-m3002609974,28,3238109421,Vencedor do jogo,NY Yankees,2,1.78,301.0,100.0
+3002609974,Cleveland Guardians - Yankees,2024-10-20T00:10:00Z,False,cleveland-guardians-yankees-m3002609974,28,3238109421,Vencedor do jogo,,,,,
+3002609974,Cleveland Guardians - Yankees,2024-10-20T00:10:00Z,False,cleveland-guardians-yankees-m3002609974,28,3237848561,Resultado do 1.º inning,Cleveland Guardians,1,1.95,101.0,0.0
+3002609974,Cleveland Guardians - Yankees,2024-10-20T00:10:00Z,False,cleveland-guardians-yankees-m3002609974,28,3237848561,Resultado do 1.º inning,NY Yankees,2,1.78,301.0,100.0
+3002609974,Cleveland Guardians - Yankees,2024-10-20T00:10:00Z,False,cleveland-guardians-yankees-m3002609974,28,3237848561,Resultado do 1.º inning,,,,,
+3002612195,Dodgers - Mets,2024-10-21T00:10:00Z,False,dodgers-mets-m3002612195,28,3238095292,Vencedor do jogo,LA Dodgers,1,1.65,101.0,100.0
+3002612195,Dodgers - Mets,2024-10-21T00:10:00Z,False,dodgers-mets-m3002612195,28,3238095292,Vencedor do jogo,NY Mets,2,2.1,301.0,0.0
+3002612195,Dodgers - Mets,2024-10-21T00:10:00Z,False,dodgers-mets-m3002612195,28,3238095292,Vencedor do jogo,,,,,
+3002612195,Dodgers - Mets,2024-10-21T00:10:00Z,False,dodgers-mets-m3002612195,28,3238094240,Resultado do 1.º inning,LA Dodgers,1,1.65,101.0,100.0
+3002612195,Dodgers - Mets,2024-10-21T00:10:00Z,False,dodgers-mets-m3002612195,28,3238094240,Resultado do 1.º inning,NY Mets,2,2.1,301.0,0.0
+3002612195,Dodgers - Mets,2024-10-21T00:10:00Z,False,dodgers-mets-m3002612195,28,3238094240,Resultado do 1.º inning,,,,,
