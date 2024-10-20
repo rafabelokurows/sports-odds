@@ -1,0 +1,15 @@
+id_x,name_x,date,isLive_x,relativeDesktopUrl,openMarketCount,id_y,name_y,name,lx,odds,line,betTrend
+3002428959,Browns - Bengals,2024-10-20T17:00:00Z,True,browns-bengals-m3002428959,0,3236089508,Vencedor,Browns,1,12.5,101,
+3002428959,Browns - Bengals,2024-10-20T17:00:00Z,True,browns-bengals-m3002428959,0,3236089508,Vencedor,Bengals,2,1.0,301,
+3002429092,WAS Commanders - Panthers,2024-10-20T20:05:00Z,True,was-commanders-panthers-m3002429092,0,3236093534,Vencedor,WAS Commanders,1,1.01,101,
+3002429092,WAS Commanders - Panthers,2024-10-20T20:05:00Z,True,was-commanders-panthers-m3002429092,0,3236093534,Vencedor,Panthers,2,11.5,301,
+3002429093,LA Rams - Raiders,2024-10-20T20:05:00Z,True,la-rams-raiders-m3002429093,1,3236093171,Vencedor,LA Rams,1,1.2,101,
+3002429093,LA Rams - Raiders,2024-10-20T20:05:00Z,True,la-rams-raiders-m3002429093,1,3236093171,Vencedor,Raiders,2,4.1,301,
+3002429091,49ers - Chiefs,2024-10-20T20:25:00Z,False,49ers-chiefs-m3002429091,161,3236107068,Vencedor,SF 49ers,1,1.62,101,20.0
+3002429091,49ers - Chiefs,2024-10-20T20:25:00Z,False,49ers-chiefs-m3002429091,161,3236107068,Vencedor,KC Chiefs,2,2.05,301,80.0
+3002429191,Steelers - Jets,2024-10-21T00:20:00Z,False,steelers-jets-m3002429191,154,3236093750,Vencedor,PIT Steelers,1,2.1,101,23.0
+3002429191,Steelers - Jets,2024-10-21T00:20:00Z,False,steelers-jets-m3002429191,154,3236093750,Vencedor,NY Jets,2,1.68,301,77.0
+3002430271,Buccaneers - Ravens,2024-10-22T00:15:00Z,False,buccaneers-ravens-m3002430271,161,3236093562,Vencedor,TB Buccaneers,1,2.45,101,5.0
+3002430271,Buccaneers - Ravens,2024-10-22T00:15:00Z,False,buccaneers-ravens-m3002430271,161,3236093562,Vencedor,BAL Ravens,2,1.48,301,95.0
+3002430306,Cardinals - Chargers,2024-10-22T01:00:00Z,False,cardinals-chargers-m3002430306,162,3236093756,Vencedor,ARI Cardinals,1,1.95,101,13.0
+3002430306,Cardinals - Chargers,2024-10-22T01:00:00Z,False,cardinals-chargers-m3002430306,162,3236093756,Vencedor,LA Chargers,2,1.78,301,87.0
