@@ -1,0 +1,13 @@
+id_x,name_x,date,isLive_x,relativeDesktopUrl,openMarketCount,id_y,name_y,name,lx,odds,line,betTrend
+3002612700,KIA Tigers - Samsung Lions,2024-10-23T09:30:00Z,False,kia-tigers-samsung-lions-m3002612700,1,3239089573.0,Vencedor do jogo,KIA Tigers,1,1.5,101.0,67.0
+3002612700,KIA Tigers - Samsung Lions,2024-10-23T09:30:00Z,False,kia-tigers-samsung-lions-m3002612700,1,3239089573.0,Vencedor do jogo,Samsung Lions,2,2.35,301.0,33.0
+3002612700,KIA Tigers - Samsung Lions,2024-10-23T09:30:00Z,False,kia-tigers-samsung-lions-m3002612700,1,3239089573.0,Vencedor do jogo,,,,,
+3002612700,KIA Tigers - Samsung Lions,2024-10-23T09:30:00Z,False,kia-tigers-samsung-lions-m3002612700,1,,,KIA Tigers,1,1.5,101.0,67.0
+3002612700,KIA Tigers - Samsung Lions,2024-10-23T09:30:00Z,False,kia-tigers-samsung-lions-m3002612700,1,,,Samsung Lions,2,2.35,301.0,33.0
+3002612700,KIA Tigers - Samsung Lions,2024-10-23T09:30:00Z,False,kia-tigers-samsung-lions-m3002612700,1,,,,,,,
+3002615071,Dodgers - Yankees,2024-10-26T00:10:00Z,False,dodgers-yankees-m3002615071,28,3238843021.0,Vencedor do jogo,LA Dodgers,1,1.72,101.0,83.0
+3002615071,Dodgers - Yankees,2024-10-26T00:10:00Z,False,dodgers-yankees-m3002615071,28,3238843021.0,Vencedor do jogo,NY Yankees,2,2.0,301.0,17.0
+3002615071,Dodgers - Yankees,2024-10-26T00:10:00Z,False,dodgers-yankees-m3002615071,28,3238843021.0,Vencedor do jogo,,,,,
+3002615071,Dodgers - Yankees,2024-10-26T00:10:00Z,False,dodgers-yankees-m3002615071,28,3238842338.0,Resultado do 1.º inning,LA Dodgers,1,1.72,101.0,83.0
+3002615071,Dodgers - Yankees,2024-10-26T00:10:00Z,False,dodgers-yankees-m3002615071,28,3238842338.0,Resultado do 1.º inning,NY Yankees,2,2.0,301.0,17.0
+3002615071,Dodgers - Yankees,2024-10-26T00:10:00Z,False,dodgers-yankees-m3002615071,28,3238842338.0,Resultado do 1.º inning,,,,,
