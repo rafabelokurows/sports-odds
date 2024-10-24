@@ -1,0 +1,13 @@
+id_x,name_x,date,isLive_x,relativeDesktopUrl,openMarketCount,id_y,name_y,name,lx,odds,line,betTrend
+3002615071,Dodgers - Yankees,2024-10-26T00:10:00Z,False,dodgers-yankees-m3002615071,28,3238843021.0,Vencedor do jogo,LA Dodgers,1,1.75,101.0,80.0
+3002615071,Dodgers - Yankees,2024-10-26T00:10:00Z,False,dodgers-yankees-m3002615071,28,3238843021.0,Vencedor do jogo,NY Yankees,2,2.0,301.0,20.0
+3002615071,Dodgers - Yankees,2024-10-26T00:10:00Z,False,dodgers-yankees-m3002615071,28,3238843021.0,Vencedor do jogo,,,,,
+3002615071,Dodgers - Yankees,2024-10-26T00:10:00Z,False,dodgers-yankees-m3002615071,28,3238842338.0,Resultado do 1.º inning,LA Dodgers,1,1.75,101.0,80.0
+3002615071,Dodgers - Yankees,2024-10-26T00:10:00Z,False,dodgers-yankees-m3002615071,28,3238842338.0,Resultado do 1.º inning,NY Yankees,2,2.0,301.0,20.0
+3002615071,Dodgers - Yankees,2024-10-26T00:10:00Z,False,dodgers-yankees-m3002615071,28,3238842338.0,Resultado do 1.º inning,,,,,
+3002615478,Yokohama BayStars - Fukuoka SoftBank Hawks,2024-10-26T09:30:00Z,False,yokohama-baystars-fukuoka-softbank-hawks-m3002615478,1,3239233097.0,Vencedor do jogo,Yokohama BayStars,1,2.3,101.0,0.0
+3002615478,Yokohama BayStars - Fukuoka SoftBank Hawks,2024-10-26T09:30:00Z,False,yokohama-baystars-fukuoka-softbank-hawks-m3002615478,1,3239233097.0,Vencedor do jogo,Fukuoka SoftBank Hawks,2,1.52,301.0,100.0
+3002615478,Yokohama BayStars - Fukuoka SoftBank Hawks,2024-10-26T09:30:00Z,False,yokohama-baystars-fukuoka-softbank-hawks-m3002615478,1,3239233097.0,Vencedor do jogo,,,,,
+3002615478,Yokohama BayStars - Fukuoka SoftBank Hawks,2024-10-26T09:30:00Z,False,yokohama-baystars-fukuoka-softbank-hawks-m3002615478,1,,,Yokohama BayStars,1,2.3,101.0,0.0
+3002615478,Yokohama BayStars - Fukuoka SoftBank Hawks,2024-10-26T09:30:00Z,False,yokohama-baystars-fukuoka-softbank-hawks-m3002615478,1,,,Fukuoka SoftBank Hawks,2,1.52,301.0,100.0
+3002615478,Yokohama BayStars - Fukuoka SoftBank Hawks,2024-10-26T09:30:00Z,False,yokohama-baystars-fukuoka-softbank-hawks-m3002615478,1,,,,,,,
