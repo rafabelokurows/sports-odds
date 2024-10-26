@@ -1,0 +1,19 @@
+id_x,name_x,date,isLive_x,relativeDesktopUrl,openMarketCount,id_y,name_y,name,lx,odds,line,betTrend
+3002612741,Samsung Lions - KIA Tigers,2024-10-26T05:00:00Z,True,samsung-lions-kia-tigers-m3002612741,1,3239729523.0,Vencedor do jogo,Samsung Lions,1,12.5,101.0,
+3002612741,Samsung Lions - KIA Tigers,2024-10-26T05:00:00Z,True,samsung-lions-kia-tigers-m3002612741,1,3239729523.0,Vencedor do jogo,KIA Tigers,2,1.0,301.0,
+3002612741,Samsung Lions - KIA Tigers,2024-10-26T05:00:00Z,True,samsung-lions-kia-tigers-m3002612741,1,3239729523.0,Vencedor do jogo,,,,,
+3002612741,Samsung Lions - KIA Tigers,2024-10-26T05:00:00Z,True,samsung-lions-kia-tigers-m3002612741,1,,,Samsung Lions,1,12.5,101.0,
+3002612741,Samsung Lions - KIA Tigers,2024-10-26T05:00:00Z,True,samsung-lions-kia-tigers-m3002612741,1,,,KIA Tigers,2,1.0,301.0,
+3002612741,Samsung Lions - KIA Tigers,2024-10-26T05:00:00Z,True,samsung-lions-kia-tigers-m3002612741,1,,,,,,,
+3002615478,Yokohama BayStars - Fukuoka SoftBank Hawks,2024-10-26T09:30:00Z,False,yokohama-baystars-fukuoka-softbank-hawks-m3002615478,26,3239233097.0,Vencedor do jogo,Yokohama BayStars,1,2.4,101.0,4.0
+3002615478,Yokohama BayStars - Fukuoka SoftBank Hawks,2024-10-26T09:30:00Z,False,yokohama-baystars-fukuoka-softbank-hawks-m3002615478,26,3239233097.0,Vencedor do jogo,Fukuoka SoftBank Hawks,2,1.48,301.0,96.0
+3002615478,Yokohama BayStars - Fukuoka SoftBank Hawks,2024-10-26T09:30:00Z,False,yokohama-baystars-fukuoka-softbank-hawks-m3002615478,26,3239233097.0,Vencedor do jogo,,,,,
+3002615478,Yokohama BayStars - Fukuoka SoftBank Hawks,2024-10-26T09:30:00Z,False,yokohama-baystars-fukuoka-softbank-hawks-m3002615478,26,3238907903.0,Resultado do 1.º inning,Yokohama BayStars,1,2.4,101.0,4.0
+3002615478,Yokohama BayStars - Fukuoka SoftBank Hawks,2024-10-26T09:30:00Z,False,yokohama-baystars-fukuoka-softbank-hawks-m3002615478,26,3238907903.0,Resultado do 1.º inning,Fukuoka SoftBank Hawks,2,1.48,301.0,96.0
+3002615478,Yokohama BayStars - Fukuoka SoftBank Hawks,2024-10-26T09:30:00Z,False,yokohama-baystars-fukuoka-softbank-hawks-m3002615478,26,3238907903.0,Resultado do 1.º inning,,,,,
+3002615070,Dodgers - Yankees,2024-10-27T00:10:00Z,False,dodgers-yankees-m3002615070,28,3239887678.0,Vencedor do jogo,LA Dodgers,1,1.65,101.0,60.0
+3002615070,Dodgers - Yankees,2024-10-27T00:10:00Z,False,dodgers-yankees-m3002615070,28,3239887678.0,Vencedor do jogo,NY Yankees,2,2.1,301.0,40.0
+3002615070,Dodgers - Yankees,2024-10-27T00:10:00Z,False,dodgers-yankees-m3002615070,28,3239887678.0,Vencedor do jogo,,,,,
+3002615070,Dodgers - Yankees,2024-10-27T00:10:00Z,False,dodgers-yankees-m3002615070,28,3238842308.0,Resultado do 1.º inning,LA Dodgers,1,1.65,101.0,60.0
+3002615070,Dodgers - Yankees,2024-10-27T00:10:00Z,False,dodgers-yankees-m3002615070,28,3238842308.0,Resultado do 1.º inning,NY Yankees,2,2.1,301.0,40.0
+3002615070,Dodgers - Yankees,2024-10-27T00:10:00Z,False,dodgers-yankees-m3002615070,28,3238842308.0,Resultado do 1.º inning,,,,,
