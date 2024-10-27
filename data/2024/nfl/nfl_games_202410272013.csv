@@ -1,0 +1,19 @@
+id_x,name_x,date,isLive_x,relativeDesktopUrl,openMarketCount,id_y,name_y,name,lx,odds,line,betTrend
+3002439555,Browns - Ravens,2024-10-27T17:00:00Z,True,browns-ravens-m3002439555,0,3237444925,Vencedor,Browns,1,1.23,101,
+3002439555,Browns - Ravens,2024-10-27T17:00:00Z,True,browns-ravens-m3002439555,0,3237444925,Vencedor,Ravens,2,3.75,301,
+3002439556,Texans - Colts,2024-10-27T17:00:00Z,True,texans-colts-m3002439556,1,3237445114,Vencedor,Texans,1,1.1,101,
+3002439556,Texans - Colts,2024-10-27T17:00:00Z,True,texans-colts-m3002439556,1,3237445114,Vencedor,Colts,2,5.9,301,
+3002439617,Seahawks - Bills,2024-10-27T20:05:00Z,True,seahawks-bills-m3002439617,1,3237445439,Vencedor,Seahawks,1,2.55,101,
+3002439617,Seahawks - Bills,2024-10-27T20:05:00Z,True,seahawks-bills-m3002439617,1,3237445439,Vencedor,Bills,2,1.45,301,
+3002439619,Chargers - Saints,2024-10-27T20:05:00Z,True,chargers-saints-m3002439619,1,3237445524,Vencedor,Chargers,1,1.28,101,
+3002439619,Chargers - Saints,2024-10-27T20:05:00Z,True,chargers-saints-m3002439619,1,3237445524,Vencedor,Saints,2,3.35,301,
+3002439621,Raiders - Chiefs,2024-10-27T20:25:00Z,False,raiders-chiefs-m3002439621,160,3237445776,Vencedor,LV Raiders,1,3.9,101,0.0
+3002439621,Raiders - Chiefs,2024-10-27T20:25:00Z,False,raiders-chiefs-m3002439621,160,3237445776,Vencedor,KC Chiefs,2,1.18,301,100.0
+3002439545,WAS Commanders - Bears,2024-10-27T20:25:00Z,False,was-commanders-bears-m3002439545,161,3237445275,Vencedor,Washington Commanders,1,1.72,101,81.0
+3002439545,WAS Commanders - Bears,2024-10-27T20:25:00Z,False,was-commanders-bears-m3002439545,161,3237445275,Vencedor,CHI Bears,2,1.95,301,19.0
+3002439618,Broncos - Panthers,2024-10-27T20:25:00Z,False,broncos-panthers-m3002439618,149,3237445782,Vencedor,DEN Broncos,1,1.07,101,100.0
+3002439618,Broncos - Panthers,2024-10-27T20:25:00Z,False,broncos-panthers-m3002439618,149,3237445782,Vencedor,CAR Panthers,2,6.0,301,0.0
+3002439694,49ers - Cowboys,2024-10-28T00:20:00Z,False,49ers-cowboys-m3002439694,161,3237445809,Vencedor,SF 49ers,1,1.38,101,97.0
+3002439694,49ers - Cowboys,2024-10-28T00:20:00Z,False,49ers-cowboys-m3002439694,161,3237445809,Vencedor,DAL Cowboys,2,2.8,301,3.0
+3002440700,Steelers - Giants,2024-10-29T00:15:00Z,False,steelers-giants-m3002440700,161,3237446084,Vencedor,PIT Steelers,1,1.35,101,99.0
+3002440700,Steelers - Giants,2024-10-29T00:15:00Z,False,steelers-giants-m3002440700,161,3237446084,Vencedor,NY Giants,2,2.95,301,1.0
