@@ -1,0 +1,19 @@
+id_x,name_x,date,isLive_x,relativeDesktopUrl,openMarketCount,id_y,name_y,name,lx,odds,line,betTrend
+3002637031,Melbourne Aces - Canberra Cavalry,2024-11-15T08:00:00Z,True,melbourne-aces-canberra-cavalry-m3002637031,0,3244466026.0,Vencedor do jogo,Melbourne Aces,1,1.35,101.0,
+3002637031,Melbourne Aces - Canberra Cavalry,2024-11-15T08:00:00Z,True,melbourne-aces-canberra-cavalry-m3002637031,0,3244466026.0,Vencedor do jogo,Canberra Cavalry,2,2.95,301.0,
+3002637031,Melbourne Aces - Canberra Cavalry,2024-11-15T08:00:00Z,True,melbourne-aces-canberra-cavalry-m3002637031,0,3244466026.0,Vencedor do jogo,,,,,
+3002637031,Melbourne Aces - Canberra Cavalry,2024-11-15T08:00:00Z,True,melbourne-aces-canberra-cavalry-m3002637031,0,3244503890.0,Resultado do 1.º inning,Melbourne Aces,1,1.35,101.0,
+3002637031,Melbourne Aces - Canberra Cavalry,2024-11-15T08:00:00Z,True,melbourne-aces-canberra-cavalry-m3002637031,0,3244503890.0,Resultado do 1.º inning,Canberra Cavalry,2,2.95,301.0,
+3002637031,Melbourne Aces - Canberra Cavalry,2024-11-15T08:00:00Z,True,melbourne-aces-canberra-cavalry-m3002637031,0,3244503890.0,Resultado do 1.º inning,,,,,
+3002637032,Sydney Blue Sox - Adelaide Bite,2024-11-15T08:30:00Z,False,sydney-blue-sox-adelaide-bite-m3002637032,2,3244466027.0,Vencedor do jogo,Sydney Blue Sox,1,3.3,101.0,1.0
+3002637032,Sydney Blue Sox - Adelaide Bite,2024-11-15T08:30:00Z,False,sydney-blue-sox-adelaide-bite-m3002637032,2,3244466027.0,Vencedor do jogo,Adelaide Bite,2,1.24,301.0,99.0
+3002637032,Sydney Blue Sox - Adelaide Bite,2024-11-15T08:30:00Z,False,sydney-blue-sox-adelaide-bite-m3002637032,2,3244466027.0,Vencedor do jogo,,,,,
+3002637032,Sydney Blue Sox - Adelaide Bite,2024-11-15T08:30:00Z,False,sydney-blue-sox-adelaide-bite-m3002637032,2,,,Sydney Blue Sox,1,3.3,101.0,1.0
+3002637032,Sydney Blue Sox - Adelaide Bite,2024-11-15T08:30:00Z,False,sydney-blue-sox-adelaide-bite-m3002637032,2,,,Adelaide Bite,2,1.24,301.0,99.0
+3002637032,Sydney Blue Sox - Adelaide Bite,2024-11-15T08:30:00Z,False,sydney-blue-sox-adelaide-bite-m3002637032,2,,,,,,,
+3002639085,Perth Heat - Brisbane Bandits,2024-11-15T11:00:00Z,False,perth-heat-brisbane-bandits-m3002639085,2,3244466030.0,Vencedor do jogo,Perth Heat,1,1.75,101.0,91.0
+3002639085,Perth Heat - Brisbane Bandits,2024-11-15T11:00:00Z,False,perth-heat-brisbane-bandits-m3002639085,2,3244466030.0,Vencedor do jogo,Brisbane Bandits,2,1.95,301.0,9.0
+3002639085,Perth Heat - Brisbane Bandits,2024-11-15T11:00:00Z,False,perth-heat-brisbane-bandits-m3002639085,2,3244466030.0,Vencedor do jogo,,,,,
+3002639085,Perth Heat - Brisbane Bandits,2024-11-15T11:00:00Z,False,perth-heat-brisbane-bandits-m3002639085,2,,,Perth Heat,1,1.75,101.0,91.0
+3002639085,Perth Heat - Brisbane Bandits,2024-11-15T11:00:00Z,False,perth-heat-brisbane-bandits-m3002639085,2,,,Brisbane Bandits,2,1.95,301.0,9.0
+3002639085,Perth Heat - Brisbane Bandits,2024-11-15T11:00:00Z,False,perth-heat-brisbane-bandits-m3002639085,2,,,,,,,
