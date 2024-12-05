@@ -1,5 +1,9 @@
 # Scraping sports (NFL and MLB) odds from sportsbook
 
+Update 2024-12-05: It was good while it lasted. Betclic has changed their API, so I'm not able to scrape their odds (at least for the moment).
+I've started an exploration.py script to see if I could get around their new validations. Let's see how that evolves.
+New Security Validations: Cloudfront
+
 Update 2024-09-08: I renamed the repository as I've just added a scraper for NFL game odds to go with the one for MLB games that was already in place. 
 
 **Short-term Goal**: analyzing how the moneyline and odds move over time for a certain game  
